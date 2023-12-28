@@ -1,0 +1,88 @@
+[
+    {
+        "1": "1 : The third shell of an atom can have a maximum of ______ electrons?",
+        "2": "2 : Which of the following kinds of spectroscopy can provide information on the energy difference between the initial and final states rather the energy levels involved in the transition?",
+        "3": "3 : The product, 9-nitroanthracene is obtained from anthracene by the action of",
+        "4": "4 : Which of the following electrodes is used in strongly alkaline solution",
+        "5": "5 : Which of the following partial miscible liquid pairs has both lower and upper critical solution temperature",
+        "6": "6 : Which of the following methods is used in determining the number average molar mass of a macromolecule",
+        "7": "7 : Which one of the following species has the highest bond order, shortest bond length and maximum bond strength",
+        "8": "8 : The transuranium elements are the chemical elements with atomic numbers greater than",
+        "9": "9 : Periodic table contains how many periods",
+        "10": "10: Periodic table contains how many groups"
+    },
+    {
+        "1": {
+            "a": "13",
+            "b": "15",
+            "c": "18",
+            "d": "21"
+        },
+        "2": {
+            "a": "UV absorption spectroscopy",
+            "b": "UV photoelectron spectroscopy",
+            "c": "Infrared absorption spectroscopy",
+            "d": "Rotational spectroscopy"
+        },
+        "3": {
+            "a": "Nitric acid and acetic anhydride",
+            "b": "Nitric acid and ethyl alcohol",
+            "c": "Nitric acid and acetic acid",
+            "d": "Nitric acid in excess"
+        },
+        "4": {
+            "a": "Mercury - mercuric oxide electrode",
+            "b": "Mercury - mercurous sulphate electrode",
+            "c": "Mercury - mercurous chloride electrode",
+            "d": "Silver - silver chloride electrode"
+        },
+        "5": {
+            "a": "Water and Phenol",
+            "b": "Aniline and n-hexane",
+            "c": "Glycerine and m-toluene",
+            "d": "Water and diethyl aniline"
+        },
+        "6": {
+            "a": "Viscosity",
+            "b": "Osmotic pressure",
+            "c": "Sedimentation equilibrium",
+            "d": "Light scattering"
+        },
+        "7": {
+            "a": "O2",
+            "b": "O+",
+            "c": "O2",
+            "d": "O-22"
+        },
+        "8": {
+            "a": "86",
+            "b": "89",
+            "c": "92",
+            "d": "96"
+        },
+        "9": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "10"
+        },
+        "10": {
+            "a": "16",
+            "b": "17",
+            "c": "18",
+            "d": "19"
+        }
+    },
+    {
+        "1": "18",
+        "2": "UV photoelectron spectroscopy",
+        "3": "Nitric acid and acetic anhydride",
+        "4": "Mercury - mercuric oxide electrode",
+        "5": "Glycerine and m-toluene",
+        "6": "Osmotic pressure",
+        "7": "O+",
+        "8": "92",
+        "9": "7",
+        "10": "18"
+    }
+]

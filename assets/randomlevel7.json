@@ -1,0 +1,107 @@
+[
+    
+    {
+      
+           "1": "1 : What is the chemical name of Baking Soda..?",
+
+"2": "2 : Milk lacks in one important nutrient; which..?",
+
+"3": "3 : Ripening of fruits is hastened by which of the following gases..?",
+"4": "4 : THE SYMBOL ( Pu )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( Am )  STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Cm )  STAND FOR..?",
+            "7": "7 :THE CHEMICAL FORMULA OF ( Carbon monoxide ) IS..?",
+
+"8": "8 :THE CHEMICAL FORMULA OF ( Ammonium chloride ) IS..?",
+
+"9": "9 :THE CHEMICAL FORMULA OF ( Chlorine gas ) IS..?",
+"10":"10: Carbonated drinks are examples of..?"
+          
+  
+        },
+    {
+          "1" :{
+  "a" : "Sodium bicarbonate",
+  "b" : "Sodium Nitrate",
+  "c" : "Sodium Carbonate",
+  "d" : "Potassium"
+},
+"2":{
+  "a" : "Calcium",
+  "b" : "Potassium",
+  "c" : "Iron",
+  "d" : "Protein"
+},
+"3":{
+  "a" : "Carbon dioxide ",
+  "b" : "Ethylene",
+  "c" : "Hydrogen",
+  "d" : "Methane"
+},
+          
+          "4":{
+              "a" : "Plutonium",
+              "b" : "Neptunium",
+              "c" : "Polonium",
+              "d" : "Platinum"
+          },
+          "5":{
+            "a" : "Argon",
+            "b" : "Arsenic",
+            "c" : "Actinium",
+            "d" : "Americium"
+        },
+        "6":{
+            "a" : "Copernicium",
+            "b" : "Coper",
+            "c" : "Curium",
+            "d" : "Chlorine"
+        },
+         "7":{
+  "a" : "CO",
+  "b" : "CO<sub>3</sub>",
+  "c" : "CO<SUB>2</SUB>",
+  "d" : "COH"
+},
+"8":{
+  "a" : "NHCl",
+  "b" : "NHCl<sub>4</sub>",
+  "c" : "NH<sub>3</sub>Cl",
+  "d" : "NH<sub>4</sub>Cl"
+},
+"9":{
+  "a" : "Cl<sub>3</sub>",
+  "b" : "Cl<sub>2</sub>",
+  "c" : "Cl",
+  "d" : "Cl<sub>4</sub>"
+},                    
+"10":{
+"a" : "Gas in gas ",
+"b" : "Gas in water",
+"c" : "Gos in solid",
+"d" : "Solid in liquid"
+}
+        
+    },
+    {
+         "1" : "Sodium bicarbonate",
+
+"2" : "Potassium",
+
+"3" : "Methane",
+"4" : "Plutonium",
+        "5" : "Americium",
+        "6" : "Curium",
+          "7" : "CO",
+
+"8" : "NH<sub>4</sub>Cl",
+
+"9" : "Cl<sub>2</sub>",
+"10" : "Gas in water"
+
+        
+        
+    }
+
+]
+

@@ -1,0 +1,96 @@
+
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Pm )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Sm )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Eu )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( Gd )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( Dy) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Ho )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Er )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( La )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Tm )  STAND FOR..?",
+          "10":"10: THE SYMBOL ( Yb )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Promethium",
+              "b" : "Praseodymium",
+              "c" : "Palladium",
+              "d" : "Promethium"
+          },
+          "2":{
+              "a" : "Silver",
+              "b" : "Samarium",
+              "c" : "Caesium",
+              "d" : "Strontium"
+
+          },
+          "3":{
+              "a" : "Uranium",
+              "b" : "Einsteinium",
+              "c" : "Europium",
+              "d" : "Germanium"
+          },
+          "4":{
+              "a" : "Gadolinium",
+              "b" : "Palladium",
+              "c" : "Germanium",
+              "d" : "Gallium"
+          },
+          "5":{
+            "a" : "Gold",
+            "b" : "Iridium",
+            "c" : "Gadolinium",
+            "d" : "Dysprosium"
+        },
+        "6":{
+            "a" : "Hassium",
+            "b" : "Helium",
+            "c" : "Holmium",
+            "d" : "Hydrogen"
+        },
+        "7":{
+            "a" : "Europium",
+            "b" : "Erbium",
+            "c" : "Einsteinium",
+            "d" : "Iron"
+        },
+        "8":{
+            "a" : "Actinium",
+            "b" : "Lanthanum",
+            "c" : "Thallium",
+            "d" : "Thorium"
+        },
+        "9":{
+            "a" : "Thulium",
+            "b" : "Thallium",
+            "c" : "Tantalum",
+            "d" : "Thorium"
+        },
+        "10":{
+            "a" : "Ytterbium",
+            "b" : "Actinium",
+            "c" : "Krypton",
+            "d" : "Yttrium"
+        }
+        
+    },
+    {
+        "1" : "Promethium",
+        "2" : "Samarium",
+        "3" : "Europium",
+        "4" : "Gadolinium",
+        "5" : "Dysprosium",
+        "6" : "Holmium",
+        "7" : "Erbium",
+        "8" : "Lanthanum",
+        "9" : "Thulium",
+        "10" : "Ytterbium"
+        
+    }
+
+]

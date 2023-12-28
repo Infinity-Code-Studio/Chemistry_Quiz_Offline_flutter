@@ -1,0 +1,96 @@
+            
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Lu )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Hf )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Ta )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( Au )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( W ) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Re )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Os )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Ir )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Pt )  STAND FOR..?",
+          "10":"10: THE SYMBOL ( Hg )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Lanthanum",
+              "b" : "Lawrencium",
+              "c" : "Lutetium",
+              "d" : "Gallium"
+          },
+          "2":{
+              "a" : "Francium",
+              "b" : "Hafnium",
+              "c" : "Fermium",
+              "d" : "Flerovium"
+
+          },
+          "3":{
+              "a" : "Actinium",
+              "b" : "Krypton",
+              "c" : "Thallium",
+              "d" : "Tantalum"
+          },
+          "4":{
+              "a" : "Gadolinium",
+              "b" : "Gold",
+              "c" : "Germanium",
+              "d" : "Gallium"
+          },
+          "5":{
+            "a" : "Tungsten",
+            "b" : "Tantalum",
+            "c" : "Thorium",
+            "d" : "Thallium"
+        },
+        "6":{
+            "a" : "Iron",
+            "b" : "Radon",
+            "c" : "Rubium",
+            "d" : "Rhenium"
+        },
+        "7":{
+            "a" : "Oxygen",
+            "b" : "Osmium",
+            "c" : "Seaborgium",
+            "d" : "Tennessine"
+        },
+        "8":{
+            "a" : "Iron",
+            "b" : "iodine",
+            "c" : "Iridium",
+            "d" : "Uranium"
+        },
+        "9":{
+            "a" : "Platinum",
+            "b" : "Polonium",
+            "c" : "Protactinium",
+            "d" : "Plutonium"
+        },
+        "10":{
+            "a" : "Magnesium",
+            "b" : "Helium",
+            "c" : "Hydrogen",
+            "d" : "Mercury"
+        }
+        
+    },
+    {
+        "1" : "Lutetium",
+        "2" : "Hafnium",
+        "3" : "Tantalum",
+        "4" : "Gold",
+        "5" : "Tungsten",
+        "6" : "Rhenium",
+        "7" : "Osmium",
+        "8" : "Iridium",
+        "9" : "Platinum",
+        "10" : "Mercury"
+        
+    }
+
+]

@@ -1,0 +1,105 @@
+[
+    
+    {
+      
+          "1": "1 :THE CHEMICAL FORMULA OF ( Dichromate ) IS..?",
+
+"2": "2 :THE CHEMICAL FORMULA OF ( Aluminum sulfide ) IS..?",
+
+"3": "3 :THE CHEMICAL FORMULA OF ( Barium chloride ) IS..?",
+"4": "4 : THE SYMBOL ( Po )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( At )  STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Rn )  STAND FOR..?",
+           "7": "7 : Ice has an open structure compared to water due to which it floats on water and occupies a greater volume of space. The open structure of ice is due to..?",
+
+"8": "8 : A gas can be liquefied by pressure alone when its temperature is..?",
+
+"9": "9 : Gases can be compressed to a greater extent because..?",
+"10":"10: Digestion of fat in intestine is aided by..?"
+          
+  
+        },
+    {
+        "1":{
+  "a" : "K<sub>2</sub>Cr<sub>2</sub>",
+  "b" : "K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>",
+  "c" : "K<sub>2</sub>Cr<sub>2</sub>O<sub>6</sub>",
+  "d" : "KCr<sub>2</sub>O<sub>4</sub>"
+},
+"2":{
+  "a" : "AlS<sub>3</sub>",
+  "b" : "Al<sub>2</sub>S<sub>2</sub>",
+  "c" : "Al<sub>2</sub>S<sub>4</sub>",
+  "d" : "Al<sub>2</sub>S<sub>3</sub>"
+},
+"3":{
+  "a" : "BaCl(OH)<sub>2</sub>",
+  "b" : "BaCl<sub>2 </sub>",
+  "c" : "BaCl",
+  "d" : "BrCl<sub>4</sub>"
+},
+         "4":{
+              "a" : "Protactinium",
+              "b" : "Plutunium",
+              "c" : "Polonium",
+              "d" : "Platinum"
+          },
+          "5":{
+            "a" : "Argon",
+            "b" : "Arsenic",
+            "c" : "Actinium",
+            "d" : "Astatine"
+        },
+        "6":{
+            "a" : "Iron",
+            "b" : "Radon",
+            "c" : "Rubium",
+            "d" : "Rhenium"
+        },
+      "7":{
+"a" : "Solid state of ice ",
+"b" : "Its low density ",
+"c" : "Crystalline nature",
+"d" : "Hydrogen bonding"
+},
+"8":{
+"a" : "Higher than the critical temperature ",
+"b" : "Lower than its critical temperature",
+"c" : "Equal to its critical temperature ",
+"d" : "None"
+},
+"9":{
+"a" : "Molecules are elastic",
+"b" : "There is no gap between molecules",
+"c" : "These are lighter than liquids",
+"d" : "There is a large space between the molecules"
+},
+           "10":{
+"a" : "Diffusion",
+"b" : "Peptization",
+"c" : "Emulsification",
+"d" : "Protection"
+}
+        
+    },
+    {
+        "1" : "K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>",
+
+"2" : "Al<sub>2</sub>S<sub>3</sub>",
+
+"3" : "BaCl<sub>2 </sub>",
+
+        "4" : "Polonium",
+        "5" : "Astatine",
+        "6" : "Radon",
+         "7" : "Hydrogen bonding",
+
+"8" :"Lower than its critical temperature",
+
+"9" : "There is a large space between the molecules",
+"10" : "Protection"
+        
+        
+    }
+
+]

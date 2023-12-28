@@ -1,0 +1,95 @@
+
+            [
+    
+                {
+                  
+                      "1": "1 : Normal rainwater has a pH level of",
+                      "2": "2 : What is the mass percentage of oxygen in carbon dioxide (CO2)",
+                      "3": "3 : What is the mass percentage of oxygen in carbon dioxide (CO2)",
+                      "4": "4 : What is the mass percentage of carbon in carbon dioxide (CO2)",
+                      "5": "5 : Which one is the naturally occuring heaviest element",
+                      "6": "6 : Total number of halogen elements found in the periodic table is",
+                      "7": "7 : Which one is the most reactive gaseous element",
+                      "8": "8 : The nucleus of an atom consists of",
+                      "9": "9 : Which one is the purest form of carbon",
+                      "10":"10: Which one is not a pure form of carbon"
+              
+                    },
+                {
+                      "1" :{
+                          "a" : "3.2",
+                          "b" : "5.6",
+                          "c" : "6.3",
+                          "d" : "8.3"
+                      },
+                      "2":{
+                          "a" : "30.5%",
+                          "b" : "50.9 %",
+                          "c" : "65.8 %",
+                          "d" : "72.7 %"
+                      },
+                      "3":{
+                          "a" : "30.5%",
+                          "b" : "50.9 %",
+                          "c" : "65.8 %",
+                          "d" : "72.7 %"
+                      },
+                      "4":{
+                          "a" : "15.8 %",
+                          "b" : "20.1 %",
+                          "c" : "27.3 %",
+                          "d" : "32.3 %"
+                      },
+                      "5":{
+                        "a" : "Mercury",
+                        "b" : "Thorium",
+                        "c" : "Uranium",
+                        "d" : "Protactinium"
+                    },
+                    "6":{
+                        "a" : "3",
+                        "b" : "5",
+                        "c" : "8",
+                        "d" : "13"
+                    },
+                    "7":{
+                        "a" : "Chlorine",
+                        "b" : "Bromine",
+                        "c" : "Iodine",
+                        "d" : "Flourine"
+                    },
+                    "8":{
+                        "a" : "Protons and Neutrons",
+                        "b" : "Neutrons and Electrons",
+                        "c" : "Electrons only",
+                        "d" : "None of the above"
+                    },
+                    "9":{
+                        "a" : "Coal",
+                        "b" : "Graphite",
+                        "c" : "Diamond",
+                        "d" : "Iron"
+                    },
+                    "10":{
+                        "a" : "Coal",
+                        "b" : "Graphite",
+                        "c" : "Diamond",
+                        "d" : "Gold"
+                    }
+                    
+                },
+                {
+                    "1" : "5.6",
+                    "2" : "72.7 %",
+                    "3" : "72.7 %",
+                    "4" : "27.3 %",
+                    "5" : "Uranium",
+                    "6" : "5",
+                    "7" : "Flourine",
+                    "8" : "Protons and Neutrons",
+                    "9" : "Diamond",
+                    "10" : "Gold"
+                    
+                }
+            
+            ]

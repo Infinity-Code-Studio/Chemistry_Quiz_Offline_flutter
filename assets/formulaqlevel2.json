@@ -1,0 +1,88 @@
+[
+      {
+            "1": "1 :THE CHEMICAL FORMULA OF ( Carbonic acid ) IS..?",
+            "2": "2 :THE CHEMICAL FORMULA OF ( Sodium bicarbonate ) IS..?",
+            "3": "3 :THE CHEMICAL FORMULA OF ( Sodium hydroxide ) IS..?",
+            "4": "4 :THE CHEMICAL FORMULA OF ( Calcium hydroxide ) IS..?",
+            "5": "5 :THE CHEMICAL FORMULA OF ( Ethanol ) IS..?",
+            "6": "6 :THE CHEMICAL FORMULA OF ( Hydrobromic acid ) IS..?",
+            "7": "7 :THE CHEMICAL FORMULA OF ( Nitrous acid ) IS..?",
+            "8": "8 :THE CHEMICAL FORMULA OF ( Potassium hydroxide ) IS..?",
+            "9": "9 :THE CHEMICAL FORMULA OF ( Silver nitrate ) IS..?",
+            "10": "10 :THE CHEMICAL FORMULA OF ( Sodium carbonate ) IS..?"
+      },
+      {
+            "1": {
+                  "a": "H<SUB>2</SUB>CO<SUB>3</SUB>",
+                  "b": "Mg(OH)<SUB>2</SUB>",
+                  "c": "NaOH",
+                  "d": "H<SUB>3</SUB>CO<SUB>3</SUB>"
+            },
+            "2": {
+                  "a": "NaOH",
+                  "b": "HNO<SUB>2</SUB>",
+                  "c": "NaHCO<SUB>3</SUB>",
+                  "d": "Na<SUB>2</SUB>CO<SUB>3</SUB>"
+            },
+            "3": {
+                  "a": "Naho",
+                  "b": "NH<SUB>3</SUB>",
+                  "c": "Na<SUB>2</SUB>CO<SUB>3</SUB>",
+                  "d": "NaOH"
+            },
+            "4": {
+                  "a": "HCl",
+                  "b": "CaCO<SUB>3</SUB>",
+                  "c": "C<SUB>2</SUB>H<SUB>5</SUB>OH",
+                  "d": "Ca(OH)<SUB>2</SUB>"
+            },
+            "5": {
+                  "a": "H<SUB>2</SUB>CO<SUB>3</SUB>",
+                  "b": "C<SUB>2</SUB>H<SUB>5</SUB>OH",
+                  "c": "CH<SUB>3</SUB>COOH",
+                  "d": "H<SUB>2</SUB>CO<SUB>3</SUB>"
+            },
+            "6": {
+                  "a": "HBr",
+                  "b": "NaNO<SUB>3</SUB>",
+                  "c": "HBO<SUB>2</SUB>",
+                  "d": "H<SUB>2</SUB>Br"
+            },
+            "7": {
+                  "a": "HNO<SUB>4</SUB>",
+                  "b": "HNO<SUB>3</SUB>",
+                  "c": "HNO<SUB>2</SUB>",
+                  "d": "H<SUB>2</SUB>CO<SUB>3</SUB>"
+            },
+            "8": {
+                  "a": "H<SUB>2</SUB>CO<SUB>3</SUB>",
+                  "b": "KHO",
+                  "c": "KNO",
+                  "d": "KOH"
+            },
+            "9": {
+                  "a": "H<SUB>2</SUB>CO<SUB>3</SUB>",
+                  "b": "AgNO<SUB>3</SUB>",
+                  "c": "AgNO<SUB>4</SUB>",
+                  "d": "NO<SUB>3</SUB>"
+            },
+            "10": {
+                  "a": "NaHO<SUB>3</SUB>",
+                  "b": "NaHO<SUB>2</SUB>",
+                  "c": "Na<SUB>2</SUB>CO<SUB>3</SUB>",
+                  "d": "Na<SUB>2</SUB>CO<SUB>4</SUB>"
+            }
+      },
+      {
+            "1": "H<SUB>2</SUB>CO<SUB>3</SUB>",
+            "2": "NaHCO<SUB>3</SUB>",
+            "3": "NaOH",
+            "4": "Ca(OH)<SUB>2</SUB>",
+            "5": "C<SUB>2</SUB>H<SUB>5</SUB>OH",
+            "6": "HBr",
+            "7": "HNO<SUB>2</SUB>",
+            "8": "KOH",
+            "9": "AgNO<SUB>3</SUB>",
+            "10": "Na<SUB>2</SUB>CO<SUB>3</SUB>"
+      }
+]

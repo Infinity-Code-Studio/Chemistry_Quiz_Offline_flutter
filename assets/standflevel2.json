@@ -1,0 +1,95 @@
+
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( K )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Ca )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Ar )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( Cl )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( S  ) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( P )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Si )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Al )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Mg )  STAND FOR..?",
+          "10":"10: THE SYMBOL ( Na )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Copper",
+              "b" : "Calcium",
+              "c" : "Carbon",
+              "d" : "Potassium"
+          },
+          "2":{
+              "a" : "Carbon",
+              "b" : "Calcium",
+              "c" : "Chlorine",
+              "d" : "none of above"
+          },
+          "3":{
+              "a" : "Argon",
+              "b" : "Aluminium",
+              "c" : "Iron",
+              "d" : "Oxygen"
+          },
+          "4":{
+              "a" : "Calcium",
+              "b" : "Chromium",
+              "c" : "Chlorine",
+              "d" : "None of above"
+          },
+          "5":{
+            "a" : "Sulfur",
+            "b" : "Scandium",
+            "c" : "Selenium",
+            "d" : "Strontium"
+        },
+        "6":{
+            "a" : "Praseodymium",
+            "b" : "Palladium",
+            "c" : "Potassium",
+            "d" : "Phosphorus"
+        },
+        "7":{
+            "a" : "Sulfur",
+            "b" : "Silicon",
+            "c" : "Selenium",
+            "d" : "None of above"
+        },
+        "8":{
+            "a" : "Helium",
+            "b" : "Lithium",
+            "c" : "Gallium",
+            "d" : "Aluminium"
+        },
+        "9":{
+            "a" : "Boromine",
+            "b" : "Potassium",
+            "c" : "Magnesium",
+            "d" : "Selenium"
+        },
+        "10":{
+            "a" : "Sodium",
+            "b" : "Silicon",
+            "c" : "Scandium",
+            "d" : "Vanadium"
+        }
+        
+    },
+    {
+        "1" : "Potassium",
+        "2" : "Calcium",
+        "3" : "Argon",
+        "4" : "Chlorine",
+        "5" : "Sulfur",
+        "6" : "Phosphorus",
+        "7" : "Silicon",
+        "8" : "Aluminium",
+        "9" : "Magnesium",
+        "10" : "Sodium"
+        
+    }
+
+]

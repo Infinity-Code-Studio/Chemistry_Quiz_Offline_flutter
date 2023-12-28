@@ -1,0 +1,101 @@
+[
+    
+    {
+      
+         "1": "1 : THE SYMBOL ( Be )  STAND FOR..?",   
+         "2": "2 :THE CHEMICAL FORMULA OF( Phosphoric acid )IS..?", 
+         "3": "3 : THE SYMBOL ( S  ) STAND FOR..?",                  
+         "4": "4 : On addition of salt to water, its..?",
+         "5": "5 : THE SYMBOL ( Ti )  STAND FOR..?",
+         "6": "6 :THE CHEMICAL FORMULA OF ( Ethanol ) IS..?",
+         "7": "7 : THE SYMBOL ( Y )  STAND FOR..?",
+         "8": "8: THE SYMBOL ( Zr )  STAND FOR..?",
+         "9": "9 :THE CHEMICAL FORMULA OF ( Barium hydroxide ) IS..?",
+        "10": "10 :THE CHEMICAL FORMULA OF ( Aluminum oxide ) IS..?"
+           
+  
+        },
+    {
+         "1":{
+            "a" : "Boromine",
+            "b" : "Boron",
+            "c" : "Beryllium",
+            "d" : "Terbium"
+        }, 
+        "2":{
+            "a" : "H<sub>2</sub>PO<sub>4</sub>",
+            "b" : "HPO<sub>4</sub>",
+            "c" : "H<sub>4</sub>PO<sub>4</sub>",
+            "d" : "H<sub>3</sub>PO<sub>4</sub>"
+           },
+        
+           "3":{
+            "a" : "Sulfur",
+            "b" : "Scandium",
+            "c" : "Selenium",
+            "d" : "Strontium"
+        },
+        "4":{
+            "a" : "Boiling point increases",
+            "b" : "Boiling point decreases ",
+            "c" : "Boiling point is not affected",
+            "d" : "Freezing point increases"
+           },
+
+         "5" :{
+              "a" : "Strontium",
+              "b" : "Titanium",
+              "c" : "Krypton",
+              "d" : "Potassium"
+          },
+         "6":{
+            "a" : "H<SUB>2</SUB>CO<SUB>3</SUB>",
+            "b" : "C<SUB>2</SUB>H<SUB>5</SUB>OH",
+            "c" : "CH<SUB>3</SUB>COOH",
+            "d" : "H<SUB>2</SUB>CO<SUB>3</SUB>"
+            },
+         "7":{
+            "a" : "Yttrium",
+            "b" : "Krypton",
+            "c" : "Strontium",
+            "d" : "Chromium"
+        },
+        "8":{
+            "a" : "Zrconam",
+            "b" : "Neon",
+            "c" : "Zinc",
+            "d" : "Zirconium"
+        },
+         "9":{
+            "a" : "Br<sub>2</sub>",
+            "b" : "Ba(OH)<sub>2</sub>",
+            "c" : "Br<sub>3</sub>",
+            "d" : "Ba(OH)<sub>4</sub>"
+      },
+      "10":{
+
+            "a" : "Al<sub>2</sub>O<sub>3</sub>",
+            "b" : "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
+            "c" : "Al<sub>2</sub>O<sub>4</sub>",
+            "d" : "Al<sub>3</sub>O<sub>4</sub>"
+           }
+                  
+        },
+       {
+         "1" : "Beryllium",
+         "2" : "H<sub>3</sub>PO<sub>4</sub>",
+         "3" : "Sulfur",
+         "4" : "Boiling point increases",
+         "5" : "Titanium",
+         "6" : "C<SUB>2</SUB>H<SUB>5</SUB>OH",
+         "7" : "Yttrium",
+         "8" : "Zirconium",
+         "9" : "Ba(OH)<sub>2</sub>",
+         "10" : "Al<sub>2</sub>O<sub>3</sub>"
+
+        
+        
+    }
+
+]
+

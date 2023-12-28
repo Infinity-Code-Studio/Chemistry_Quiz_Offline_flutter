@@ -1,0 +1,115 @@
+
+  [
+    
+    {
+      
+          "1": "1 : Which of the following gases is used in fire extinguishers..?",
+
+          "2": "2 : Stains of rust from iron on cloth can be removed by..?",
+
+          "3": "3 : Cooking gas is a mixture of which of the following two gases..?",
+
+          "4": "4 : Nameplates made of brass get discoloured in air because of the presence of which of the following gases in the air..?",
+
+          "5": "5 : On addition of salt to water, its..?",
+
+          "6": "6 : Which of the following gases does not pollute air..?",
+
+          "7": "7 : The inorganic natural resource of the earth is..?",
+
+          "8": "8 : Which one of the following has the highest fuel value..?",
+
+          "9": "9 : The characteristic odour of garlic is due to..?",
+
+          "10":"10: Which of the following group of compounds constitute carbohydrates..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Oxygen",
+              "b" : "Hydrogen",
+              "c" : "Water vapour",
+              "d" : "Carbon dioxide"
+          },
+          "2":{
+              "a" : "Hydrogen peroxide ",
+              "b" : "Alcohol",
+              "c" : "Petrol",
+              "d" : "Oxalic acid"
+          },
+          "3":{
+              "a" : "Methane and Carbon dioxide",
+              "b" : "Oxygen and Nitrogen",
+              "c" : "Bautane and Propane",
+              "d" : "Oxygen and Methane"
+          },
+          "4":{
+              "a" : "Oxygen",
+              "b" : "Nitrogen",
+              "c" : "Carbon dioxide",
+              "d" : "Hydrogen sulphide"
+          },
+          "5":{
+            "a" : "Boiling point increases",
+            "b" : "Boiling point decreases ",
+            "c" : "Boiling point is not affected",
+            "d" : "Freezing point increases"
+        },
+        "6":{
+            "a" : "Carbon dioxide",
+            "b" : "Carbon monoxide",
+            "c" : "Nitrogen dioxide ",
+            "d" : "Sulphur dioxide"
+        },
+        "7":{
+            "a" : "Mineral fuels",
+            "b" : "Wood",
+            "c" : "Coal",
+            "d" : "Microbes"
+        },
+        "8":{
+            "a" : "Hydrogen",
+            "b" : "Charcoal",
+            "c" : "Natural gas",
+            "d" : "Gasoline"
+        },
+        "9":{
+            "a" : "A chloro compound",
+            "b" : "A sulphur.compound",
+            "c" : "A fluorine compound",
+            "d" : "Acetic acid"
+        },
+        "10":{
+            "a" : "Fats and sugar",
+            "b" : "Fats,sugar and proteins",
+            "c" : "Starch,sugar and proteins",
+            "d" : "Starch and sugar"
+        }
+        
+    },
+    {
+        "1" : "Carbon dioxide",
+
+        "2" : "Petrol",
+
+        "3" : "Oxygen and Methane",
+
+        "4" : "Hydrogen sulphide",
+
+        "5" : "Boiling point increases",
+
+        "6" : "Carbon dioxide",
+
+        "7" : "Mineral fuels",
+
+        "8" : "Hydrogen",
+
+        "9" : "A sulphur.compound",
+
+        "10" : "Starch and sugar"
+        
+
+    }
+
+]
+    

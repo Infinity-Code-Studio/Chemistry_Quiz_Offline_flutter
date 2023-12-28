@@ -1,0 +1,109 @@
+[
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Nd )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( TE )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( I )  STAND FOR..?",
+"4": "4 : Who was first to prepare sulphuric acid..?",
+
+"5": "5 : Dalton's atomic theory gave the concept of..?",
+
+"6": "6 : When radioactive rays are passed through air or any gas, they cause it to..?",
+"7": "7 :THE CHEMICAL FORMULA OF ( Ammonium nitrite ) IS..?",
+
+"8": "8 :THE CHEMICAL FORMULA OF ( Potassium nitrite) IS..?",
+
+"9": "9 :THE CHEMICAL FORMULA OF ( Ammonium iodide ) IS..?",
+"10":"10: Generally in a given period in the periodic table as we move from left to right, the electropositive character of elements..?"
+          
+  
+        },
+    {
+      "1" :{
+              "a" : "Neodymium",
+              "b" : "Neon",
+              "c" : "Niobium",
+              "d" : "Nitrogen"
+          },
+          "2":{
+              "a" : "Technetium",
+              "b" : "Tin",
+              "c" : "Tellurium",
+              "d" : "Strontium"
+
+          },
+          "3":{
+              "a" : "Radon",
+              "b" : "Iodine",
+              "c" : "Rubidium",
+              "d" : "Rhodium"
+          },
+           "4":{
+  "a" : "Aristotie",
+  "b" : "Dalton",
+  "c" : "Bohr",
+  "d" : "Jabar Bin Hayan"
+},
+"5":{
+"a" : "Valency",
+"b" : "Electrons",
+"c" : "lonization",
+"d" : "Radioactivity"
+},
+"6":{
+"a" : "lonize",
+"b" : "Evaporate",
+"c" : "Freeze",
+"d" : "Bail"
+},
+       "7":{
+  "a" : "NH<sub>4</sub>NO<SUB>2</SUB>",
+  "b" : "NH<sub>4</sub>NO<sub>3</sub>",
+  "c" : "NH<sub>4</sub>NO<sub>2</sub>",
+  "d" : "NH<sub>2</sub>NO<sub>4</sub>"
+},
+"8":{
+  "a" : "KNO<sub>4</sub>",
+  "b" : "KNO<sub>2</sub>",
+  "c" : "KN<sub>2</sub>O<sub>4</sub>",
+  "d" : "KCN<sub>4</sub>"
+},
+"9":{
+  "a" : "NHI",
+  "b" : "NHI<sub>3</sub>",
+  "c" : "NH<sub>2</sub>I",
+  "d" : "NH<sub>4</sub>I"
+},
+         "10":{
+"a" : "Increases",
+"b" : "Decreases",
+"c" : "Neither increases nor decreases",
+"d" : "Decreases then increases"
+}
+        
+    },
+    {
+        "1" : "Neodymium",
+        "2" : "Tellurium",
+        "3" : "Iodine",
+"4" : "Jabar Bin Hayan",
+
+"5" : "Valency",
+
+"6" : "Freeze",
+
+"7" : "NH<sub>4</sub>NO<sub>2</sub>",
+
+"8" : "KNO<sub>2</sub>",
+
+"9" : "NH<sub>4</sub>I",
+"10" : "Decreases"
+
+        
+        
+    }
+
+]
+
+

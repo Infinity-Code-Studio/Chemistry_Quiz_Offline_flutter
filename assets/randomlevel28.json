@@ -1,0 +1,110 @@
+[
+    
+    {
+      
+         "1": "1 : Firdous Al Hikmat Fe ilmul Kemia was written by..?",
+
+"2": "2 : Ammonia was obtained from urine by..?",
+
+"3": "3 : Madam Curie is famous for his work in the field of..?",
+
+"4": "4 :THE CHEMICAL FORMULA OF ( Nitrogen monoxide ) IS..?",
+
+"5": "5 :THE CHEMICAL FORMULA OF ( Fructose ) IS..?",
+
+"6": "6 :THE CHEMICAL FORMULA OF ( Magnesium iodide ) IS..?",
+
+"7": "7 : THE SYMBOL ( Fr )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Ra )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Ac )  STAND FOR..?", 
+          "10":"10: The cooling caused by the expansion of a compressed gas below its inversion temperature without doing external work is called..?"
+          
+  
+        },
+    {
+          "1" :{
+  "a" : "Alberuni",
+  "b" : "Jabir bin Haiyan",
+  "c" : "Khalid bin Yazeed",
+  "d" : "Buali Sina"
+},
+"2":{
+  "a" : "Aljahiz",
+  "b" : "Jabir bin Haiyan",
+  "c" : "Wohler",
+  "d" : "Al-Beruni"
+},
+"3":{
+  "a" : "Bio chemistry",
+  "b" : "Nuclear chemistry",
+  "c" : "Analytical chemistry",
+  "d" : "Organic chemistry"
+},
+         "4":{
+  "a" : "NO<sub>4</sub>",
+  "b" : "NO<SUB>3</SUB>",
+  "c" : "NO",
+  "d" : "NOH<SUB>2</SUB>"
+},
+"5":{
+  "a" : "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+  "b" : "C<SUB>3</SUB>O<sub>6</sub>",
+  "c" : "C<sub>6</sub>H<sub>12</sub>O<sub>4</sub>",
+  "d" : "C<sub>6</sub>O<sub>4</sub>"
+},
+"6":{
+  "a" : "MI<sub>2</sub>",
+  "b" : "MgI<sub>3</sub>",
+  "c" : "Mg<SUB>2</SUB>",
+  "d" : "MgI<sub>2</sub>"
+},
+         "7":{
+            "a" : "Floride",
+            "b" : "Hafnium",
+            "c" : "Francium",
+            "d" : "Fermium"
+        },
+        "8":{
+            "a" : "Radium",
+            "b" : "Radon",
+            "c" : "Rubium",
+            "d" : "Rhenium"
+        },
+        "9":{
+            "a" : "Argon",
+            "b" : "Arsenic",
+            "c" : "Actinium",
+            "d" : "Astatine"
+        },
+       "10":{
+"a" : "Joule Thomson effect",
+"b" : "Adiabatic demagnetism",
+"c" : "Faraday Tyndall effect",
+"d" : "Compton effect"
+}
+        
+    },
+    {
+        "1" : "Jabir bin Haiyan",
+
+        "2" : "Wohler",
+ 
+        "3" : "Nuclear chemistry",
+ 
+        "4" : "NO",
+ 
+        "5" : "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+ 
+        "6" : "MgI<sub>2</sub>",
+        "7" : "Francium",
+        "8" : "Radium",
+        "9" : "Actinium",
+        "10" : "Joule Thomson effect"
+        
+        
+    }
+
+]
+
+
+

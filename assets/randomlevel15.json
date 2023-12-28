@@ -1,0 +1,104 @@
+[
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( B )  STAND FOR..?",
+          "2": "2 :THE CHEMICAL FORMULA OF( Acetate )IS..?",
+          "3": "3 : THE SYMBOL ( Mg )  STAND FOR..?",
+          "4": "4 : The characteristic odour of garlic is due to..?",
+          "5": "5 : THE SYMBOL ( V ) STAND FOR..?",
+          "6": "6 :THE CHEMICAL FORMULA OF ( Silver nitrate ) IS..?",
+          "7": "7 : THE SYMBOL ( Ag )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Cd )  STAND FOR..?",
+          "9": "9 :THE CHEMICAL FORMULA OF ( Hydroiodic acid ) IS..?",
+          "10": "10 :THE CHEMICAL FORMULA OF ( Hypochlorous acid ) IS..?"
+
+
+
+  
+        },
+    {
+          "1":{
+            "a" : "Boromine",
+            "b" : "Beryllium",
+            "c" : "Boron",
+            "d" : "Barium"
+        },
+          "2":{
+            "a" : "CH3COO<SUP>-</SUP>",
+            "b" : "CH2CO<SUP>-</SUP>",
+            "c" : "CH<SUP>3</SUP>COO",
+            "d" : "NON OF ABOVE"
+      },
+          "3":{
+            "a" : "Boromine",
+            "b" : "Potassium",
+            "c" : "Magnesium",
+            "d" : "Selenium"
+        },
+           "4":{
+            "a" : "A chloro compound",
+            "b" : "A sulphur.compound",
+            "c" : "A fluorine compound",
+            "d" : "Acetic acid"
+             },
+           "5":{
+            "a" : "Vanadium",
+            "b" : "Scandium",
+            "c" : "Livermorium",
+            "d" : "Strontium"
+        },
+          "6":{
+            "a" : "H<SUB>2</SUB>CO<SUB>3</SUB>",
+            "b" : "AgNO<SUB>3</SUB>",
+            "c" : "AgNO<SUB>4</SUB>",
+            "d" : "NO<SUB>3</SUB>"
+             },
+          "7":{
+            "a" : "Silicon",
+            "b" : "Silver",
+            "c" : "Sulfur",
+            "d" : "Selenium"
+        },
+        "8":{
+            "a" : "Palladium",
+            "b" : "Cadmium",
+            "c" : "Caesium",
+            "d" : "Cerium"
+        },
+        "9":{
+            "a" : "HIo<SUB>4</SUB>",
+            "b" : "HI<sub>3</sub>",
+            "c" : "HIo<SUB>2</SUB>",
+            "d" : "HI"
+      },
+
+      "10":{
+            "a" : "HClO<sub>4</sub>",
+            "b" : "HClO<sub>2</sub>",
+            "c" : "HClO",
+            "d" : "HClO<sub>3</sub>"
+      }
+
+    },
+
+
+{
+        "1" : "Boron",
+        "2" : "CH3COO<SUP>-</SUP>",
+        "3" : "Magnesium",
+        "4" : "A sulphur.compound",
+        "5" : "Vanadium",
+        "6" : "AgNO<SUB>3</SUB>",
+        "7" : "Silver",
+        "8" : "Cadmium",
+        "9" : "HI",
+        "10" : "HClO"
+
+        
+    }
+    
+
+]
+
+

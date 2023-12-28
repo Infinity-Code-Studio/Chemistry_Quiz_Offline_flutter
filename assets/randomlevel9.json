@@ -1,0 +1,102 @@
+[
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( C )  STAND FOR..?",
+          "2": "2 :THE CHEMICAL FORMULA OF( Acetic acid )IS..?",
+          "3": "3 : THE SYMBOL ( Ca )  STAND FOR..?",
+          "4": "4 : Stains of rust from iron on cloth can be removed by..?",
+          "5": "5 : THE SYMBOL ( Ca )  STAND FOR..?",
+          "6": "6 :THE CHEMICAL FORMULA OF ( Sodium bicarbonate ) IS..?",
+          "7": "7 : THE SYMBOL ( As )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Se )  STAND FOR..?",
+          "9": "9 :THE CHEMICAL FORMULA OF ( Magnesium hydroxide ) IS..?",
+          "10": "10 :THE CHEMICAL FORMULA OF ( Methane ) IS..?"
+  
+        },
+    {
+          "1":{
+              "a" : "Carbon",
+              "b" : "Chlorine",
+              "c" : "Calcium",
+              "d" : "none of above"
+
+          },
+          "2":{
+              "a" : "CH<SUB>3</SUB>COH",
+              "b" : "CH<SUB>2</SUB>OH",
+              "c" : "CH<SUB>4</SUB>COOH",
+              "d" : "CH<SUB>3</SUB>COOH"
+              },
+         
+           "3":{
+              "a" : "Carbon",
+              "b" : "Calcium",
+              "c" : "Chlorine",
+              "d" : "none of above"
+
+          },
+           "4":{
+              "a" : "Hydrogen peroxide ",
+              "b" : "Alcohol",
+              "c" : "Petrol",
+              "d" : "Oxalic acid"
+               },
+                    
+         "5":{
+              "a" : "Carbon",
+              "b" : "Calcium",
+              "c" : "Chlorine",
+              "d" : "none of above"
+          },
+         "6":{
+             "a" : "NaOH",
+             "b" : "HNO<SUB>2</SUB>",
+            "c"  : "NaHCO<SUB>3</SUB>",
+            "d"  : "Na<SUB>2</SUB>CO<SUB>3</SUB>"
+},
+        "7":{
+              "a" : "Barium",
+              "b" : "Ruthenium",
+              "c" : "Rhodium",
+              "d" : "Arsenic"
+          },
+          "8":{
+              "a" : "Calcium",
+              "b" : "Sulfur",
+              "c" : "Selenium",
+              "d" : "Silicon"
+          },
+       
+         "9":{
+              "a" : "Mg(OH)<sub>2</sub>",
+              "b" : "MgOH",
+              "c" : "Mg(OH)<sub>3</sub>",
+              "d" : "MgOH<sub>2</sub>"
+             },
+          "10":{
+              "a" : "CaCH<sub>4</sub>",
+              "b" : "CaCH<SUB>3</SUB>",
+              "c" : "CH<sub>4</sub>",
+              "d" : "CH<SUB>2</SUB>"
+             }
+    
+    },
+    {
+       "1" : "Carbon",
+       "2" : "CH<SUB>3</SUB>COOH",
+       "3" : "Calcium",
+       "4" : "Petrol",
+       "5" : "Calcium",
+       "6" : "NaHCO<SUB>3</SUB>",
+       "7" : "Arsenic",
+       "8" : "Selenium",
+       "9" : "Mg(OH)<sub>2</sub>",
+       "10" : "CH<sub>4</sub>"
+        
+        
+    }
+
+]
+
+

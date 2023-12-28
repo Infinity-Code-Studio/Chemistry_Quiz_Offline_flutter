@@ -1,0 +1,98 @@
+[
+    
+    {
+      
+        "1": "1 : THE SYMBOL ( Ti )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Pb )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Bi )  STAND FOR..?",
+           "4": "4 : Iron articles rust because of the formation of..?",
+
+"5": "5 : Gunpowder consists of..?",
+
+"6": "6 : sulphur X-rays are produced when a stream ofelectrons in an X-ray tube? ..?",
+"7": "7 :THE CHEMICAL FORMULA OF ( Nitrous acid ) IS..?",
+"8": "8 :THE CHEMICAL FORMULA OF ( Potassium hydroxide ) IS..?",
+"9": "9 :THE CHEMICAL FORMULA OF ( Silver nitrate ) IS..?",
+"10":"10: Ozone is present in which of the following layers of atmosphere..?"
+
+
+          
+  
+        },
+    {
+          "1" :{
+              "a" : "Actinium",
+              "b" : "Thorium",
+              "c" : "Tantalum",
+              "d" : "Thallium"
+          },
+          "2":{
+            "a" : "Lead",
+            "b" : "Polonium",
+            "c" : "Protactinium",
+            "d" : "Plutonium"
+          },
+          "3":{
+              "a" : "Boron",
+              "b" : "Beryllium",
+              "c" : "Bismuth",
+              "d" : "Rubidium"
+          },
+        "4":{
+  "a" : "ferrous chloride",
+  "b" : "a mixture of ferrous and ferric hydroxide",
+  "c" : "sodium carbonate",
+  "d" : "ferric chloride"
+},
+"5":{
+"a" : "75% potassium nitrite + 15% charcoal + 10% sulphur",
+"b" : "75% potassium nitrite + 10% charcoal + 15% sulphur",
+"c" : "75% potassium nitrate + 10% charcoal + 15% sulphur",
+"d" : "75% potassium nitrate + 15% charcoal + 15%"
+},
+"6":{
+"a" : "Hits the glass wall of the tube",
+"b" : "Srikes metal target",
+"c" : "Pass through a strong magnetic field",
+"d" : "None"
+},
+"8":{
+  "a" : "  H<SUB>2</SUB>CO<SUB>3</SUB>",
+  "b" : "  KHO",
+  "c" : "  KNO",
+  "d" : "  KOH"
+},
+"9":{
+  "a" : "  H<SUB>2</SUB>CO<SUB>3</SUB>",
+  "b" : "  AgNO<SUB>3</SUB>",
+  "c" : "  AgNO<SUB>4</SUB>",
+  "d" : "  NO<SUB>3</SUB>"
+},
+        "10":{
+"a" : "Troposphere and Thermosphere",
+"b" : "Troposphere and Stratosphere",
+"c" : "Mesosphere",
+"d" : "Thermosphere"
+}
+        
+    },
+    {
+        "1" : "Thallium",
+        "2" : "Lead",
+        "3" : "Bismuth",
+        
+"4" : "a mixture of ferrous and ferric hydroxide",
+
+"5" : "75% potassium nitrate + 15% charcoal + 15%",
+
+"6" : "Srikes metal target",
+"7" : "  HNO<SUB>2</SUB>",
+"8" : "  KOH",
+"9" : "  AgNO<SUB>3</SUB>",
+
+"10" : "Troposphere and Stratosphere"
+        
+    }
+
+]
+

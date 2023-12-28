@@ -1,0 +1,108 @@
+[
+    
+    {
+      
+          "1": "1 :THE CHEMICAL FORMULA OF ( Zinc nitrate ) IS..?",
+
+"2": "2 :THE CHEMICAL FORMULA OF ( Magnesium nitrate ) IS..?",
+
+"3": "3 :THE CHEMICAL FORMULA OF ( Silicon dioxide ) IS..?",
+"4": "4 : THE SYMBOL ( Xe )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( Cs) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Ba )  STAND FOR..?",
+           "7": "7 : The elements in the first period of the periodic table are..?",
+
+"8": "8 : The reason for chlorinating water is..?",
+
+"9": "9 : Cooling of vapors of some compounds change them directly into solid state This phenomenon is called..?",
+"10":"10: The cooling caused by the expansion of a compressed gas below its inversion temperature without doing external work is called..?"
+          
+  
+        },
+    {
+           "1":{
+  "a" : "Zn(NO<sub>4</sub>)<sub>4</sub>",
+  "b" : "Zn(NO<sub>4</sub>)<sub>2</sub>",
+  "c" : "Zn(NO<sub>3</sub>)<sub>2</sub>",
+  "d" : "Zn(NO)<sub>2</sub>"
+},
+"2":{
+  "a" : "Mg(NO<sub>3</sub>)<sub>2</sub>",
+  "b" : "Mg(NO<sub>3</sub>)<sub>3</sub>",
+  "c" : "Mg(NO<sub>4</sub>)<sub>4</sub>",
+  "d" : "Mg(NO)<sub>2</sub>"
+},
+"3":{
+  "a" : "Si<sub>2</sub>",
+  "b" : "SiO<sub>3</sub>",
+  "c" : "SiO",
+  "d" : "SiO<sub>2</sub>"
+},
+         "4":{
+              "a" : "Zinc",
+              "b" : "Oganesson",
+              "c" : "Neon",
+              "d" : "Xenon"
+          },
+          "5":{
+            "a" : "Caesium",
+            "b" : "Cadmium",
+            "c" : "Cerium",
+            "d" : "Calcium"
+        },
+        "6":{
+            "a" : "Boron",
+            "b" : "Bromine",
+            "c" : "Barium",
+            "d" : "Beryllium"
+        },
+       "7":{
+"a" : "Hydrogen and helium",
+"b" : "Hydrogen, helum nitrogen and drygen",
+"c" : "Hydrogen, helium and carbon",
+"d" : "Hydrogen nitrogen and oxygen"
+},
+"8":{
+"a" : "To propagate germs",
+"b" : "To add taste",
+"c" : "add minerais",
+"d" : "To kill germs"
+},
+"9":{
+"a" : "Sublimation",
+"b" : "Evaporation",
+"c" : "Condensation",
+"d" : "Crystalization"
+},
+         "10":{
+"a" : "Joule Thomson effect",
+"b" : "Adiabatic demagnetism",
+"c" : "Faraday Tyndall effect",
+"d" : "Compton effect"
+}
+        
+    },
+    {
+        "1" : "Zn(NO<sub>3</sub>)<sub>2</sub>",
+
+"2" : "Mg(NO<sub>3</sub>)<sub>2</sub>",
+
+"3" : "SiO<sub>2</sub>",
+
+"4" : "Xenon",
+        "5" : "Caesium",
+        "6" : "Barium",
+          "7" : "Hydrogen and helium",
+
+"8" : "To kill germs",
+
+"9" : "Sublimation",
+"10" : "Joule Thomson effect"
+
+
+        
+        
+    }
+
+]
+

@@ -1,0 +1,107 @@
+[
+    
+    {
+      
+          "1": "1 : Mendeleev's periodic table is upset by the fact that..?",
+
+"2": "2 : Most of the known elements are..?",
+
+"3": "3 : Stainless steel does not rust because..?",
+"4": "4 :THE CHEMICAL FORMULA OF ( Calcium iodide ) IS..?",
+
+"5": "5 :THE CHEMICAL FORMULA OF ( Hydrogen sulfate ) IS..?",
+
+"6": "6 :THE CHEMICAL FORMULA OF ( Lithium oxide ) IS..?",
+"7": "7 : THE SYMBOL ( Os )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Ir )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Pt )  STAND FOR..?",
+           "10":"10 :THE CHEMICAL FORMULA OF ( Sodium carbonate ) IS..?"
+          
+  
+        },
+    {
+        "1" :{
+  "a" : "Noble gases do not form compounds",
+  "b" : "Atomic weight of elements are not always whole numbers",
+  "c" : "Many elements have several isotopes",
+  "d" : "Some groups stand divided into two subgroups A and B"
+},
+"2":{
+  "a" : "metals",
+  "b" : "Transton metals ",
+  "c" : "inner transition metals",
+  "d" : "non metals"
+},
+"3":{
+  "a" : "Nickel present in it does not nust",
+  "b" : "Iron forme a hard chemical compound with chromium present in it",
+  "c" : "Chromium and niceal combine with iron",
+  "d" : "Chromium forms an oxide layer that protects iron from using"
+},
+           "4":{
+  "a" : "CI<sub>4</sub>",
+  "b" : "CaI<sub>2</sub>",
+  "c" : "CaI<sub>4</sub>",
+  "d" : "Ca<sub>4</sub>"
+},
+
+"5":{
+  "a" : "HSO<sub>2</sub><sup>–</sup>",
+  "b" : "HO<sub>4</sub><sup>–</sup>",
+  "c" : "HSO<sub>4</sub>",
+  "d" : "HSO<sub>4</sub><sup>–</sup>"
+},
+"6":{
+  "a" : "Li<sub>2</sub>O",
+  "b" : "LH<sub>2</sub>O<sub>4</sub>",
+  "c" : "LH<SUB>2</SUB>",
+  "d" : "LiH<SUB>2</SUB>o"
+},
+"7":{
+            "a" : "Oxygen",
+            "b" : "Osmium",
+            "c" : "Seaborgium",
+            "d" : "Tennessine"
+        },
+       "8":{
+            "a" : "Iron",
+            "b" : "iodine",
+            "c" : "Iridium",
+            "d" : "Uranium"
+        },
+        "9":{
+            "a" : "Platinum",
+            "b" : "Polonium",
+            "c" : "Protactinium",
+            "d" : "Plutonium"
+        },
+        "10":{
+  "a" : "Na<SUB>2</SUB>CO<SUB>3</SUB>",
+  "b" : "NaHO<SUB>2</SUB>",
+  "c" : "Na<SUB>2</SUB>C<SUB>3</SUB>",
+  "d" : "Na<SUB>2</SUB>CO<SUB>4</SUB>"
+}
+        
+    },
+    {
+     "1" : "Atomic weight of elements are not always whole numbers",
+
+"2" : "metals",
+
+"3" : "Chromium forms an oxide layer that protects iron from using",
+"4" : "CaI<sub>2</sub>",
+
+"5" : "HSO<sub>4</sub><sup>–</sup>",
+
+"6" : "Li<sub>2</sub>O",
+"7" : "Osmium",
+        "8" : "Iridium",
+        "9" : "Platinum",
+        "10" : "Na<SUB>2</SUB>CO<SUB>3</SUB>"
+        
+        
+    }
+
+]
+
+

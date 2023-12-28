@@ -1,0 +1,115 @@
+
+  [
+    
+    {
+      
+          "1": "1 : Firdous Al Hikmat Fe limul Kemia was written by..?",
+
+          "2": "2 : Ammonia was obtained from urine by..?",
+
+          "3": "3 : Madam Curie is famous for his work in the field of..?",
+
+          "4": "4 : Who was first to prepare sulphuric acid..?",
+
+          "5": "5 : Dalton's atomic theory gave the concept of..?",
+
+          "6": "6 : When radioactive rays are passed through air or any gas, they cause it to..?",
+
+          "7": "7 : The elements in the first period of the periodic table are..?",
+
+          "8": "8 : The reason for chlorinating water is..?",
+
+          "9": "9 : Cooling of vapors of some compounds change them directly into solid state This phenomenon is called..?",
+
+          "10":"10: Carbonated drinks are examples of..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Alberuni",
+              "b" : "Jabir bin Haiyan",
+              "c" : "Ali ibn Sahl Rabban al-Tabari",
+              "d" : "Buali Sina"
+          },
+          "2":{
+              "a" : "Aljahiz",
+              "b" : "Jabir bin",
+              "c" : "Wohler Haiyan",
+              "d" : "Al-Beruni"
+          },
+          "3":{
+              "a" : "Bio chemistry",
+              "b" : "Nuclear chemistry",
+              "c" : "Analytical chemistry",
+              "d" : "Organic chemistry"
+          },
+          "4":{
+              "a" : "Aristotie",
+              "b" : "Dalton",
+              "c" : "Bohr",
+              "d" : "Jabar Bin Hayan"
+          },
+          "5":{
+            "a" : "Valency",
+            "b" : "Electrons",
+            "c" : "lonization",
+            "d" : "Radioactivity"
+        },
+        "6":{
+            "a" : "lonize",
+            "b" : "Evaporate",
+            "c" : "Freeze",
+            "d" : "Bail"
+        },
+        "7":{
+            "a" : "Hydrogen and helium",
+            "b" : "Hydrogen, helum nitrogen and drygen",
+            "c" : "Hydrogen, helium and carbon",
+            "d" : "Hydrogen nitrogen and oxygen"
+        },
+        "8":{
+            "a" : "To propagate germs",
+            "b" : "To add taste",
+            "c" : "add minerais",
+            "d" : "To kill germs"
+        },
+        "9":{
+            "a" : "Sublimation",
+            "b" : "Evaporation",
+            "c" : "Condensation",
+            "d" : "Crystalization"
+        },
+        "10":{
+            "a" : "Gas in gas ",
+            "b" : "Gas in water",
+            "c" : "Gos in solid",
+            "d" : "Solid in liquid"
+        }
+        
+    },
+    {
+        "1" : "Ali ibn Sahl Rabban al-Tabari",
+
+        "2" : "Jabir bin",
+
+        "3" : "Nuclear chemistry",
+
+        "4" : "Jabar Bin Hayan",
+
+        "5" : "Valency",
+
+        "6" : "Freeze",
+
+        "7" : "Hydrogen and helium",
+
+        "8" : "To kill germs",
+
+        "9" : "Sublimation",
+
+        "10" : "Gas in water"
+        
+
+    }
+
+]
+

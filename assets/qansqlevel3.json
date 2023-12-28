@@ -1,0 +1,115 @@
+
+  [
+    
+    {
+      
+          "1": "1 : Atom bomb is based on the principle of..?",
+
+          "2": "2 : Oxidation involves..?",
+
+          "3": "3 : The substances are radioactive, which have..?",
+
+          "4": "4 : Nuclear power reactors are operated temperatures and consequently with lower at low efficiency because..?",
+
+          "5": "5 : The energy emitted from the sun is supposed to be due to..?",
+
+          "6": "6 : In a hydrogen bomb, hydrogen is converted..?",
+
+          "7": "7 : When two ice cubes are pressed over each other they unite to form one cube Which of the following force is responsible for holding them together..?",
+
+          "8": "8 : The high boiling point of water is due to..?",
+
+          "9": "9 : Ice has an open structure compared to water due to which it foats on water and occupies a greater volume of space The open structure of ice is due to..?",
+
+          "10":"10: A gas can be liquefied by pressure alone when its temperature is..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Nuclear fusion ",
+              "b" : "Nuclear fission",
+              "c" : "Radioactive",
+              "d" : "Nuclear fission and fusion both"
+          },
+          "2":{
+              "a" : "Gain in electrons",
+              "b" : "Gain of hydrogen",
+              "c" : "Loss of electrons ",
+              "d" : "Combustion"
+          },
+          "3":{
+              "a" : "Electrons in their nuclei.",
+              "b" : "Nuclei with less number of neutrons",
+              "c" : "Unstable nuclei",
+              "d" : "Electrons removed from the outermost shell"
+          },
+          "4":{
+              "a" : "Nuclear heat is carried by ordinary steam",
+              "b" : "Uranium is difficult to heat",
+              "c" : "The walls of nuclear reactors can not withstand high temperature ",
+              "d" : "High pressure inside the reactor reduces the temperature"
+          },
+          "5":{
+            "a" : "Nuclear fission",
+            "b" : "Nuclear fusion",
+            "c" : "Combustion of hydrogen",
+            "d" : "Combustion of He "
+        },
+        "6":{
+            "a" : "Barium",
+            "b" : "Uranium",
+            "c" : "Uranium-238",
+            "d" : "Helium"
+        },
+        "7":{
+            "a" : "Vander Walls forces",
+            "b" : "Covalent attraction",
+            "c" : "Hydrogen bond formation",
+            "d" : "Dipole dipole attraction "
+        },
+        "8":{
+            "a" : "Weak dissociation of water molecule",
+            "b" : "Hydrogen bonding among water molecules",
+            "c" : "Its high specific heat",
+            "d" : "is high dielectric constant."
+        },
+        "9":{
+            "a" : "Sold state of ice ",
+            "b" : "Its low density",
+            "c" : "Crystalline nature ",
+            "d" : "Hydrogen bonding"
+        },
+        "10":{
+            "a" : "Higher than the critical temperature",
+            "b" : "Lower than its critical temperature",
+            "c" : "Equal to its entical temperature",
+            "d" : "None"
+        }
+        
+    },
+    {
+        "1" : "Nuclear fission",
+
+        "2" : "Gain of hydrogen",
+
+        "3" : "Nuclei with less number of neutrons",
+        
+        "4" : "Uranium is difficult to heat",
+
+        "5" : "Nuclear fusion",
+
+        "6" : "Helium",
+
+        "7" : "Hydrogen bond formation",
+
+        "8" : "Hydrogen bonding among water molecules",
+
+        "9" : "Hydrogen bonding",
+
+        "10" : "Lower than its critical temperature"
+        
+
+    }
+
+]
+

@@ -1,0 +1,98 @@
+[
+    
+    {
+      
+           "1": "1 : THE SYMBOL ( Ne )  STAND FOR..?",
+           "2": "2 :THE CHEMICAL FORMULA OF( Calcium carbonate )IS..?",
+           "3": "3 : THE SYMBOL ( Si )  STAND FOR..?",
+           "4": "4 : The inorganic natural resource of the earth is..?",
+           "5": "5 : THE SYMBOL ( Sc )  STAND FOR..?",
+           "6": "6 :THE CHEMICAL FORMULA OF ( Nitrous acid ) IS..?",
+           "7": "7 : THE SYMBOL ( Tc )  STAND FOR..?",
+           "8": "8 : THE SYMBOL ( Ru )  STAND FOR..?",
+           "9": "9 :THE CHEMICAL FORMULA OF ( Ammonium phosphate ) IS..?",
+           "10": "10 :THE CHEMICAL FORMULA OF ( Citric acid ) IS..?"
+  
+        },
+    {
+           "1":{
+            "a" : "Nitrogen",
+            "b" : "Neon",
+            "c" : "Niobium",
+            "d" : "None of above"
+        },                    
+           "2":{
+            "a" : "CaCO<sub>2</sub>",
+            "b" : "CNaCO<sub>4</sub>",
+            "c" : "CalCO<sub>3</sub>",
+            "d" : "CaCO<sub>3</sub>"
+          },
+          "3":{
+            "a" : "Sulfur",
+            "b" : "Silicon",
+            "c" : "Selenium",
+            "d" : "None of above"
+        },
+         "4":{
+            "a" : "Mineral fuels",
+            "b" : "Wood",
+            "c" : "Coal",
+            "d" : "Microbes"
+            },
+        "5":{
+              "a" : "Sulfur",
+              "b" : "Strontium",
+              "c" : "Selenium",
+              "d" : "Scandium"
+          },
+        "6":{
+             "a" : "HNO<SUB>4</SUB>",
+             "b" : "HNO<SUB>3</SUB>",
+             "c" : "HNO<SUB>2</SUB>",
+             "d" : "H<SUB>2</SUB>CO<SUB>3</SUB>"
+             },
+      "7":{
+              "a" : "Tin",
+              "b" : "Ruthenium",
+              "c" : "Strontium",
+              "d" : "Technetium"
+          },
+          "8":{
+              "a" : "Strontium",
+              "b" : "Rubidium",
+              "c" : "Ruthenium",
+              "d" : "Rhodium"
+          },
+
+         "9":{
+              "a" : "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>",
+              "b" : "NaHo<SUB>3</SUB>",
+              "c" : "N(OH)<sub>3</sub>",
+              "d" : "(NH<sub>4</sub>)<sub>3</sub>PO<sub>3</sub>"
+          },
+
+          "10":{
+              "a" : "C<sub>6</sub>H<sub>4</sub>O<sub>7</sub>",
+              "b" : "CaCH<SUB>6</SUB>",
+              "c" : "C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>",
+              "d" : "CH<SUB>6</SUB>H<sub>8</sub>O<sub>7</sub>"
+             }
+        
+    },
+    {
+         "1" : "Neon",
+         "2" : "CaCO<sub>3</sub>",
+         "3" : "Silicon",
+         "4" : "Mineral fuels",
+         "5" : "Scandium",
+         "6" : "HNO<SUB>2</SUB>",
+         "7" : "Technetium",
+         "8" : "Ruthenium",
+         "9" : "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>",
+         "10" : "C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>"
+        
+    }
+
+]
+
+

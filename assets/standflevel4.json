@@ -1,0 +1,97 @@
+
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Ga )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Ge )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( As )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( Se )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( Br) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Kr )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Rb )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Sr )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Y )  STAND FOR..?",
+          "10":"10: THE SYMBOL ( Zr )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Germanium",
+              "b" : "Selenium",
+              "c" : "Gallium",
+              "d" : "Gadolinium"
+          },
+          "2":{
+              "a" : "Germanium",
+              "b" : "Gallium",
+              "c" : "Gadolinium",
+              "d" : "none of above"
+
+          },
+          "3":{
+              "a" : "Barium",
+              "b" : "Ruthenium",
+              "c" : "Rhodium",
+              "d" : "Arsenic"
+          },
+          "4":{
+              "a" : "Calcium",
+              "b" : "Sulfur",
+              "c" : "Selenium",
+              "d" : "Silicon"
+          },
+          "5":{
+            "a" : "Bromine",
+            "b" : "Chlorine",
+            "c" : "Beryllium",
+            "d" : "Boron"
+        },
+        "6":{
+            "a" : "Radon",
+            "b" : "Copper",
+            "c" : "Krypton",
+            "d" : "Zinc"
+        },
+        "7":{
+            "a" : "Rolybdenum",
+            "b" : "Boron",
+            "c" : "Radon",
+            "d" : "Rubidium"
+        },
+        "8":{
+            "a" : "Samarium",
+            "b" : "Strontium",
+            "c" : "Nitrogen",
+            "d" : "Astatine"
+        },
+        "9":{
+            "a" : "Yttrium",
+            "b" : "Krypton",
+            "c" : "Strontium",
+            "d" : "Chromium"
+        },
+        "10":{
+            "a" : "Zrconam",
+            "b" : "Neon",
+            "c" : "Zinc",
+            "d" : "Zirconium"
+        }
+        
+    },
+    {
+        "1" : "Gallium",
+        "2" : "Germanium",
+        "3" : "Arsenic",
+        "4" : "Selenium",
+        "5" : "Bromine",
+        "6" : "Krypton",
+        "7" : "Rubidium",
+        "8" : "Strontium",
+        "9" : "Yttrium",
+        "10" : "Zirconium"
+        
+    }
+
+]
+

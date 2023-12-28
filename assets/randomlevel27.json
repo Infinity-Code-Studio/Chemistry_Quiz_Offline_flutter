@@ -1,0 +1,104 @@
+[
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( F )  STAND FOR..?",
+          "2": "2 :THE CHEMICAL FORMULA OF( Sodium phosphate )IS..?",
+          "3": "3 : THE SYMBOL ( P )  STAND FOR..?",
+          "4": "4 : Which of the following gases does not pollute air..?",
+          "5": "5 : THE SYMBOL ( Cr )  STAND FOR..?",
+          "6": "6 :THE CHEMICAL FORMULA OF ( Hydrobromic acid ) IS..?",
+          "7": "7 : THE SYMBOL ( Nb )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Mo )  STAND FOR..?",
+          "9": "9 :THE CHEMICAL FORMULA OF ( Ammonium nitrate ) IS..?",
+
+         "10": "10 :THE CHEMICAL FORMULA OF ( Carbon tetrachloride ) IS..?"
+
+          
+  
+        },
+    {
+          "1":{
+            "a" : "Fermium",
+            "b" : "Francium",
+            "c" : "Hafnium",
+            "d" : "Fluorine"
+        },
+          "2":{
+           "a" : "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+           "b" : "(N<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+           "c" : "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+           "d" : "HNO<sub>3</sub>"
+             },
+          "3":{
+            "a" : "Praseodymium",
+            "b" : "Palladium",
+            "c" : "Potassium",
+            "d" : "Phosphorus"
+        },
+          
+         "4":{
+             "a" : "Carbon dioxide",
+             "b" : "Carbon monoxide",
+             "c" : "Nitrogen dioxide ",
+             "d" : "Sulphur dioxide"
+             },
+            "5":{
+              "a" : "Chromium",
+              "b" : "Calcium",
+              "c" : "Chlorine",
+              "d" : "none of above"
+
+          },
+          "6":{
+            "a" : "HBr",
+            "b" : "NaNO<SUB>3</SUB>",
+            "c" : "HBO<SUB>2</SUB>",
+            "d" : "H<SUB>2</SUB>Br"
+             },
+        "7" :{
+              "a" : "Neodymium",
+              "b" : "Neon",
+              "c" : "Niobium",
+              "d" : "Nitrogen"
+          },
+          "8":{
+              "a" : "Molybdenum",
+              "b" : "Mercury",
+              "c" : "Mendelevium",
+              "d" : "Magnesium"
+
+          },
+
+         "9":{
+             "a" : "Na<SUB>2</SUB>",
+             "b" : "NaHo<SUB>3</SUB>",
+             "c" : "NaOH",
+             "d" : "NH<sub>4</sub>NO<sub>3</sub>"
+         },
+         "10":{
+             "a" : "Cl",
+             "b" : "CCl<sub>4</sub>",
+             "c" : "CCl<sub>4</sub>H<sub>10",
+             "d" : "Cl<sub>4</sub>H<sub>10</sub>"
+             }
+        
+            },
+        {
+         "1" : "Fluorine",
+         "2" : "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+         "3" : "Phosphorus",
+         "4" : "Carbon dioxide",
+         "5" : "Chromium",
+         "6" : "HBr",
+         "7" : "Niobium",
+         "8" : "Molybdenum",
+         "9" : "NH<sub>4</sub>NO<sub>3</sub>",
+         "10" : "CCl<sub>4</sub>"
+
+        
+        
+    }
+
+]
+

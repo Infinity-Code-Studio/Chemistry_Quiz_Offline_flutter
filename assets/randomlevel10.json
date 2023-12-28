@@ -1,0 +1,106 @@
+[
+    
+    {
+      
+           "1": "1 :THE CHEMICAL FORMULA OF ( Sodium nitrite ) IS..?",
+
+"2": "2 :THE CHEMICAL FORMULA OF ( Sulfate ion ) IS..?",
+
+"3": "3 :THE CHEMICAL FORMULA OF ( Barium carbonate ) IS..?",
+"4": "4 : THE SYMBOL ( Au )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( W ) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Re )  STAND FOR..?",
+           "7": "7 : With the rise in temperature conductivity of metais..?",
+
+"8": "8 : Heavy water is known as heavy because it..?",
+
+"9": "9 : On descending a group in a periodic table electropositive character of elements..?",
+"10":"10: In the periodic table on moving from left to right across a period, the metallic character of an element..?"
+          
+  
+        },
+    {
+         "1":{
+  "a" : "NaNO<sub>2</sub>",
+  "b" : "NaNO",
+  "c" : "NaNO<sub>3</sub>",
+  "d" : "NaH<sub>2</sub>"
+},
+
+"2":{
+  "a" : "SO<sub>4",
+  "b" : "Si<sub>4</sub><sup>2−</sup>",
+  "c" : "SO<sub>4</sub><sup>2−</sup>",
+  "d" : "SO<sub>3</sub><sup>2−</sup>"
+},
+"3":{
+  "a" : "Ba<sub>2</sub>CO<sub>4</sub>",
+  "b" : "Ba<sub>2</sub>CO<sub>3</sub>",
+  "c" : "BaO<sub>3</sub>",
+  "d" : "BaCO<sub>3</sub>"
+},
+         "4":{
+              "a" : "Gadolinium",
+              "b" : "Gold",
+              "c" : "Germanium",
+              "d" : "Gallium"
+          },
+          "5":{
+            "a" : "Tungsten",
+            "b" : "Tantalum",
+            "c" : "Thorium",
+            "d" : "Thallium"
+        },
+        "6":{
+            "a" : "Iron",
+            "b" : "Radon",
+            "c" : "Rubium",
+            "d" : "Rhenium"
+        },
+         "7":{
+"a" : "Decreases",
+"b" : "increases",
+"c" : "Remains unchanged",
+"d" : "May decrease or increase"
+},
+"8":{
+"a" : "is denser than ordinary water",
+"b" : "is an oxide of deuterium",
+"c" : "Has a heavy or bad tastes",
+"d" : "Hus a heaver isotope of hydrogen"
+},
+"9":{
+"a" : "Increases",
+"b" : "Decreases",
+"c" : "Remains same",
+"d" : "None"
+},
+         "10":{
+"a" : "Increases",
+"b" : "Decresses",
+"c" : "Increases and then decreases ",
+"d" : "Remains constant"
+}
+        
+    },
+    {
+        "1" : "NaNO<sub>2</sub>",
+
+"2" : "SO<sub>4</sub><sup>2−</sup>",
+
+"3" : "BaCO<sub>3</sub>",
+"4" : "Gold",
+        "5" : "Tungsten",
+        "6" : "Rhenium",
+            "7" : "increases",
+
+"8" : "is an oxide of deuterium",
+
+"9" : "Increases",
+"10" : "Decresses"
+        
+        
+    }
+
+]
+

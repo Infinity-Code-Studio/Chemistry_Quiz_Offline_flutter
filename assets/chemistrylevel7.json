@@ -1,0 +1,95 @@
+
+            [
+    
+                {
+                  
+                      "1": "1 : Number of hydrogen atoms in a Glucose molecule",
+                      "2": "2 : Except mercury which is the other metal that is liquid at standard conditions for temperature and pressure",
+                      "3": "3 : What is the chemical symbol of mercury",
+                      "4": "4 : What is the atomic number of mercury",
+                      "5": "5 : Plastic is a type of",
+                      "6": "6 : Which one element has the highest electronegativity value",
+                      "7": "7 : Which one element has the lowest electronegativity value",
+                      "8": "8 : Nylon is a type of",
+                      "9": "9 : Which one is the most dense liquid from the below",
+                      "10":"10: Normal rainwater is slightly acidic due to the presence of"
+              
+                    },
+                {
+                      "1" :{
+                          "a" : "6",
+                          "b" : "8",
+                          "c" : "12",
+                          "d" : "14"
+                      },
+                      "2":{
+                          "a" : "Lead",
+                          "b" : "Bromine",
+                          "c" : "Barium",
+                          "d" : "Magnesium"
+                      },
+                      "3":{
+                          "a" : "Mr",
+                          "b" : "Mg",
+                          "c" : "Hg",
+                          "d" : "None of the above"
+                      },
+                      "4":{
+                          "a" : "32",
+                          "b" : "41",
+                          "c" : "63",
+                          "d" : "80"
+                      },
+                      "5":{
+                        "a" : "Polyester",
+                        "b" : "Polymer",
+                        "c" : "Acrylic",
+                        "d" : "None of the above"
+                    },
+                    "6":{
+                        "a" : "Lithium",
+                        "b" : "Nitrogen",
+                        "c" : "Chlorine",
+                        "d" : "Fluorine"
+                    },
+                    "7":{
+                        "a" : "Fluorine",
+                        "b" : "Chlorine",
+                        "c" : "Francium",
+                        "d" : "Radium"
+                    },
+                    "8":{
+                        "a" : "Polyamide",
+                        "b" : "Polyolefin",
+                        "c" : "Polyester",
+                        "d" : "Acrylic"
+                    },
+                    "9":{
+                        "a" : "Water",
+                        "b" : "Choloform",
+                        "c" : "Gasolin",
+                        "d" : "None of the above"
+                    },
+                    "10":{
+                        "a" : "Carbon dioxide",
+                        "b" : "Sulphur dioxide",
+                        "c" : "Methane",
+                        "d" : "None of the above"
+                    }
+                    
+                },
+                {
+                    "1" : "12",
+                    "2" : "Bromine",
+                    "3" : "Hg",
+                    "4" : "80",
+                    "5" : "Polymer",
+                    "6" : "Fluorine",
+                    "7" : "Francium",
+                    "8" : "Polyamide",
+                    "9" : "Choloform",
+                    "10" : "Carbon dioxide"
+                    
+                }
+            
+            ]

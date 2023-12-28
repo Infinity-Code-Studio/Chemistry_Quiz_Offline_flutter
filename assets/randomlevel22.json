@@ -1,0 +1,108 @@
+[
+    
+    {
+      
+         "1": "1 : When nuclear energy is intended to be harnessed for generation of electricity potentially destructive neutrons released in a nuclear reactor are absorbed by..?",
+
+         "2": "2 : Nuclear power reactors are operated at low temperatures and consequently with lower efficiency because..?",
+
+         "3": "3 : The energy emitted from the sun is supposed to be due to..?",
+
+          "4": "4 :THE CHEMICAL FORMULA OF ( Calcium nitrate ) IS..?",
+
+         "5": "5 :THE CHEMICAL FORMULA OF ( Ammonium hydroxide ) IS..?",
+
+         "6": "6 :THE CHEMICAL FORMULA OF ( Calcium oxide ) IS..?",
+          "7": "7 : THE SYMBOL ( Bk )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Cf )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Es )  STAND FOR..?", 
+          "10":"10: THE SYMBOL ( Fm )  STAND FOR..?"
+  
+          
+  
+        },
+    {
+           "1" :{
+  "a" : "Heavy water",
+  "b" : "Long rods of Cd",
+  "c" : "Cubical blocks of steel",
+  "d" : "A pile of blocks made of graphite"
+},
+"2":{
+  "a" : "Nuclear heat is carried by ordinary steam",
+  "b" : "Uranium is difficult to heat",
+  "c" : "The walls of nuclear reactors can not withstand high temperaturo",
+  "d" : "High pressure inside the reactor reduces the temperature"
+},
+"3":{
+  "a" : "Nuclear fission",
+  "b" : "Nuclear fusion",
+  "c" : "Combustion of hydrogen",
+  "d" : "Combustion of He"
+},
+             "4":{
+  "a" : "Ca(NO<sub>3</sub>)<sub>2</sub>",
+  "b" : "CaCH<SUB>3</SUB>",
+  "c" : "CaH<sub>4</sub>",
+  "d" : "Ca(NO<sub>3</sub>)<sub>4</sub>"
+},
+"5":{
+  "a" : "NHo<SUB>3</SUB>",
+  "b" : "No<SUB>3</SUB>",
+  "c" : "NH<sub>4</sub>OH",
+  "d" : "NH<sub>2</sub>OH"
+},
+"6":{
+  "a" : "Ca<sub>2</sub>O<sub>3</sub>",
+  "b" : "CaO",
+  "c" : "CaO<SUB>2</SUB>",
+  "d" : "Ca<SUB>2</SUB>O"
+},
+         "7":{
+            "a" : "Berkelium",
+            "b" : "Boron",
+            "c" : "Beryllium",
+            "d" : "Bromine"
+        },
+        "8":{
+            "a" : "Calcium",
+            "b" : "Chlorine",
+            "c" : "Californium",
+            "d" : "Curium"
+        },
+        "9":{
+            "a" : "Europium",
+            "b" : "Einsteinium",
+            "c" : "Erunium",
+            "d" : "Erbium"
+        },
+        "10":{
+            "a" : "Farnium",
+            "b" : "Francium",
+            "c" : "Fluorine",
+            "d" : "Fermium"
+        }
+        
+    },
+    {
+       "1" : "Cubical blocks of steel",
+
+       "2" : "The walls of nuclear reactors can not withstand high temperaturo",
+
+       "3" : "Nuclear fusion",
+
+       "4" : "Ca(NO<sub>3</sub>)<sub>2</sub>",
+
+       "5" : "NH<sub>4</sub>OH",
+
+       "6" : "CaO",
+        "7" : "Berkelium",
+        "8" : "Californium",
+        "9" : "Einsteinium",
+        "10" : "Fermium"
+        
+        
+    }
+
+]
+

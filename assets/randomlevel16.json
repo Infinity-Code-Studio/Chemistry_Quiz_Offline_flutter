@@ -1,0 +1,99 @@
+[
+    
+    {
+      
+       "1": "1 : THE SYMBOL ( N )  STAND FOR..?",  
+       "2": "2 :THE CHEMICAL FORMULA OF( Nitric acid )IS..?",
+       "3": "3 : THE SYMBOL ( Cl )  STAND FOR..?",
+       "4": "4 : Nameplates made of brass get discoloured in air because of the presence of which of the following gases in the air..?",
+       "5": "5 : THE SYMBOL ( Cl )  STAND FOR..?",
+       "6": "6 :THE CHEMICAL FORMULA OF ( Calcium hydroxide ) IS..?",
+       "7": "7 : THE SYMBOL ( Rb )  STAND FOR..?",
+       "8": "8 : THE SYMBOL ( Sr )  STAND FOR..?",
+       "9": "9 :THE CHEMICAL FORMULA OF ( Sodium nitrate ) IS..?",
+       "10": "10 :THE CHEMICAL FORMULA OF ( Aluminium sulfate ) IS..?"
+
+  
+        },
+    {
+          "1":{
+              "a" : "Nitrogen",
+              "b" : "Neon",
+              "c" : "Indium",
+              "d" : "None of above"
+          },
+          "2":{
+              "a" : "HNO<sub>2</sub></sub>",
+              "b" : "HNO<sub>3</sub>",
+              "c" : "HNO<sub>4</sub>",
+              "d" : "HO<sub>3</sub>"
+             },
+          "3":{
+              "a" : "Calcium",
+              "b" : "Chromium",
+              "c" : "Chlorine",
+              "d" : "None of above"
+          },
+         "4":{
+              "a" : "Oxygen",
+              "b" : "Nitrogen",
+              "c" : "Carbon dioxide",
+              "d" : "Hydrogen sulphide"
+             },
+         "5":{
+              "a" : "Calcium",
+              "b" : "Chromium",
+              "c" : "Chlorine",
+              "d" : "None of above"
+          },
+          "6":{
+              "a" : "HCl",
+              "b" : "CaCO<SUB>3</SUB>",
+              "c" : "C<SUB>2</SUB>H<SUB>5</SUB>OH",
+              "d" : "Ca(OH)<SUB>2</SUB>"
+             },
+        "7":{
+            "a" : "Rolybdenum",
+            "b" : "Boron",
+            "c" : "Radon",
+            "d" : "Rubidium"
+        },
+        "8":{
+            "a" : "Samarium",
+            "b" : "Strontium",
+            "c" : "Nitrogen",
+            "d" : "Astatine"
+        },
+       "9":{
+            "a" : "NaHo<SUB>3</SUB>",
+            "b" : "NaNO<sub>3</sub>",
+            "c" : "Na<SUB>2</SUB>",
+            "d" : "No<SUB>3</SUB>"
+           },
+       "10":{
+            "a" : "Al<sub>2</sub>SO<sub>4</sub>",
+            "b" : "Al<sub>2</sub>(SO<sub>3</sub>)<sub>3</sub>",
+            "c" : "Al<sub>2</sub>(SO<sub>4</sub>)<sub>4</sub>",
+            "d" : "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>"
+      }
+        
+    },
+    {
+           "1" : "Nitrogen",
+           "2" : "HNO<sub>3</sub>",
+           "3" : "Chlorine",
+           "4" : "Hydrogen sulphide",
+           "5" : "Chlorine",
+           "6" : "Ca(OH)<SUB>2</SUB>",
+           "7" : "Rubidium",
+           "8" : "Strontium",
+           "9" : "NaNO<sub>3</sub>",
+           "10" : "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>"
+        
+        
+    }
+
+]
+
+
+

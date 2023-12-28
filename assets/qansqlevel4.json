@@ -1,0 +1,114 @@
+
+  [
+    
+    {
+      
+          "1": "1 : Gases can be compressed to a greater extent because..?",
+
+          "2": "2 : The cooling caused by the expansion of a gas below its inversion compressed temperature without doing external work is called..?",
+
+          "3": "3 : Which of the following solutions will have the highest boiling point..?",
+
+          "4": "4 : Sea water is converted into fresh water by using the phenomenon of..?",
+
+          "5": "5 : When glycerine is added to a litre of water, which of the following is observed..?",
+
+          "6": "6 : When we move from left to right in second period, the atomic volume of the element..?",
+
+          "7": "7 : Generally in a given period in the periodic table, as we move from left to right, the electropositive character of elements..?",
+
+          "8": "8 : Atom bomb is based on the principle of..?",
+
+          "9": "9 : Oxidation involves..?",
+
+          "10":"10: The substances are radioactive, which have..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Molecules are elastic",
+              "b" : "There is no gap between molecules",
+              "c" : "These are lighter than liquids",
+              "d" : "There is a large space between the molecules"
+          },
+          "2":{
+              "a" : "Joule Thomson effect",
+              "b" : "Adiabatic demagnetism",
+              "c" : "Faraday Tyndall effect ",
+              "d" : "Compton effect"
+          },
+          "3":{
+              "a" : "1% glucose in water",
+              "b" : "1% Sucrose in water",
+              "c" : "1% NaCl in water ",
+              "d" : "1% CaCl₂ in water"
+          },
+          "4":{
+              "a" : "Plasmolysis",
+              "b" : "Sedimentation",
+              "c" : "Reverse osmosis",
+              "d" : "Diffusion"
+          },
+          "5":{
+            "a" : "Water evaporates more easily",
+            "b" : "The temperature of water increases",
+            "c" : "The freezing point of water is lowered",
+            "d" : "The viscosity of water is lowered"
+        },
+        "6":{
+            "a" : "Increases",
+            "b" : "Increases with constant state",
+            "c" : "Decreases",
+            "d" : "None of these"
+        },
+        "7":{
+            "a" : "Increases",
+            "b" : "Decreases",
+            "c" : "Neither increases nor decreases",
+            "d" : "Decreases then increases"
+        },
+        "8":{
+            "a" : "Nuclear fusion ",
+            "b" : "Nuclear fission",
+            "c" : "Radioactive",
+            "d" : "Nuclear fission and fusion both"
+        },
+        "9":{
+            "a" : "Gain in electrons",
+            "b" : "Loss of electrons",
+            "c" : "Combustion",
+            "d" : "Gain of hydrogen"
+        },
+        "10":{
+            "a" : "Electrons in their nuclei ",
+            "b" : "Nuclei with less number of neutrons",
+            "c" : "Unstable nuclei",
+            "d" : "Electrons removed from the outermost shell"
+        }
+        
+    },
+    {
+        "1" : "There is a large space between the molecules",
+
+        "2" : "Joule Thomson effect",
+
+        "3" : "1% CaCl₂ in water",
+
+        "4" : "Reverse osmosis",
+
+        "5" : "The temperature of water increases",
+
+        "6" : "Increases",
+
+        "7" : "Decreases",
+
+        "8" : "Radioactive",
+
+        "9" : "Gain in electrons",
+
+        "10" : "Unstable nuclei"
+        
+
+    }
+
+]

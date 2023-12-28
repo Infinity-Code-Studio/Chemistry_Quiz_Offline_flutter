@@ -1,0 +1,115 @@
+
+
+  [
+    
+    {
+      
+          "1": "1 : What is the chemical name of Baking Soda..?",
+
+          "2": "2 : Milk lacks in one important nutrient; which..?",
+
+          "3": "3 : Ripening of fruits is hastened by which of the following gases..?",
+
+          "4": "4 : Iron articles rust because of the formation of..?",
+
+          "5": "5 : Gunpowder consists of..?",
+
+          "6": "6 : sulphur X-rays are produced when a stream of electrons in an X-ray tube? ..?",
+
+          "7": "7 : In the periodic table, elements have been arranged..?",
+
+          "8": "8 : Which group of elements in the periodic table show highest first ionisation potential Elements in the..?",
+
+          "9": "9 : When we move from left to right in second penod, the atomic volume of the element..?",
+
+          "10":"10: Generally in a given period in the periodic table as we move from left to right, the electropositive character of elements..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Sodium bicarbonate",
+              "b" : "Sodium Nitrate",
+              "c" : "Sodium Carbonate",
+              "d" : "Potassium"
+          },
+          "2":{
+              "a" : "Calcium",
+              "b" : "Potassium",
+              "c" : "Iron",
+              "d" : "Protein"
+          },
+          "3":{
+              "a" : "Carbon dioxide ",
+              "b" : "Ethylene",
+              "c" : "Hydrogen",
+              "d" : "Methane"
+          },
+          "4":{
+              "a" : "ferrous chloride",
+              "b" : "a mixture of ferrous and ferric hydroxide",
+              "c" : "sodium carbonate",
+              "d" : "ferric chloride"
+          },
+          "5":{
+            "a" : "75% potassium nitrite + 15% charcoal + 10% sulphur",
+            "b" : "75% potassium nitrite + 10% charcoal + 15% sulphur",
+            "c" : "75% potassium nitrate + 10% charcoal + 15% sulphur",
+            "d" : "75% potassium nitrate + 15% charcoal + 15%"
+        },
+        "6":{
+            "a" : "Hits the glass wall of the tube",
+            "b" : "Srikes metal target",
+            "c" : "Pass through a strong magnetic field",
+            "d" : "None"
+        },
+        "7":{
+            "a" : "In order of increasing volume",
+            "b" : "In order of increasing atomic number",
+            "c" : "in order of increasing atomic weights",
+            "d" : "in order of increasing density"
+        },
+        "8":{
+            "a" : "Left hand top corner",
+            "b" : "Left hand bottom corner",
+            "c" : "Right hand top corner",
+            "d" : "Right hand bottom corner"
+        },
+        "9":{
+            "a" : "Increases",
+            "b" : "Increases with constant state",
+            "c" : "Decreases",
+            "d" : "None of these"
+        },
+        "10":{
+            "a" : "Increases",
+            "b" : "Decreases",
+            "c" : "Neither increases nor decreases",
+            "d" : "Decreases then increases"
+        }
+        
+    },
+    {
+        "1" : "Sodium bicarbonate",
+
+        "2" : "Potassium",
+
+        "3" : "Methane",
+
+        "4" : "a mixture of ferrous and ferric hydroxide",
+
+        "5" : "75% potassium nitrate + 15% charcoal + 15%",
+
+        "6" : "Srikes metal target",
+
+        "7" : "In order of increasing atomic number",
+
+        "8" : "Left hand top corner",
+
+        "9" : "None of these",
+
+        "10" : "Decreases"
+        
+
+    }
+
+]

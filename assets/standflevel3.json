@@ -1,0 +1,97 @@
+
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Ti )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Cr )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Sc )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( Cu )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( V ) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Zn )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Mn )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Fe )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Co )  STAND FOR..?",
+          "10":"10: THE SYMBOL ( Ni )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Strontium",
+              "b" : "Titanium",
+              "c" : "Krypton",
+              "d" : "Potassium"
+          },
+          "2":{
+              "a" : "Chromium",
+              "b" : "Calcium",
+              "c" : "Chlorine",
+              "d" : "none of above"
+
+          },
+          "3":{
+              "a" : "Sulfur",
+              "b" : "Strontium",
+              "c" : "Selenium",
+              "d" : "Scandium"
+          },
+          "4":{
+              "a" : "Calcium",
+              "b" : "Chromium",
+              "c" : "Copper",
+              "d" : "None of above"
+          },
+          "5":{
+            "a" : "Vanadium",
+            "b" : "Scandium",
+            "c" : "Livermorium",
+            "d" : "Strontium"
+        },
+        "6":{
+            "a" : "Zirconium",
+            "b" : "Copper",
+            "c" : "Nihonium",
+            "d" : "Zinc"
+        },
+        "7":{
+            "a" : "Molybdenum",
+            "b" : "Magnesium",
+            "c" : "Manganese",
+            "d" : "Mercury"
+        },
+        "8":{
+            "a" : "Copper",
+            "b" : "Iron",
+            "c" : "Zinc",
+            "d" : "Fluorine"
+        },
+        "9":{
+            "a" : "Cobalt",
+            "b" : "Silicon",
+            "c" : "Copper",
+            "d" : "Chromium"
+        },
+        "10":{
+            "a" : "Nitrogen",
+            "b" : "Neon",
+            "c" : "Nickel",
+            "d" : "Nihonium"
+        }
+        
+    },
+    {
+        "1" : "Titanium",
+        "2" : "Chromium",
+        "3" : "Scandium",
+        "4" : "Copper",
+        "5" : "Vanadium",
+        "6" : "Zinc",
+        "7" : "Manganese",
+        "8" : "Iron",
+        "9" : "Cobalt",
+        "10" : "Nickel"
+        
+    }
+
+]
+

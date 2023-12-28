@@ -1,0 +1,107 @@
+[
+    
+    {
+      
+           "1": "1 :THE CHEMICAL FORMULA OF ( Sodium peroxide ) IS..?",
+
+"2": "2 :THE CHEMICAL FORMULA OF ( Zinc carbonate ) IS..?",
+
+"3": "3 :THE CHEMICAL FORMULA OF ( Boric acid ) IS..?",
+"4": "4 : THE SYMBOL ( Gd )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( Dy) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Ho )  STAND FOR..?",
+
+"7": "7 : Detergents are better than soaps because..?",
+
+"8": "8 : Chemically soap is..?",
+
+"9": "9 : Lipids are..?",
+"10":"10: Milk can be preserved by a few drops of..?"
+          
+  
+        },
+    {
+          "1":{
+  "a" : "Na<sub>2</sub>O<sub>4</sub>",
+  "b" : "Na<sub>2</sub>Cr<sub>2</sub>",
+  "c" : "Na<sub>2</sub>O<sub>2</sub>",
+  "d" : "Na<sub>2</sub>O<sub>4</sub>"
+},
+"2":{
+  "a" : "ZnCO<sub>3</sub>",
+  "b" : "Zn<sub>2</sub>CO<sub>2</sub>",
+  "c" : "Zn<sub>2</sub>CO<sub>3</sub>",
+  "d" : "ZnCO<sub>2</sub>"
+},
+"3":{
+  "a" : "H<sub>3</sub>BO",
+  "b" : "H<sub>3</sub>BO<sub>2</sub>",
+  "c" : "H<sub>2</sub>BO<sub>3</sub>",
+  "d" : "H<sub>3</sub>BO<sub>3</sub>"
+},
+           "4":{
+              "a" : "Gadolinium",
+              "b" : "Palladium",
+              "c" : "Germanium",
+              "d" : "Gallium"
+          },
+          "5":{
+            "a" : "Gold",
+            "b" : "Iridium",
+            "c" : "Gadolinium",
+            "d" : "Dysprosium"
+        },
+        "6":{
+            "a" : "Hassium",
+            "b" : "Helium",
+            "c" : "Holmium",
+            "d" : "Hydrogen"
+        },
+        "7":{
+"a" : "They wash clothes better ",
+"b" : "Absorb the hardness of water",
+"c" : "They are less affected by hrard water",
+"d" : "They are less soapy"
+},
+"8":{
+"a" : "Base",
+"b" : "Salt",
+"c" : "Acid",
+"d" : "Hydrocarbon"
+},
+"9":{
+"a" : "Long chain fatty acid esters",
+"b" : "Long chain sulphonic acid esters",
+"c" : "Polymeric hydrocarbons",
+"d" : "Polymeric aldehydes"
+},
+        "10":{
+"a" : "Formic acid solution",
+"b" : "Formaldehyde solution",
+"c" : "Acetic acid solution",
+"d" : "Acetaldehyde solution"
+}
+        
+    },
+    {
+        "1" : "Na<sub>2</sub>O<sub>2</sub>",
+
+"2" : "ZnCO<sub>3</sub>",
+
+"3" : "H<sub>3</sub>BO<sub>3</sub>",
+
+"4" : "Gadolinium",
+        "5" : "Dysprosium",
+        "6" : "Holmium",
+          "7" : "They are less affected by hrard water",
+
+"8" : "Acid",
+
+"9" : "Long chain fatty acid esters",
+"10" : "Formaldehyde solution"
+        
+        
+    }
+
+]
+

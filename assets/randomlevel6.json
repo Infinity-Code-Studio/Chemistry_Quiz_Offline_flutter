@@ -1,0 +1,100 @@
+[
+    
+    {
+      
+                "1": "1 : THE SYMBOL ( H )  STAND FOR..?",
+                "2": "2 :THE CHEMICAL FORMULA OF( Hydrochloric acid )IS..?",
+                "3": "3 : THE SYMBOL ( K )  STAND FOR..?",
+                "4": "4 : Which of the following gases is used in fire extinguishers?..?",
+                "5": "5 : THE SYMBOL ( K )  STAND FOR..?",
+                "6": "6 :THE CHEMICAL FORMULA OF ( Carbonic acid ) IS..?",
+                "7": "7 : THE SYMBOL ( Ga )  STAND FOR..?",
+                "8": "8 : THE SYMBOL ( Ge )  STAND FOR..?",
+                "9": "9 :THE CHEMICAL FORMULA OF ( Sodium chloride ) IS..?",
+                "10": "10 :THE CHEMICAL FORMULA OF ( Cellulose ) IS..?"
+
+  
+        },
+    {
+          "1" :{
+              "a" : "Chlorine",
+              "b" : "Helium",
+              "c" : "Hydrogen",
+              "d" : "Water"
+          },
+          "2":{
+              "a" : "HCl",
+              "b" : "H<SUB>2</SUB>CL",
+              "c" : "H<SUB>3</SUB>L",
+              "d" : "H<SUB>2</SUB>S<SUB>O</SUB>4"
+              },
+           "3" :{
+              "a" : "Copper",
+              "b" : "Calcium",
+              "c" : "Carbon",
+              "d" : "Potassium"
+          },
+          "4" :{
+              "a" : "Oxygen",
+              "b" : "Hydrogen",
+              "c" : "Water vapour",
+              "d" : "Carbon dioxide"
+          },
+          "5" :{
+              "a" : "Copper",
+              "b" : "Calcium",
+              "c" : "Carbon",
+              "d" : "Potassium"
+          },
+          "6":{
+              "a" : "H<SUB>2</SUB>CO<SUB>3</SUB>",
+              "b" : "Mg(OH)<SUB>2</SUB>",
+              "c" : "NaOH",
+              "d" : "H<SUB>3</SUB>CO<SUB>3</SUB>"
+              },
+        "7" :{
+              "a" : "Germanium",
+              "b" : "Selenium",
+              "c" : "Gallium",
+              "d" : "Gadolinium"
+          },
+          "8":{
+              "a" : "Germanium",
+              "b" : "Gallium",
+              "c" : "Gadolinium",
+              "d" : "none of above"
+
+          },
+          "9":{
+             "a" : "HCL",
+             "b" : "NaCl",
+             "c" : "NaOH",
+             "d" : "NaOH<sub>2</sub>"
+             },
+         "10":{
+             "a" : "Cl",
+             "b" : "(C<sub>6</sub>H<sub>5</sub>O<sub>5</sub>)n",
+             "c" : "(C<sub>4</sub>H<sub>10</sub>O<sub>5</sub>)n",
+             "d" : "(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n"
+             }
+        
+    },
+
+    {
+         "1" : "Hydrogen",
+         "2" : "HCl",
+         "3" : "Potassium",
+         "4" : "Hydrogen",
+         "5" : "Potassium",
+         "6" : "H<SUB>2</SUB>CO<SUB>3</SUB>",
+         "7" : "Gallium",
+         "8" : "Germanium",
+         "9" : "NaCl",
+         "10" : "(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n"
+
+        
+        
+    }
+
+]
+

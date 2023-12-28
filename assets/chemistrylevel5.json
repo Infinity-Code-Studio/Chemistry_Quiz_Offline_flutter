@@ -1,0 +1,96 @@
+
+            [
+    
+                {
+                  
+                      "1": "1 : The property of hydrogen which distinguishes it from alkali metals is",
+                      "2": "2 : Aluminium chloride is",
+                      "3": "3 : Emulsifier is an agent which",
+                      "4": "4 : Colloids can be purified by",
+                      "5": "5 : For a spontaneous chemical process, the free energy change is",
+                      "6": "6 : Entropy of Universe is always",
+                      "7": "7 : The minimum energy required for an effective collision is",
+                      "8": "8 : The influence of temperature on reaction rate is predicted by",
+                      "9": "9 : Neoprene is a polymer of",
+                      "10":"10: Peptization is a process of"
+              
+                    },
+                {
+                      "1" :{
+                          "a" : "Its electropositive character",
+                          "b" : "Its affinity for non-metal",
+                          "c" : "Its reducing character",
+                          "d" : "Its non-metallic character"
+                      },
+                      "2":{
+                          "a" : "Bronsted Lowry Acid",
+                          "b" : "Arrhenius Acid",
+                          "c" : "Lewis Acid",
+                          "d" : "Lewis Base"
+                      },
+                      "3":{
+                          "a" : "Accelerates the dispersion",
+                          "b" : "Homogenizes the emulsion",
+                          "c" : "Stabilizes an emulsion",
+                          "d" : "Aids the flocculation of emulsion"
+                      },
+                      "4":{
+                          "a" : "Condensation",
+                          "b" : "Condensation",
+                          "c" : "Condensation",
+                          "d" : "Dialysis"
+                      },
+                      "5":{
+                        "a" : "Positive",
+                        "b" : "Negative",
+                        "c" : "Zero",
+                        "d" : "Depends on  exothermic or endothermic"
+                    },
+                    "6":{
+                        "a" : "Decreasing",
+                        "b" : "Zero",
+                        "c" : "Constant",
+                        "d" : "Increasing"
+                    },
+                    "7":{
+                        "a" : "Threshold energy",
+                        "b" : "Activation energy",
+                        "c" : "Free energy",
+                        "d" : "Internal energy"
+                    },
+                    "8":{
+                        "a" : "van der Waals equation",
+                        "b" : "Kirchhoff's equation",
+                        "c" : "Arrhenius equation",
+                        "d" : "Lewis equation"
+                    },
+                    "9":{
+                        "a" : "Chloroprene",
+                        "b" : "Isoprene",
+                        "c" : "Isobutane",
+                        "d" : "Isopentane"
+                    },
+                    "10":{
+                        "a" : "precipitation of colloidal particles",
+                        "b" : "purification of colloids",
+                        "c" : "protection of colloidal solution",
+                        "d" : "dispersing precipitates into colloidal solution"
+                    }
+                    
+                },
+                {
+                    "1" : "Its non-metallic character",
+                    "2" : "Lewis Acid",
+                    "3" : "Stabilizes an emulsion",
+                    "4" : "Dialysis",
+                    "5" : "Negative",
+                    "6" : "Increasing",
+                    "7" : "Activation energy",
+                    "8" : "Arrhenius equation",
+                    "9" : "Chloroprene",
+                    "10" : "dispersing precipitates into colloidal solution"
+                    
+                }
+            
+            ]
+          

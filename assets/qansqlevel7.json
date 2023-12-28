@@ -1,0 +1,114 @@
+
+  [
+    
+    {
+      
+          "1": "1 : Gelatin is often used as an ingredient in manufacture of ice cream. The purpose of the adding gelatin is..?",
+
+          "2": "2 : Digestion of fats in the intestines is aided by ..?",
+
+          "3": "3 : The rate of chemical reaction depends on the nature of chemical reactants, because..?",
+
+          "4": "4 : A closed flask contains water in all its three states, solids liquid and vapour at 0°C. In this situation the average KE of the water molecule will be..?",
+
+          "5": "5 : The reaction taking place at anode and cathode are respectively..?",
+
+          "6": "6 : During electrolysis, metals are deposited at the cathode, because the cathode..?",
+
+          "7": "7 : With the rise in temperature conductivity of metais..?",
+
+          "8": "8 : Heavy water is known as heavy because it..?",
+
+          "9": "9 : On descending a group in a periodic table electropositive character of elements..?",
+
+          "10":"10: In the periodic table on moving from left to right across a period, the metallic character of an element..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "To prevent formation of colloidal solution",
+              "b" : "To stabilize the colloids and prevent crystal growth",
+              "c" : "To improve the flavour",
+              "d" : "To increase the bulk"
+          },
+          "2":{
+              "a" : "Hydrolysis",
+              "b" : "De-emulsification",
+              "c" : "Emulsification",
+              "d" : "Oxidation"
+          },
+          "3":{
+              "a" : "Energy of activation differs from one reactant to another",
+              "b" : "Some of the reactants are solid at room temperature",
+              "c" : "Some of the reactants are coloured",
+              "d" : "All are correct"
+          },
+          "4":{
+              "a" : "in vapour state",
+              "b" : "Maximum in solid state",
+              "c" : "Greater in the liquid than in vapour state ",
+              "d" : "Same in all the three states"
+          },
+          "5":{
+            "a" : "Oxidation, reduction",
+            "b" : "Reduction, oxidation",
+            "c" : "Reduction, hydrolysis ",
+            "d" : "Oxidation, hydrolysis"
+        },
+        "6":{
+            "a" : "Supplies electrons",
+            "b" : "Withdraw electrons",
+            "c" : "Undergoes oxidation",
+            "d" : "None is correct"
+        },
+        "7":{
+            "a" : "Decreases",
+            "b" : "increases",
+            "c" : "Remains unchanged",
+            "d" : "May decrease or increase"
+        },
+        "8":{
+            "a" : "is denser than ordinary water",
+            "b" : "is an oxide of deuterium",
+            "c" : "Has a heavy or bad tastes",
+            "d" : "Hus a heaver isotope of hydrogen"
+        },
+        "9":{
+            "a" : "Increases",
+            "b" : "Decreases",
+            "c" : "Remains same",
+            "d" : "None"
+        },
+        "10":{
+            "a" : "Increases",
+            "b" : "Decresses",
+            "c" : "Increases and then decreases ",
+            "d" : "Remains constant"
+        }
+        
+    },
+    {
+        "1" : "To stabilize the colloids and prevent crystal growth",
+
+        "2" : "Oxidation",
+
+        "3" : "Energy of activation differs from one reactant to another",
+
+        "4" : "in vapour state",
+
+        "5" : "Oxidation, reduction",
+
+        "6" : "Supplies electrons",
+
+        "7" : "increases",
+
+        "8" : "is an oxide of deuterium",
+
+        "9" : "Increases",
+
+        "10" : "Decresses"
+        
+
+    }
+
+]

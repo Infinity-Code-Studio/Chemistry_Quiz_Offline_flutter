@@ -1,0 +1,96 @@
+
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Nb )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Mo )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Tc )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( Ru )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( Rh) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Pd )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Ag )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Cd )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( In )  STAND FOR..?",
+          "10":"10: THE SYMBOL ( Sn )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Neodymium",
+              "b" : "Neon",
+              "c" : "Niobium",
+              "d" : "Nitrogen"
+          },
+          "2":{
+              "a" : "Molybdenum",
+              "b" : "Mercury",
+              "c" : "Mendelevium",
+              "d" : "Magnesium"
+
+          },
+          "3":{
+              "a" : "Tin",
+              "b" : "Ruthenium",
+              "c" : "Strontium",
+              "d" : "Technetium"
+          },
+          "4":{
+              "a" : "Strontium",
+              "b" : "Rubidium",
+              "c" : "Ruthenium",
+              "d" : "Rhodium"
+          },
+          "5":{
+            "a" : "Rubidium",
+            "b" : "Ruthenium",
+            "c" : "Radon",
+            "d" : "Rhodium"
+        },
+        "6":{
+            "a" : "Radon",
+            "b" : "Potassium",
+            "c" : "Palladium",
+            "d" : "Phosphorus"
+        },
+        "7":{
+            "a" : "Silicon",
+            "b" : "Silver",
+            "c" : "Sulfur",
+            "d" : "Selenium"
+        },
+        "8":{
+            "a" : "Palladium",
+            "b" : "Cadmium",
+            "c" : "Caesium",
+            "d" : "Cerium"
+        },
+        "9":{
+            "a" : "Lanthanum",
+            "b" : "lodine",
+            "c" : "Sodium",
+            "d" : "Indium"
+        },
+        "10":{
+            "a" : "Technetium",
+            "b" : "Tin",
+            "c" : "Zinc",
+            "d" : "Silicon"
+        }
+        
+    },
+    {
+        "1" : "Niobium",
+        "2" : "Molybdenum",
+        "3" : "Technetium",
+        "4" : "Ruthenium",
+        "5" : "Rhodium",
+        "6" : "Palladium",
+        "7" : "Silver",
+        "8" : "Cadmium",
+        "9" : "Indium",
+        "10" : "Tin"
+        
+    }
+
+]

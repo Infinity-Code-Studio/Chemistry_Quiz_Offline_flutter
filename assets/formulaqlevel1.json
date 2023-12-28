@@ -1,0 +1,88 @@
+[
+      {
+            "1": "1 :THE CHEMICAL FORMULA OF ( Hydrochloric acid ) IS..?",
+            "2": "2 :THE CHEMICAL FORMULA OF ( Acetic acid ) IS..?",
+            "3": "3 :THE CHEMICAL FORMULA OF ( Ammonia ) IS..?",
+            "4": "4 :THE CHEMICAL FORMULA OF ( Nitric acid ) IS..?",
+            "5": "5 :THE CHEMICAL FORMULA OF ( Phosphoric acid ) IS..?",
+            "6": "6 :THE CHEMICAL FORMULA OF ( Sodium phosphate ) IS..?",
+            "7": "7 :THE CHEMICAL FORMULA OF ( Calcium carbonate ) IS..?",
+            "8": "8 :THE CHEMICAL FORMULA OF ( Ammonium sulfate ) IS..?",
+            "9": "9 :THE CHEMICAL FORMULA OF ( Acetate ) IS..?",
+            "10": "10 :THE CHEMICAL FORMULA OF ( Sulfuric acid ) IS..?"
+      },
+      {
+            "1": {
+                  "a": "HCl",
+                  "b": "H<SUB>2</SUB>CL",
+                  "c": "H<SUB>3</SUB>L",
+                  "d": "H<SUB>2</SUB>S<SUB>O</SUB>4"
+            },
+            "2": {
+                  "a": "CH<SUB>3</SUB>COH",
+                  "b": "CH<SUB>2</SUB>OH",
+                  "c": "CH<SUB>4</SUB>COOH",
+                  "d": "CH<SUB>3</SUB>COOH"
+            },
+            "3": {
+                  "a": "NH4",
+                  "b": "NH3",
+                  "c": "NH<SUB>3</SUB>",
+                  "d": "NH2"
+            },
+            "4": {
+                  "a": "HNO<sub>2</sub></sub>",
+                  "b": "HNO<sub>3</sub>",
+                  "c": "HNO<sub>4</sub>",
+                  "d": "HO<sub>3</sub>"
+            },
+            "5": {
+                  "a": "H<sub>2</sub>PO<sub>4</sub>",
+                  "b": "HPO<sub>4</sub>",
+                  "c": "H<sub>4</sub>PO<sub>4</sub>",
+                  "d": "H<sub>3</sub>PO<sub>4</sub>"
+            },
+            "6": {
+                  "a": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+                  "b": "(N<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+                  "c": "Na<sub>3</sub>PO<sub>4</sub>",
+                  "d": "HNO<sub>3</sub>"
+            },
+            "7": {
+                  "a": "CaCO<sub>2</sub>",
+                  "b": "CNaCO<sub>4</sub>",
+                  "c": "CalCO<sub>3</sub>",
+                  "d": "CaCO<sub>3</sub>"
+            },
+            "8": {
+                  "a": "(NH<sub>2</sub>)<sub>2</sub>SO<sub>4</sub>",
+                  "b": "(NH<sub>3</sub>)<sub>2</sub>SO<sub>4</sub>",
+                  "c": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+                  "d": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>3</sub>"
+            },
+            "9": {
+                  "a": "CH3COO<SUP>-</SUP>",
+                  "b": "CH2CO<SUP>-</SUP>",
+                  "c": "CH<SUP>3</SUP>COO",
+                  "d": "NON OF ABOVE"
+            },
+            "10": {
+                  "a": "H<sub>2</sub>O<SUB>4</SUB>",
+                  "b": "H<sub>2</sub>SO<SUB>3</SUB>",
+                  "c": "H<sub>2</sub>SO<SUB>4</SUB>",
+                  "d": "NON OF ABOVE"
+            }
+      },
+      {
+            "1": "HCl",
+            "2": "CH<SUB>3</SUB>COOH",
+            "3": "NH<SUB>3</SUB>",
+            "4": "HNO<sub>3</sub>",
+            "5": "H<sub>3</sub>PO<sub>4</sub>",
+            "6": "Na<sub>3</sub>PO<sub>4</sub>",
+            "7": "CaCO<sub>3</sub>",
+            "8": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+            "9": "CH3COO<SUP>-</SUP>",
+            "10": "H<sub>2</sub>SO<SUB>4</SUB>"
+      }
+]

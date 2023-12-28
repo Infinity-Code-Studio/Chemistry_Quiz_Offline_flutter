@@ -1,0 +1,116 @@
+
+
+  [
+    
+    {
+      
+          "1": "1 : Smoke is a solution of..?",
+
+          "2": "2 : Fog is an example of..?",
+
+          "3": "3 : The common battery used in automobiles is..?",
+
+          "4": "4 : Which acid is present in sour milk..?",
+
+          "5": "5 : The water that can produce good lather with soap is known as..?",
+
+          "6": "6 : Which of the following is/are purest form of carbon..?",
+
+          "7": "7 : The glitter of diamond is ..?",
+
+          "8": "8 : In colourful diamond, different colours are present due to ..?",
+
+          "9": "9 : All of the followings are different uses of hydrogen peroxide except..?",
+
+          "10":"10: Ozone is present in which of the following layers of atmosphere..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Salid in solid",
+              "b" : "Solid in liquid",
+              "c" : "Solid in gas",
+              "d" : "Gas in gas"
+          },
+          "2":{
+              "a" : "Gas in gas ",
+              "b" : "Liquid in gas",
+              "c" : "Gas in liquid",
+              "d" : "Liquid in liquid"
+          },
+          "3":{
+              "a" : "iron storage banery",
+              "b" : "Copper storage battery",
+              "c" : "Lead storage battery",
+              "d" : "Sever storage battery"
+          },
+          "4":{
+              "a" : "citric acid",
+              "b" : "Tartanc acid ",
+              "c" : "Formic acid",
+              "d" : "lactic acid"
+          },
+          "5":{
+            "a" : "Soft water",
+            "b" : "Heavy water ",
+            "c" : "Atomic wutes",
+            "d" : "Hard water"
+        },
+        "6":{
+            "a" : "Diamond",
+            "b" : "Bucky bal",
+            "c" : "Graphite",
+            "d" : "Marble"
+        },
+        "7":{
+            "a" : "Because it is transparent",
+            "b" : "Because it is a non-conductor",
+            "c" : "Due to its quality of reflecting light",
+            "d" : "Because of its density"
+        },
+        "8":{
+            "a" : "Impuritise",
+            "b" : "Angular bonds between the carbon atoms",
+            "c" : "Different patterns of carbon chains",
+            "d" : "None of the above"
+        },
+        "9":{
+            "a" : "Used as bleaching agent",
+            "b" : "Used to deodour sewers",
+            "c" : "Used as feul in space",
+            "d" : "Used to prepare organic peroxides"
+        },
+        "10":{
+            "a" : "Troposphere and Thermosphere",
+            "b" : "Troposphere and Stratosphere",
+            "c" : "Mesosphere",
+            "d" : "Thermosphere"
+        }
+        
+    },
+    {
+        "1" : "Solid in gas",
+
+        "2" : "Gas in liquid",
+
+        "3" : "Lead storage battery",
+
+        "4" : "Formic acid",
+
+        "5" : "Soft water",
+
+        "6" : "Diamond",
+
+        "7" : "Due to its quality of reflecting light",
+
+        "8" : "Impuritise",
+
+        "9" : "Used as feul in space",
+
+        "10" : "Troposphere and Stratosphere"
+        
+
+    }
+
+]
+

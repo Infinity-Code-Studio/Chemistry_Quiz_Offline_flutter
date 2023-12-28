@@ -1,0 +1,118 @@
+
+
+[
+    
+    {
+      
+          "1": "1 :THE CHEMICAL FORMULA OF ( Sodium peroxide ) IS..?",
+
+          "2": "2 :THE CHEMICAL FORMULA OF ( Zinc carbonate ) IS..?",
+
+          "3": "3 :THE CHEMICAL FORMULA OF ( Boric acid ) IS..?",
+
+          "4": "4 :THE CHEMICAL FORMULA OF ( Zinc sulfide ) IS..?",
+
+          "5": "5 :THE CHEMICAL FORMULA OF ( Potassium bicarbonate ) IS..?",
+
+          "6": "6 :THE CHEMICAL FORMULA OF ( Zinc phosphate ) IS..?",
+
+          "7": "7 :THE CHEMICAL FORMULA OF ( Ammonium nitrite ) IS..?",
+
+          "8": "8 :THE CHEMICAL FORMULA OF ( Potassium nitrite) IS..?",
+
+          "9": "9 :THE CHEMICAL FORMULA OF ( Ammonium iodide ) IS..?",
+
+          "10":"10 :THE CHEMICAL FORMULA OF ( Barium bromide ) IS..?"
+  
+        },
+        {
+        "1":{
+              "a" : "Na<sub>2</sub>O<sub>4</sub>",
+              "b" : "Na<sub>2</sub>Cr<sub>2</sub>",
+              "c" : "Na<sub>2</sub>O<sub>2</sub>",
+              "d" : "Na<sub>2</sub>O<sub>4</sub>"
+          },
+          "2":{
+              "a" : "ZnCO<sub>3</sub>",
+              "b" : "Zn<sub>2</sub>CO<sub>2</sub>",
+              "c" : "Zn<sub>2</sub>CO<sub>3</sub>",
+              "d" : "ZnCO<sub>2</sub>"
+          },
+          "3":{
+              "a" : "H<sub>3</sub>BO",
+              "b" : "H<sub>3</sub>BO<sub>2</sub>",
+              "c" : "H<sub>2</sub>BO<sub>3</sub>",
+              "d" : "H<sub>3</sub>BO<sub>3</sub>"
+          },
+          "4":{
+              "a" : "ZnS",
+              "b" : "ZnS<SUB>3</SUB>",
+              "c" : "ZnS<SUB>4</SUB>",
+              "d" : "ZnS<SUB>2</SUB>"
+          },
+          "5":{
+              "a" : "KHCO<sub>6</sub>",
+              "b" : "KHCO<sub>3</sub>",
+              "c" : "KH<sub>4</sub>CO<sub>3</sub>",
+              "d" : "KH<sub>2</sub>CO<sub>4</sub>"
+        },
+        "6":{
+              "a" : "Zn<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+              "b" : "Zn<sub>2</sub>(PO<sub>4</sub>)<sub>2</sub>",
+              "c" : "Zn<sub>3</sub>(PO)<sub>2</sub>",
+              "d" : "Zn(PO<sub>4</sub>)<sub>2</sub>"
+        },
+
+        "7":{
+              "a" : "NH<sub>4</sub>NO<SUB>2</SUB>",
+              "b" : "NH<sub>4</sub>NO<sub>3</sub>",
+              "c" : "NH<sub>4</sub>NO<sub>2</sub>",
+              "d" : "NH<sub>2</sub>NO<sub>4</sub>"
+        },
+        "8":{
+              "a" : "KNO<sub>4</sub>",
+              "b" : "KNO<sub>2</sub>",
+              "c" : "KN<sub>2</sub>O<sub>4</sub>",
+              "d" : "KCN<sub>4</sub>"
+        },
+        "9":{
+              "a" : "NHI",
+              "b" : "NHI<sub>3</sub>",
+              "c" : "NH<sub>2</sub>I",
+              "d" : "NH<sub>4</sub>I"
+        },
+        "10":{
+
+              "a" : "BaBr<sub>2</sub>",
+              "b" : "BaBr<sub>2</sub>O<sub>2</sub>",
+              "c" : "Ba<sub>2</sub>Br",
+              "d" : "BaBr<sub>3</sub>"
+        }
+        
+        
+    },
+   {
+        "1" : "Na<sub>2</sub>O<sub>2</sub>",
+
+        "2" : "ZnCO<sub>3</sub>",
+
+        "3" : "H<sub>3</sub>BO<sub>3</sub>",
+
+        "4" : "ZnS",
+
+        "5" : "KHCO<sub>3</sub>",
+
+        "6" : "Zn<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+
+        "7" : "NH<sub>4</sub>NO<sub>2</sub>",
+
+        "8" : "KNO<sub>2</sub>",
+
+        "9" : "NH<sub>4</sub>I",
+
+       "10" : "BaBr<sub>2</sub>"
+        
+    }
+
+]
+

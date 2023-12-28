@@ -1,0 +1,88 @@
+[
+      {
+            "1": "1 :THE CHEMICAL FORMULA OF ( Sodium chloride ) IS..?",
+            "2": "2 :THE CHEMICAL FORMULA OF ( Cellulose ) IS..?",
+            "3": "3 :THE CHEMICAL FORMULA OF ( Magnesium hydroxide ) IS..?",
+            "4": "4 :THE CHEMICAL FORMULA OF ( Methane ) IS..?",
+            "5": "5 :THE CHEMICAL FORMULA OF ( Nitrogen dioxide ) IS..?",
+            "6": "6 :THE CHEMICAL FORMULA OF ( Sulfurous acid ) IS..?",
+            "7": "7 :THE CHEMICAL FORMULA OF ( Sodium nitrate ) IS..?",
+            "8": "8 :THE CHEMICAL FORMULA OF ( Aluminium sulfate ) IS..?",
+            "9": "9 :THE CHEMICAL FORMULA OF ( Barium hydroxide ) IS..?",
+            "10": "10 :THE CHEMICAL FORMULA OF ( Aluminum oxide ) IS..?"
+      },
+      {
+            "1": {
+                  "a": "HCL",
+                  "b": "NaCl",
+                  "c": "NaOH",
+                  "d": "NaOH<sub>2</sub>"
+            },
+            "2": {
+                  "a": "Cl",
+                  "b": "(C<sub>6</sub>H<sub>5</sub>O<sub>5</sub>)n",
+                  "c": "(C<sub>4</sub>H<sub>10</sub>O<sub>5</sub>)n",
+                  "d": "(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n"
+            },
+            "3": {
+                  "a": "Mg(OH)<sub>2</sub>",
+                  "b": "MgOH",
+                  "c": "Mg(OH)<sub>3</sub>",
+                  "d": "MgOH<sub>2</sub>"
+            },
+            "4": {
+                  "a": "CaCH<sub>4</sub>",
+                  "b": "CaCH<SUB>3</SUB>",
+                  "c": "CH<sub>4</sub>",
+                  "d": "CH<SUB>2</SUB>"
+            },
+            "5": {
+                  "a": "NaHo<SUB>3</SUB>",
+                  "b": "No<SUB>3</SUB>",
+                  "c": "Na<SUB>2</SUB>",
+                  "d": "NO<SUB>2</SUB>"
+            },
+            "6": {
+                  "a": "H<sub>2</sub>SO<sub>3</sub>",
+                  "b": "H<sub>2</sub>SO<sub>4</sub>",
+                  "c": "H<SUB>2</SUB>",
+                  "d": "H<SUB>2</SUB>o"
+            },
+            "7": {
+                  "a": "NaHo<SUB>3</SUB>",
+                  "b": "NaNO<sub>3</sub>",
+                  "c": "Na<SUB>2</SUB>",
+                  "d": "No<SUB>3</SUB>"
+            },
+            "8": {
+                  "a": "Al<sub>2</sub>SO<sub>4</sub>",
+                  "b": "Al<sub>2</sub>(SO<sub>3</sub>)<sub>3</sub>",
+                  "c": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>4</sub>",
+                  "d": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>"
+            },
+            "9": {
+                  "a": "Br<sub>2</sub>",
+                  "b": "Ba(OH)<sub>2</sub>",
+                  "c": "Br<sub>3</sub>",
+                  "d": "Ba(OH)<sub>4</sub>"
+            },
+            "10": {
+                  "a": "Al<sub>2</sub>O<sub>3</sub>",
+                  "b": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
+                  "c": "Al<sub>2</sub>O<sub>4</sub>",
+                  "d": "Al<sub>3</sub>O<sub>4</sub>"
+            }
+      },
+      {
+            "1": "NaCl",
+            "2": "(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n",
+            "3": "Mg(OH)<sub>2</sub>",
+            "4": "CH<sub>4</sub>",
+            "5": "NO<SUB>2</SUB>",
+            "6": "H<sub>2</sub>SO<sub>4</sub>",
+            "7": "NaNO<sub>3</sub>",
+            "8": "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
+            "9": "Ba(OH)<sub>2</sub>",
+            "10": "Al<sub>2</sub>O<sub>3</sub>"
+      }
+]

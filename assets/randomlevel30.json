@@ -1,0 +1,98 @@
+[
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Li )  STAND FOR..?",
+          "2": "2 :THE CHEMICAL FORMULA OF( Ammonium sulfate )IS..?",
+          "3": "3 : THE SYMBOL ( Al )  STAND FOR..?",
+          "4": "4 : Which one of the following has the highest fuel value..?",
+          "5": "5 : THE SYMBOL ( Cu )  STAND FOR..?",
+          "6": "6 :THE CHEMICAL FORMULA OF ( Potassium hydroxide ) IS..?",
+          "7": "7 : THE SYMBOL ( Rh) STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Pd )  STAND FOR..?",
+          "9": "9 :THE CHEMICAL FORMULA OF ( Hydrocyanic acid ) IS..?",  
+          "10": "10 :THE CHEMICAL FORMULA OF ( Salicylic Acid ) IS..?"
+          
+  
+        },
+    {
+          "1":{
+            "a" : "Lead",
+            "b" : "Lithium",
+            "c" : "Gallium",
+            "d" : "Lodine"
+        },
+        "2":{
+    "a" : "(NH<sub>2</sub>)<sub>2</sub>SO<sub>4</sub>",
+    "b" : "(NH<sub>3</sub>)<sub>2</sub>SO<sub>4</sub>",
+    "c" : "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+    "d" : "(NH<sub>4</sub>)<sub>2</sub>SO<sub>3</sub>" 
+},
+           "3":{
+            "a" : "Helium",
+            "b" : "Lithium",
+            "c" : "Gallium",
+            "d" : "Aluminium"
+        },
+          "4":{
+            "a" : "Hydrogen",
+            "b" : "Charcoal",
+            "c" : "Natural gas",
+            "d" : "Gasoline"
+        },
+          "5":{
+              "a" : "Calcium",
+              "b" : "Chromium",
+              "c" : "Copper",
+              "d" : "None of above"
+          },
+          "6":{
+              "a" : "H<SUB>2</SUB>CO<SUB>3</SUB>",
+              "b" : "KHO",
+              "c" : "KNO",
+              "d" : "KOH"
+        },
+         "7":{
+            "a" : "Rubidium",
+            "b" : "Ruthenium",
+            "c" : "Radon",
+            "d" : "Rhodium"
+        },
+        "8":{
+            "a" : "Radon",
+            "b" : "Potassium",
+            "c" : "Palladium",
+            "d" : "Phosphorus"
+        },
+         "9":{
+           "a" : "HCN",
+           "b" : "HCl",
+           "c" : "Nacl",
+           "d" : "HCN<sub>3</sub>"
+     },
+
+     "10":{
+           "a" : "C<sub>7</sub>H<sub>6</sub>O<sub>3</sub>",
+           "b" : "C<sub>6</sub>H<sub>4</sub>O<sub>3</sub>",
+           "c" : "C<sub>7</sub>H<sub>3</sub>O<sub>3</sub>",
+           "d" : "C<sub>6</sub>H<sub>4</sub>O<sub>7</sub>"
+}
+        
+    },
+    {
+         "1" : "Lithium",
+         "2" : "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+         "3" : "Aluminium",
+         "4" : "Hydrogen",
+         "5" : "Copper",
+         "6" : "KOH",
+         "7" : "Rhodium",
+         "8" : "Palladium",
+         "9" : "HCN",
+         "10" : "C<sub>7</sub>H<sub>6</sub>O<sub>3</sub>"
+        
+        
+    }
+
+]
+

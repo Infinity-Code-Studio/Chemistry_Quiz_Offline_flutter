@@ -1,0 +1,114 @@
+
+  [
+    
+    {
+      
+          "1": "1 : When nuclear energy is intended to be harnessed for generation of electricity potentially destructive neutrons released in a nuclear reactor are absorbed by..?",
+
+          "2": "2 : Nuclear power reactors are operated at low temperatures and consequently with lower efficiency because..?",
+
+          "3": "3 : The energy emitted from the sun is supposed to be due to..?",
+
+          "4": "4 : In a hydrogen bomb, hydrogen is converted into..?",
+
+          "5": "5 : When two ice cubes are pressed over each other they unite to form one cube Which of the following force is responsible for holding them together..?",
+
+          "6": "6 : The high boiling point of water is due to..?",
+
+          "7": "7 : Ice has an open structure compared to water due to which it floats on water and occupies a greater volume of space. The open structure of ice is due to..?",
+
+          "8": "8 : A gas can be liquefied by pressure alone when its temperature is..?",
+
+          "9": "9 : Gases can be compressed to a greater extent because..?",
+
+          "10":"10: The cooling caused by the expansion of a compressed gas below its inversion temperature without doing external work is called..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Heavy water",
+              "b" : "Long rods of Cd",
+              "c" : "Cubical blocks of steel",
+              "d" : "A pile of blocks made of graphite"
+          },
+          "2":{
+              "a" : "Nuclear heat is carried by ordinary steam",
+              "b" : "Uranium is difficult to heat",
+              "c" : "The walls of nuclear reactors can not withstand high temperaturo",
+              "d" : "High pressure inside the reactor reduces the temperature"
+          },
+          "3":{
+              "a" : "Nuclear fission",
+              "b" : "Nuclear fusion",
+              "c" : "Combustion of hydrogen",
+              "d" : "Combustion of He"
+          },
+          "4":{
+              "a" : "Barium",
+              "b" : "Uranium",
+              "c" : "Hélium",
+              "d" : "Uranium-238"
+          },
+          "5":{
+            "a" : "Vander Walls forces",
+            "b" : "Covalent attraction",
+            "c" : "Hydrogen bond formation",
+            "d" : "Dipole dipole attraction"
+        },
+        "6":{
+            "a" : "Weak dissociation of water molecule",
+            "b" : "Hydrogen bonding among water molecules",
+            "c" : "its high specific heat ",
+            "d" : "Its high dielectric constant"
+        },
+        "7":{
+            "a" : "Solid state of ice ",
+            "b" : "Its low density ",
+            "c" : "Crystalline nature",
+            "d" : "Hydrogen bonding"
+        },
+        "8":{
+            "a" : "Higher than the critical temperature ",
+            "b" : "Lower than its critical temperature",
+            "c" : "Equal to its critical temperature ",
+            "d" : "None"
+        },
+        "9":{
+            "a" : "Molecules are elastic",
+            "b" : "There is no gap between molecules",
+            "c" : "These are lighter than liquids",
+            "d" : "There is a large space between the molecules"
+        },
+        "10":{
+            "a" : "Joule Thomson effect",
+            "b" : "Adiabatic demagnetism",
+            "c" : "Faraday Tyndall effect",
+            "d" : "Compton effect"
+        }
+        
+    },
+    {
+        "1" : "Cubical blocks of steel",
+
+        "2" : "The walls of nuclear reactors can not withstand high temperaturo",
+
+        "3" : "Nuclear fusion",
+
+        "4" : "Uranium-238",
+
+        "5" : "Hydrogen bond formation",
+
+        "6" : "Hydrogen bonding among water molecules",
+
+        "7" : "Hydrogen bonding",
+
+        "8" : "Lower than its critical temperature",
+
+        "9" : "There is a large space between the molecules",
+
+        "10" : "Joule Thomson effect"
+        
+
+    }
+
+]

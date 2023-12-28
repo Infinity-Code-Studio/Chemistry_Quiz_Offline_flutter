@@ -1,0 +1,117 @@
+
+[
+    
+    {
+      
+          "1": "1 :THE CHEMICAL FORMULA OF ( Sodium sulfate) IS..?",
+
+          "2": "2 :THE CHEMICAL FORMULA OF ( Potassium nitrate ) IS..?",
+
+          "3": "3 :THE CHEMICAL FORMULA OF ( Ammonium bicarbonate ) IS..?",
+
+          "4": "4 :THE CHEMICAL FORMULA OF ( Calcium nitrate ) IS..?",
+
+          "5": "5 :THE CHEMICAL FORMULA OF ( Ammonium hydroxide ) IS..?",
+
+          "6": "6 :THE CHEMICAL FORMULA OF ( Calcium oxide ) IS..?",
+
+          "7": "7 :THE CHEMICAL FORMULA OF ( Carbon monoxide ) IS..?",
+
+          "8": "8 :THE CHEMICAL FORMULA OF ( Ammonium chloride ) IS..?",
+
+          "9": "9 :THE CHEMICAL FORMULA OF ( Chlorine gas ) IS..?",
+
+          "10":"10 :THE CHEMICAL FORMULA OF ( Phenol ) IS..?"
+  
+        },
+        {
+        "1":{
+              "a" : "Na<sub>3</sub>SO<sub>4</sub>",
+              "b" : "Na<sub>2</sub>SO<sub>4</sub>",
+              "c" : "NaSO<sub>4</sub>",
+              "d" : "NaSO<sub>3</sub>"
+          },
+
+          "2":{
+              "a" : "KNO",
+              "b" : "KNO<sub>3</sub>",
+              "c" : "KNO<sub>2</sub>",
+              "d" : "KNO<sub>4</sub>"
+          },
+          "3":{
+              "a" : "NH<sub>3</sub>HCO<sub>4</sub>",
+              "b" : "NH<sub>2</sub>HCO",
+              "c" : "NH<sub>4</sub>HCO<sub>3</sub>",
+              "d" : "NH<sub>2</sub>HCO<sub>4</sub>"
+          },
+          "4":{
+              "a" : "Ca(NO<sub>3</sub>)<sub>2</sub>",
+              "b" : "CaCH<SUB>3</SUB>",
+              "c" : "CaH<sub>4</sub>",
+              "d" : "Ca(NO<sub>3</sub>)<sub>4</sub>"
+          },
+          "5":{
+              "a" : "NHo<SUB>3</SUB>",
+              "b" : "No<SUB>3</SUB>",
+              "c" : "NH<sub>4</sub>OH",
+              "d" : "NH<sub>2</sub>OH"
+        },
+        "6":{
+              "a" : "Ca<sub>2</sub>O<sub>3</sub>",
+              "b" : "CaO",
+              "c" : "CaO<SUB>2</SUB>",
+              "d" : "Ca<SUB>2</SUB>O"
+        },
+
+        "7":{
+              "a" : "CO",
+              "b" : "CO<sub>3</sub>",
+              "c" : "CO<SUB>2</SUB>",
+              "d" : "COH"
+        },
+        "8":{
+              "a" : "NHCl",
+              "b" : "NHCl<sub>4</sub>",
+              "c" : "NH<sub>3</sub>Cl",
+              "d" : "NH<sub>4</sub>Cl"
+        },
+        "9":{
+              "a" : "Cl<sub>3</sub>",
+              "b" : "Cl<sub>2</sub>",
+              "c" : "Cl",
+              "d" : "Cl<sub>4</sub>"
+        },
+        "10":{
+
+              "a" : "C<sub>3</sub>H<sub>6</sub>",
+              "b" : "C<sub>6</sub>H<sub>4</sub>",
+              "c" : "C<sub>6</sub>H<sub>6</sub>O",
+              "d" : "C<sub>3</sub>H<sub>4</sub>O"
+        }
+        },
+        
+    
+   {
+        "1" : "Na<sub>2</sub>SO<sub>4</sub>",
+
+        "2" : "KNO<sub>3</sub>",
+
+        "3" : "NH<sub>4</sub>HCO<sub>3</sub>",
+
+        "4" : "Ca(NO<sub>3</sub>)<sub>2</sub>",
+
+        "5" : "NH<sub>4</sub>OH",
+
+        "6" : "CaO",
+
+        "7" : "CO",
+
+        "8" : "NH<sub>4</sub>Cl",
+
+        "9" : "Cl<sub>2</sub>",
+
+       "10" : "C<sub>6</sub>H<sub>6</sub>O"
+        
+    }
+
+]

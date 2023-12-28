@@ -1,0 +1,109 @@
+[
+    
+    {
+      
+           "1": "1 : THE SYMBOL ( Pm )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Sm )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Eu )  STAND FOR..?",
+           "4": "4 : Who was first to prepare sulphuric acid..?",
+
+"5": "5 : Dalton's atomic theory gave the concept of..?",
+
+"6": "6 : When radioactive rays are passed through air or any gas, they cause it to..?",
+"7": "7 :THE CHEMICAL FORMULA OF ( Ozone ) IS..?",
+
+"8": "8 :THE CHEMICAL FORMULA OF ( Potassium cyanide ) IS..?",
+
+"9": "9 :THE CHEMICAL FORMULA OF ( Silver oxide ) IS..?",
+"10":"10: A gas can be liquefied by pressure alone when its temperature is..?"
+          
+  
+        },
+    {
+          "1" :{
+              "a" : "Promethium",
+              "b" : "Praseodymium",
+              "c" : "Palladium",
+              "d" : "Promethium"
+          },
+          "2":{
+              "a" : "Silver",
+              "b" : "Samarium",
+              "c" : "Caesium",
+              "d" : "Strontium"
+
+          },
+          "3":{
+              "a" : "Uranium",
+              "b" : "Einsteinium",
+              "c" : "Europium",
+              "d" : "Germanium"
+          },
+       "4":{
+  "a" : "Aristotie",
+  "b" : "Dalton",
+  "c" : "Bohr",
+  "d" : "Jabar Bin Hayan"
+},
+"5":{
+"a" : "Valency",
+"b" : "Electrons",
+"c" : "lonization",
+"d" : "Radioactivity"
+},
+"6":{
+"a" : "lonize",
+"b" : "Evaporate",
+"c" : "Freeze",
+"d" : "Bail"
+},
+         "7":{
+  "a" : "O<SUB>2</SUB>",
+  "b" : "O<sub>3</sub>",
+  "c" : "O<SUB>4</SUB>",
+  "d" : "O"
+},
+"8":{
+  "a" : "K<sub>2</sub>CN",
+  "b" : "KCN<sub>3</sub>",
+  "c" : "KCN",
+  "d" : "KCN<sub>2</sub>"
+},
+"9":{
+  "a" : "Ag<sub>2</sub>O",
+  "b" : "Ag<sub>3</sub>O",
+  "c" : "AgO",
+  "d" : "AgO<sub>4</sub>"
+},
+         "10":{
+"a" : "Higher than the critical temperature",
+"b" : "Lower than its critical temperature",
+"c" : "Equal to its entical temperature",
+"d" : "None"
+}
+        
+    },
+    {
+          "1" : "Promethium",
+        "2" : "Samarium",
+        "3" : "Europium",
+        "4" : "Jabar Bin Hayan",
+
+"5" : "Valency",
+
+"6" : "Freeze",
+
+"7" : "O<sub>3</sub>",
+
+"8" : "KCN",
+
+"9" : "Ag<sub>2</sub>O",
+"10" : "Lower than its critical temperature"
+
+        
+        
+    }
+
+]
+
+

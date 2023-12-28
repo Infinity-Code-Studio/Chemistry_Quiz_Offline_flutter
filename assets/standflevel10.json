@@ -1,0 +1,98 @@
+            
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Pa )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( U )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Np )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( Pu )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( Am )  STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Cm )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Bk )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Cf )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Es )  STAND FOR..?", 
+          "10":"10: THE SYMBOL ( Fm )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Plutonium",
+              "b" : "ProThorium",
+              "c" : "ProTantalum",
+              "d" : "Protactinium"
+          },
+          "2":{
+            "a" : "Curium",
+            "b" : "Copernicium",
+            "c" : "Uranium",
+            "d" : "Hassium"
+
+          },
+          "3":{
+              "a" : "Nepton",
+              "b" : "Polonium",
+              "c" : "Platinum",
+              "d" : "Neptunium"
+          },
+          "4":{
+              "a" : "Plutonium",
+              "b" : "Neptunium",
+              "c" : "Polonium",
+              "d" : "Platinum"
+          },
+          "5":{
+            "a" : "Argon",
+            "b" : "Arsenic",
+            "c" : "Actinium",
+            "d" : "Americium"
+        },
+        "6":{
+            "a" : "Copernicium",
+            "b" : "Coper",
+            "c" : "Curium",
+            "d" : "Chlorine"
+        },
+        "7":{
+            "a" : "Berkelium",
+            "b" : "Boron",
+            "c" : "Beryllium",
+            "d" : "Bromine"
+        },
+        "8":{
+            "a" : "Calcium",
+            "b" : "Chlorine",
+            "c" : "Californium",
+            "d" : "Curium"
+        },
+        "9":{
+            "a" : "Europium",
+            "b" : "Einsteinium",
+            "c" : "Erunium",
+            "d" : "Erbium"
+        },
+        "10":{
+            "a" : "Farnium",
+            "b" : "Francium",
+            "c" : "Fluorine",
+            "d" : "Fermium"
+        }
+        
+    },
+   
+{
+        "1" : "Protactinium",
+        "2" : "Copernicium",
+        "3" : "Neptunium",
+        "4" : "Plutonium",
+        "5" : "Americium",
+        "6" : "Curium",
+        "7" : "Berkelium",
+        "8" : "Californium",
+        "9" : "Einsteinium",
+        "10" : "Fermium"
+        
+    }
+
+
+]

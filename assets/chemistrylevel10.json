@@ -1,0 +1,95 @@
+
+            [
+    
+                {
+                  
+                      "1": "1 : Which one is the simplest form of alkane",
+                      "2": "2 : Which one is heaviest naturally-occurring element of the periodic element",
+                      "3": "3 : Which one is the lightest element in the periodic table",
+                      "4": "4 : How many neutrons does iron have",
+                      "5": "5 : Total number of naturally occurring elements",
+                      "6": "6 : Total number of elements in the Periodic table",
+                      "7": "7 : Liquid Nitrogen boils at",
+                      "8": "8 : Which one element from below list is liquid at room temperature",
+                      "9": "9 : What is the atomic number of Oxygen",
+                      "10":"10: Who is known as the 'father of modern chemistry'"
+              
+                    },
+                {
+                      "1" :{
+                          "a" : "Propane",
+                          "b" : "Butane",
+                          "c" : "Decane",
+                          "d" : "Methane"
+                      },
+                      "2":{
+                          "a" : "Iron",
+                          "b" : "Thorium",
+                          "c" : "Rhodium",
+                          "d" : "Uranium"
+                      },
+                      "3":{
+                          "a" : "Hydrogen",
+                          "b" : "Helium",
+                          "c" : "Oxygen",
+                          "d" : "Carbon"
+                      },
+                      "4":{
+                          "a" : "8",
+                          "b" : "13",
+                          "c" : "26",
+                          "d" : "30"
+                      },
+                      "5":{
+                        "a" : "62",
+                        "b" : "92",
+                        "c" : "98",
+                        "d" : "110"
+                    },
+                    "6":{
+                        "a" : "112",
+                        "b" : "115",
+                        "c" : "118",
+                        "d" : "127"
+                    },
+                    "7":{
+                        "a" : "77 kelvin",
+                        "b" : "82 Kelvin",
+                        "c" : "54 kelvin",
+                        "d" : "97 Kelvin"
+                    },
+                    "8":{
+                        "a" : "Zinc",
+                        "b" : "Argon",
+                        "c" : "Lead",
+                        "d" : "Bromine"
+                    },
+                    "9":{
+                        "a" : "5",
+                        "b" : "8",
+                        "c" : "12",
+                        "d" : "22"
+                    },
+                    "10":{
+                        "a" : "John Dalton",
+                        "b" : "Robert Boyle",
+                        "c" : "Antoine Lavoisier",
+                        "d" : "Democritus"
+                    }
+                    
+                },
+                {
+                    "1" : "Methane",
+                    "2" : "Uranium",
+                    "3" : "Hydrogen",
+                    "4" : "30",
+                    "5" : "92",
+                    "6" : "118",
+                    "7" : "77 kelvin",
+                    "8" : "Bromine",
+                    "9" : "8",
+                    "10" : "Antoine Lavoisier"
+                    
+                }
+            
+            ]

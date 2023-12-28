@@ -1,0 +1,88 @@
+[
+    {
+        "1": "1 : All isotopes of the same element have ______________",
+        "2": "2 : How many electrons can be accommodated in d-orbital",
+        "3": "3 : The laws of electrolysis are given by",
+        "4": "4 : Aqueous solution of which of the following is a good conductor of electricity",
+        "5": "5 : The compounds formed when hydrogen combines with p-block elements are called",
+        "6": "6 : The aqueous solution of potassium chloride is",
+        "7": "7 : Which of the following elements is found in all organic compounds",
+        "8": "8 : The structure of (HPO3)3 is",
+        "9": "9 : The elements in the modern Periodic table are arranged according to their",
+        "10": "10: 'Paramagnetism' is the property of"
+    },
+    {
+        "1": {
+            "a": "different atomic numbers and different atomic mass",
+            "b": "different atomic numbers and the same atomic mass",
+            "c": "the same atomic number but different atomic masses",
+            "d": "the same atomic number and the atomic mass"
+        },
+        "2": {
+            "a": "3",
+            "b": "6",
+            "c": "8",
+            "d": "10"
+        },
+        "3": {
+            "a": "Ostwald",
+            "b": "Faraday",
+            "c": "Arrhenius",
+            "d": "Lewis"
+        },
+        "4": {
+            "a": "Ammonium acetate",
+            "b": "Glucose",
+            "c": "Ammonia",
+            "d": "Acetic acid"
+        },
+        "5": {
+            "a": "Ionic hydrides",
+            "b": "Molecular hydrides",
+            "c": "Metallic hydrides",
+            "d": "Polynuclear hydrides"
+        },
+        "6": {
+            "a": "a weak electrolyte",
+            "b": "a strong electrolyte",
+            "c": "a non-electrolyte",
+            "d": "initially weak and then become a strong electrolyte"
+        },
+        "7": {
+            "a": "Carbon",
+            "b": "Calcium",
+            "c": "Nitrogen",
+            "d": "Oxygen"
+        },
+        "8": {
+            "a": "Linear",
+            "b": "Tetrahedral",
+            "c": "Cyclic",
+            "d": "Octahedral"
+        },
+        "9": {
+            "a": "Mass number",
+            "b": "Neutron number",
+            "c": "Atomic number",
+            "d": "Atomic Weight"
+        },
+        "10": {
+            "a": "Paired electrons",
+            "b": "Completely filled electronics subshells",
+            "c": "Unpaired electrons",
+            "d": "Completely vacant electronic subshells"
+        }
+    },
+    {
+        "1": "the same atomic number but different atomic masses",
+        "2": "10",
+        "3": "Faraday",
+        "4": "Ammonium acetate",
+        "5": "Molecular hydrides",
+        "6": "a strong electrolyte",
+        "7": "Carbon",
+        "8": "Cyclic",
+        "9": "Atomic number",
+        "10": "Unpaired electrons"
+    }
+]

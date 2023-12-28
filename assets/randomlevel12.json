@@ -1,0 +1,96 @@
+[
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( O )  STAND FOR..?",
+          "2": "2 :THE CHEMICAL FORMULA OF( Ammonia )IS..?",
+          "3": "3 : THE SYMBOL ( Ar )  STAND FOR..?",
+          "4": "4 : Cooking gas is a mixture of which of the following two gases..?",
+          "5": "5 : THE SYMBOL ( Ar )  STAND FOR..?",
+          "6": "6 :THE CHEMICAL FORMULA OF ( Sodium hydroxide ) IS..?",
+          "7": "7 : THE SYMBOL ( Br) STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Kr )  STAND FOR..?",
+          "9": "9 :THE CHEMICAL FORMULA OF ( Nitrogen dioxide ) IS..?",
+          "10": "10 :THE CHEMICAL FORMULA OF ( Sulfurous acid ) IS..?"
+          
+  
+        },
+    {
+         "1":{
+              "a" : "Copper",
+              "b" : "Iron",
+              "c" : "Argon",
+              "d" : "Oxygen"
+          },
+           "2":{
+              "a" : "NH4",
+              "b" : "NH3",
+              "c" : "NH<SUB>3</SUB>",
+              "d" : "NH2"
+              },
+         "3":{
+              "a" : "Argon",
+              "b" : "Aluminium",
+              "c" : "Iron",
+              "d" : "Oxygen"
+          },
+          "4":{
+              "a" : "Methane and Carbon dioxide",
+              "b" : "Oxygen and Nitrogen",
+              "c" : "Bautane and Propane",
+              "d" : "Oxygen and Methane"
+              },
+           "5":{
+              "a" : "Argon",
+              "b" : "Aluminium",
+              "c" : "Iron",
+              "d" : "Oxygen"
+          },
+        
+          "6":{
+              "a" : "Naho",
+              "b" : "NH<SUB>3</SUB>",
+              "c" : "Na<SUB>2</SUB>CO<SUB>3</SUB>",
+              "d" : "NaOH"
+             },
+          "7":{
+            "a" : "Bromine",
+            "b" : "Chlorine",
+            "c" : "Beryllium",
+            "d" : "Boron"
+        },
+        "8":{
+            "a" : "Radon",
+            "b" : "Copper",
+            "c" : "Krypton",
+            "d" : "Zinc"
+        },
+        "9":{
+            "a" : "NaHo<SUB>3</SUB>",
+            "b" : "No<SUB>3</SUB>",
+            "c" : "Na<SUB>2</SUB>",
+            "d" : "NO<SUB>2</SUB>"
+      },
+      "10":{
+            "a" : "H<sub>2</sub>SO<sub>3</sub>",
+            "b" : "H<sub>2</sub>SO<sub>4</sub>",
+            "c" : "H<SUB>2</SUB>",
+            "d" : "H<SUB>2</SUB>o"
+         }                 
+    },
+    {
+         "1" : "Oxygen",
+         "2" : "NH<SUB>3</SUB>",
+         "3" : "Argon",
+         "4" : "Oxygen and Methane",
+         "5" : "Argon",
+         "6" : "NaOH",
+         "7" : "Bromine",
+         "8" : "Krypton",
+         "9" : "NO<SUB>2</SUB>",
+         "10" : "H<sub>2</sub>SO<sub>4</sub>"
+        
+        
+    }
+
+]

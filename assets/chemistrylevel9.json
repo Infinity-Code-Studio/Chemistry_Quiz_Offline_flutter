@@ -1,0 +1,95 @@
+
+            [
+    
+                {
+                  
+                      "1": "1 : Marie Curie received Nobel Prize in Chemistry",
+                      "2": "2 : Which gas is most stable at room temperature",
+                      "3": "3 : In nuclear reactors heavy water is used as a",
+                      "4": "4 : In ice, the number of hydrogen bonds per water molecule is",
+                      "5": "5 : Hydrogen bonding is maximum in",
+                      "6": "6 : Which one of the following is most electronegative",
+                      "7": "7 : Who modified Bohr's theory by introducing elliptical orbits for electron path",
+                      "8": "8 : Decrease in atomic number is observed during",
+                      "9": "9 : The elements with atomic numbers 9, 17, 35, 53, 85 are all",
+                      "10":"10: Which one is the most reactive halogen"
+              
+                    },
+                {
+                      "1" :{
+                          "a" : "1904",
+                          "b" : "1908",
+                          "c" : "1911",
+                          "d" : "1915"
+                      },
+                      "2":{
+                          "a" : "H2",
+                          "b" : "N2",
+                          "c" : "F2",
+                          "d" : "O2"
+                      },
+                      "3":{
+                          "a" : "Fuel",
+                          "b" : "Projectile",
+                          "c" : "Moderator",
+                          "d" : "Arestor"
+                      },
+                      "4":{
+                          "a" : "1",
+                          "b" : "2",
+                          "c" : "4",
+                          "d" : "8"
+                      },
+                      "5":{
+                        "a" : "Ethanol",
+                        "b" : "Diethyl Ether",
+                        "c" : "Ethyl Chloride",
+                        "d" : "Triethyl Amine"
+                    },
+                    "6":{
+                        "a" : "Carbon",
+                        "b" : "Silicon",
+                        "c" : "Lead",
+                        "d" : "Tin"
+                    },
+                    "7":{
+                        "a" : "Hund",
+                        "b" : "Thomson",
+                        "c" : "Rutherford",
+                        "d" : "Sommerfeld"
+                    },
+                    "8":{
+                        "a" : "Alpha Emission",
+                        "b" : "Electron Capture",
+                        "c" : "Position Emission",
+                        "d" : "All of the above"
+                    },
+                    "9":{
+                        "a" : "Heavy metals",
+                        "b" : "Noble gases",
+                        "c" : "Light metals",
+                        "d" : "Halogens"
+                    },
+                    "10":{
+                        "a" : "Iodine",
+                        "b" : "Bromine",
+                        "c" : "Fluorine",
+                        "d" : "Chlorine"
+                    }
+                    
+                },
+                {
+                    "1" : "1911",
+                    "2" : "N2",
+                    "3" : "Moderator",
+                    "4" : "4",
+                    "5" : "Ethanol",
+                    "6" : "Carbon",
+                    "7" : "Sommerfeld",
+                    "8" : "All of the above",
+                    "9" : "Halogens",
+                    "10" : "Fluorine"
+                    
+                }
+            
+            ]

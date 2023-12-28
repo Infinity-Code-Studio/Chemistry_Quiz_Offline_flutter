@@ -1,0 +1,108 @@
+[
+    
+    {
+      
+           "1": "1 : THE SYMBOL ( Lu )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Hf )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Ta )  STAND FOR..?",               
+          "4": "4 : The engines of the rocket that helped the Apolo Il spacecraft to land on the moon used for rocket fuel power..?",
+
+"5": "5 : Many people died in London in 1952 as a result of air pollution caused by..?",
+
+"6": "6 : Fluorocarbons are effective scavenger for ozone due to..?",    
+
+"7": "7 :THE CHEMICAL FORMULA OF ( Potassium Permanganate ) IS..?",
+
+"8": "8 :THE CHEMICAL FORMULA OF ( Silver phosphate ) IS..?",
+
+"9": "9 :THE CHEMICAL FORMULA OF ( Ammonium bromide ) IS..?",   
+"10":"10: A gas can be liquefied by pressure alone when its temperature is..?"
+
+  
+        },
+    {
+          
+          
+          "1" :{
+              "a" : "Lanthanum",
+              "b" : "Lawrencium",
+              "c" : "Lutetium",
+              "d" : "Gallium"
+          },
+          "2":{
+              "a" : "Francium",
+              "b" : "Hafnium",
+              "c" : "Fermium",
+              "d" : "Flerovium"
+
+          },
+          "3":{
+              "a" : "Actinium",
+              "b" : "Krypton",
+              "c" : "Thallium",
+              "d" : "Tantalum"
+          },
+         "4":{
+  "a" : "H₂",
+  "b" : "o2",
+  "c" : "Propane",
+  "d" : "Hydrazine"
+},
+"5":{
+"a" : "Mist",
+"b" : "Smog",
+"c" : "Fog",
+"d" : "Smoke"
+},
+"6":{
+"a" : "Photolytic reaction of Os producing Cl",
+"b" : "Photolytic decomposition of Os producing O₂",
+"c" : "Photolytic decomposition of D, into Cl and O₂",
+"d" : "Photolytic production of oxides of nitrogen"
+},
+      "7":{
+  "a" : "C<sub>4</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub>",
+  "b" : "C<sub>4</sub>H<sub>8</sub>N<sub>2</sub>",
+  "c" : "C<sub>4</sub>H<sub>8</sub>N<sub>2</sub>O<sub>2</sub>",
+  "d" : "CH<sub>8</sub>N<sub>2</sub>O"
+},
+"8":{
+  "a" : "Ag<sub>2</sub>SO<sub>4</sub>",
+  "b" : "Ag<sub>3</sub>PO<sub>4</sub>",
+  "c" : "Ag<sub>2</sub>PO<sub>4</sub>",
+  "d" : "Si<sub>3</sub>PO<sub>4</sub>"
+},
+"9":{
+  "a" : "Br<sub>2</sub>",
+  "b" : "NH<sub>4</sub>Br<sub>2</sub>",
+  "c" : "NH<sub>4</sub>Br",
+  "d" : "NH<sub>4</sub>Br<sub>2</sub>"
+},
+        "10":{
+"a" : "Higher than the critical temperature",
+"b" : "Lower than its critical temperature",
+"c" : "Equal to its entical temperature",
+"d" : "None"
+}
+        
+    },
+    {
+         "1" : "Lutetium",
+        "2" : "Hafnium",
+        "3" : "Tantalum",
+        "4" : "Propane",
+
+"5" : "Smog",
+
+"6" : "Photolytic decomposition of D, into Cl and O₂",
+"7" : "C<sub>4</sub>H<sub>8</sub>N<sub>2</sub>O<sub>2</sub>",
+
+"8" : "Ag<sub>3</sub>PO<sub>4</sub>",
+
+"9" : "NH<sub>4</sub>Br",
+"10" : "Lower than its critical temperature"
+        
+        
+    }
+
+]

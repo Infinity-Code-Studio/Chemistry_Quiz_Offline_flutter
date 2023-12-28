@@ -1,0 +1,117 @@
+
+
+  [
+    
+    {
+      
+          "1": "1 : Which of the following solutions will have the highest boiling point..?",
+
+          "2": "2 : Sea water is converted into fresh water by using the phenomenon of..?",
+
+          "3": "3 : When glycerine is added to a litre of water, which of the following is observed..?",
+
+          "4": "4 : At high altitudes the boiling point of water decreases because..?",
+
+          "5": "5 : A pressure cooker reduces cooking time because..?",
+
+          "6": "6 : Detergent action of soaps and synthetic. detergents is due to their..?",
+
+          "7": "7 : Smoke is an example of..?",
+
+          "8": "8 : Milk is a colloid in which..?",
+
+          "9": "9 : Butter is a colloid. It is formed when..?",
+
+          "10":"10: Milk can be preserved by a few drops of..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "1% glucose in water",
+              "b" : "1% Sucrose in water",
+              "c" : "1% NaCl in water ",
+              "d" : "1% CaCly in water"
+          },
+          "2":{
+              "a" : "Plasmolysis",
+              "b" : "Sedimentation",
+              "c" : "Reverse osmosis",
+              "d" : "Diffusion"
+          },
+          "3":{
+              "a" : "Water evaporates more easily",
+              "b" : "The temperature of water increases ",
+              "c" : "The freezing point of water is lowered",
+              "d" : "The viscosity of water is lowered"
+          },
+          "4":{
+              "a" : "Atmospheric pressure is low",
+              "b" : "Temperature is low",
+              "c" : "Atmospheric pressure is high",
+              "d" : "Water is cold"
+          },
+          "5":{
+            "a" : "Heat is more evenly distributed",
+            "b" : "BP of water inside the cooker is increased",
+            "c" : "The high pressure tenderises the food",
+            "d" : "A longer flame is used "
+        },
+         "6":{
+            "a" : "Interfacial area",
+            "b" : "High molecular weight ",
+            "c" : "lonisation",
+            "d" : "Emulsifying properties"
+        },
+        "7":{
+            "a" : "Gas dispersed in liquid",
+            "b" : "Gas dispersed in solid",
+            "c" : "Solid dispersed in gas",
+            "d" : "Sold dispersed in solid"
+        },
+        "8":{
+            "a" : "A liquid is dispersed in a liquid",
+            "b" : "A solid is dispersed in a liquid",
+            "c" : "A gas is dispersed in a liquid",
+            "d" : "Some sugar is dispersed in water"
+        },
+        "9":{
+            "a" : "Fat is dispersed in solid cansin",
+            "b" : "Fat globul are dispersed in water",
+            "c" : "Water is despersed in fat",
+            "d" : "Globulin is suspended in H₂O"
+        },
+        "10":{
+            "a" : "Formic acid solution",
+            "b" : "Formaldehyde solution",
+            "c" : "Acetic acid solution",
+            "d" : "Acetaldehyde solution"
+        }
+        
+       
+        
+    },
+    {
+        "1" : "1% CaCly in water",
+
+        "2" : "Reverse osmosis",
+
+        "3" : "The freezing point of water is lowered",
+
+        "4" : "Atmospheric pressure is low",
+
+        "5" : "BP of water inside the cooker is increased",
+
+        "6" : "Emulsifying properties",
+
+        "7" : "Solid dispersed in gas",
+
+        "8" : "A liquid is dispersed in a liquid",
+
+        "9" : "Water is despersed in fat",
+
+        "10" : "Formaldehyde solution"
+        
+
+    }
+
+]

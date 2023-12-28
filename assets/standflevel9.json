@@ -1,0 +1,99 @@
+            
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Ti )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Pb )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Bi )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( Po )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( At )  STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Rn )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Fr )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Ra )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Ac )  STAND FOR..?", 
+          "10":"10: THE SYMBOL ( Th )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Actinium",
+              "b" : "Thorium",
+              "c" : "Tantalum",
+              "d" : "Thallium"
+          },
+          "2":{
+            "a" : "Lead",
+            "b" : "Polonium",
+            "c" : "Protactinium",
+            "d" : "Plutonium"
+
+          },
+          "3":{
+              "a" : "Boron",
+              "b" : "Beryllium",
+              "c" : "Bismuth",
+              "d" : "Rubidium"
+          },
+          "4":{
+              "a" : "Protactinium",
+              "b" : "Plutunium",
+              "c" : "Polonium",
+              "d" : "Platinum"
+          },
+          "5":{
+            "a" : "Argon",
+            "b" : "Arsenic",
+            "c" : "Actinium",
+            "d" : "Astatine"
+        },
+        "6":{
+            "a" : "Iron",
+            "b" : "Radon",
+            "c" : "Rubium",
+            "d" : "Rhenium"
+        },
+        "7":{
+            "a" : "Floride",
+            "b" : "Hafnium",
+            "c" : "Francium",
+            "d" : "Fermium"
+        },
+        "8":{
+            "a" : "Radium",
+            "b" : "Radon",
+            "c" : "Rubium",
+            "d" : "Rhenium"
+        },
+        "9":{
+            "a" : "Argon",
+            "b" : "Arsenic",
+            "c" : "Actinium",
+            "d" : "Astatine"
+        },
+        "10":{
+            "a" : "Titanium",
+            "b" : "Thorium",
+            "c" : "Tantalum",
+            "d" : "Thallium"
+        }
+        
+    },
+    {
+        "1" : "Thallium",
+        "2" : "Lead",
+        "3" : "Bismuth",
+        "4" : "Polonium",
+        "5" : "Astatine",
+        "6" : "Radon",
+        "7" : "Francium",
+        "8" : "Radium",
+        "9" : "Actinium",
+        "10" : "Thorium"
+        
+    }
+
+
+
+]
+

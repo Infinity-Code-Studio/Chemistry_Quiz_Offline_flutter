@@ -1,0 +1,105 @@
+[
+    
+    {
+      
+         "1": "1 : Gelatin is often used as an ingredient in manufacture of ice cream. The purpose of the adding gelatin is..?",
+
+"2": "2 : Digestion of fats in the intestines is aided by ..?",
+
+"3": "3 : The rate of chemical reaction depends on the nature of chemical reactants, because..?",
+"4": "4 :THE CHEMICAL FORMULA OF ( Acetone ) IS..?",
+
+"5": "5 :THE CHEMICAL FORMULA OF ( Hydroquinone ) IS..?",
+
+"6": "6 :THE CHEMICAL FORMULA OF ( Ammonium acetate ) IS..?",
+"7": "7 : THE SYMBOL ( Er )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( La )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Tm )  STAND FOR..?",
+          "10":"10 :THE CHEMICAL FORMULA OF( Sulfuric acid )IS..?"
+          
+  
+        },
+    {
+          "1" :{
+  "a" : "To prevent formation of colloidal solution",
+  "b" : "To stabilize the colloids and prevent crystal growth",
+  "c" : "To improve the flavour",
+  "d" : "To increase the bulk"
+},
+"2":{
+  "a" : "Hydrolysis",
+  "b" : "De-emulsification",
+  "c" : "Emulsification",
+  "d" : "Oxidation"
+},
+"3":{
+  "a" : "Energy of activation differs from one reactant to another",
+  "b" : "Some of the reactants are solid at room temperature",
+  "c" : "Some of the reactants are coloured",
+  "d" : "All are correct"
+},
+          "4":{
+  "a" : "CaCH<sub>4</sub>",
+  "b" : "C<sub>3</sub>H<sub>6</sub>O",
+  "c" : "C<sub>3</sub>H<sub>3</sub>O",
+  "d" : "C<sub>3</sub>H<sub>2</sub>O"
+},
+"5":{
+  "a" : "C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>",
+  "b" : "C<sub>6</sub>H<sub>6</sub>O<sub>3</sub>",
+  "c" : "CH<SUB>2</SUB>O",
+  "d" : "C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>"
+},
+"6":{
+  "a" : "C<sub>2</sub>HO<sub>2</sub>NH<sub>4</sub>",
+  "b" : "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>",
+  "c" : "C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>NH<sub>4</sub>",
+  "d" : "C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>NH<sub>4</sub>"
+},
+
+         "7":{
+            "a" : "Europium",
+            "b" : "Erbium",
+            "c" : "Einsteinium",
+            "d" : "Iron"
+        },
+        "8":{
+            "a" : "Actinium",
+            "b" : "Lanthanum",
+            "c" : "Thallium",
+            "d" : "Thorium"
+        },
+        "9":{
+            "a" : "Thulium",
+            "b" : "Thallium",
+            "c" : "Tantalum",
+            "d" : "Thorium"
+        },
+        "10":{
+    "a" : "H<sub>2</sub>O<SUB>4</SUB>",
+    "b" : "H<sub>2</sub>SO<SUB>3</SUB>",
+    "c" : "H<sub>2</sub>SO<SUB>4</SUB>",
+    "d" : "NON OF ABOVE"
+}
+        
+    },
+    {
+        "1" : "To stabilize the colloids and prevent crystal growth",
+
+"2" : "Oxidation",
+
+"3" : "Energy of activation differs from one reactant to another",
+"4" : "C<sub>3</sub>H<sub>6</sub>O",
+
+"5" : "C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>",
+
+"6" : "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>",
+"7" : "Erbium",
+        "8" : "Lanthanum",
+        "9" : "Thulium",
+        "10" : "H<sub>2</sub>SO<SUB>4</SUB>"
+        
+        
+    }
+
+]

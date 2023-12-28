@@ -1,0 +1,118 @@
+
+[
+    
+    {
+      
+          "1": "1 :THE CHEMICAL FORMULA OF ( Sodium nitrite ) IS..?",
+
+          "2": "2 :THE CHEMICAL FORMULA OF ( Sulfate ion ) IS..?",
+
+          "3": "3 :THE CHEMICAL FORMULA OF ( Barium carbonate ) IS..?",
+
+          "4": "4 :THE CHEMICAL FORMULA OF ( Calcium iodide ) IS..?",
+
+          "5": "5 :THE CHEMICAL FORMULA OF ( Hydrogen sulfate ) IS..?",
+
+          "6": "6 :THE CHEMICAL FORMULA OF ( Lithium oxide ) IS..?",
+
+          "7": "7 :THE CHEMICAL FORMULA OF ( Potassium Permanganate ) IS..?",
+
+          "8": "8 :THE CHEMICAL FORMULA OF ( Silver phosphate ) IS..?",
+
+          "9": "9 :THE CHEMICAL FORMULA OF ( Ammonium bromide ) IS..?",
+
+          "10":"10 :THE CHEMICAL FORMULA OF ( Calcium phosphate ) IS..?"
+  
+        },
+        {
+        "1":{
+              "a" : "NaNO<sub>2</sub>",
+              "b" : "NaNO",
+              "c" : "NaNO<sub>3</sub>",
+              "d" : "NaH<sub>2</sub>"
+          },
+
+          "2":{
+              "a" : "SO<sub>4",
+              "b" : "Si<sub>4</sub><sup>2−</sup>",
+              "c" : "SO<sub>4</sub><sup>2−</sup>",
+              "d" : "SO<sub>3</sub><sup>2−</sup>"
+          },
+          "3":{
+              "a" : "Ba<sub>2</sub>CO<sub>4</sub>",
+              "b" : "Ba<sub>2</sub>CO<sub>3</sub>",
+              "c" : "BaO<sub>3</sub>",
+              "d" : "BaCO<sub>3</sub>"
+          },
+          "4":{
+              "a" : "CI<sub>4</sub>",
+              "b" : "CaI<sub>2</sub>",
+              "c" : "CaI<sub>4</sub>",
+              "d" : "Ca<sub>4</sub>"
+          },
+
+          "5":{
+              "a" : "HSO<sub>2</sub><sup>–</sup>",
+              "b" : "HO<sub>4</sub><sup>–</sup>",
+              "c" : "HSO<sub>4</sub>",
+              "d" : "HSO<sub>4</sub><sup>–</sup>"
+        },
+        "6":{
+              "a" : "Li<sub>2</sub>O",
+              "b" : "LH<sub>2</sub>O<sub>4</sub>",
+              "c" : "LH<SUB>2</SUB>",
+              "d" : "LiH<SUB>2</SUB>o"
+        },
+
+        "7":{
+              "a" : "C<sub>4</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub>",
+              "b" : "C<sub>4</sub>H<sub>8</sub>N<sub>2</sub>",
+              "c" : "C<sub>4</sub>H<sub>8</sub>N<sub>2</sub>O<sub>2</sub>",
+              "d" : "CH<sub>8</sub>N<sub>2</sub>O"
+        },
+        "8":{
+              "a" : "Ag<sub>2</sub>SO<sub>4</sub>",
+              "b" : "Ag<sub>3</sub>PO<sub>4</sub>",
+              "c" : "Ag<sub>2</sub>PO<sub>4</sub>",
+              "d" : "Si<sub>3</sub>PO<sub>4</sub>"
+        },
+        "9":{
+              "a" : "Br<sub>2</sub>",
+              "b" : "NH<sub>4</sub>Br<sub>2</sub>",
+              "c" : "NH<sub>4</sub>Br",
+              "d" : "NH<sub>4</sub>Br<sub>2</sub>"
+        },
+        "10":{
+
+              "a" : "Ca<sub>3</sub>(PO<sub>2</sub>)<sub>4</sub>",
+              "b" : "Ca<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>",
+              "c" : "Ca(PO<sub>4</sub>)<sub>2</sub>",
+              "d" : "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>"
+        }
+        
+        
+    },
+   {
+        "1" : "NaNO<sub>2</sub>",
+
+        "2" : "SO<sub>4</sub><sup>2−</sup>",
+
+        "3" : "BaCO<sub>3</sub>",
+        
+        "4" : "CaI<sub>2</sub>",
+
+        "5" : "HSO<sub>4</sub><sup>–</sup>",
+
+        "6" : "Li<sub>2</sub>O",
+
+        "7" : "C<sub>4</sub>H<sub>8</sub>N<sub>2</sub>O<sub>2</sub>",
+
+        "8" : "Ag<sub>3</sub>PO<sub>4</sub>",
+
+        "9" : "NH<sub>4</sub>Br",
+
+       "10" : "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>"
+        
+    }
+
+]

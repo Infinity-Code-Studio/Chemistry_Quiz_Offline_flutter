@@ -1,0 +1,104 @@
+[
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Nb )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( Mo )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Tc )  STAND FOR..?",
+            "4": "4 :THE CHEMICAL FORMULA OF ( Methane ) IS..?",
+"5": "5 :THE CHEMICAL FORMULA OF ( Nitrogen dioxide ) IS..?",
+"6": "6 :THE CHEMICAL FORMULA OF ( Sulfurous acid ) IS..?",
+"7": "7 : In the periodic table, elements have been arranged..?",
+
+"8": "8 : Which group of elements in the periodic table show highest first ionisation potential Elements in the..?",
+
+"9": "9 : When we move from left to right in second penod, the atomic volume of the element..?",
+
+"10":"10: Generally in a given period in the periodic table as we move from left to right, the electropositive character of elements..?"
+
+          
+  
+        },
+    {
+            "1" :{
+              "a" : "Neodymium",
+              "b" : "Neon",
+              "c" : "Niobium",
+              "d" : "Nitrogen"
+          },
+          "2":{
+              "a" : "Molybdenum",
+              "b" : "Mercury",
+              "c" : "Mendelevium",
+              "d" : "Magnesium"
+          },
+          "3":{
+              "a" : "Tin",
+              "b" : "Ruthenium",
+              "c" : "Strontium",
+              "d" : "Technetium"
+          },
+           "4":{
+  "a" : "CaCH<sub>4</sub>",
+  "b" : "CaCH<SUB>3</SUB>",
+  "c" : "CH<sub>4</sub>",
+  "d" : "CH<SUB>2</SUB>"
+},
+"5":{
+  "a" : "NaHo<SUB>3</SUB>",
+  "b" : "No<SUB>3</SUB>",
+  "c" : "Na<SUB>2</SUB>",
+  "d" : "NO<SUB>2</SUB>"
+},
+"6":{
+  "a" : "H<sub>2</sub>SO<sub>3</sub>",
+  "b" : "H<sub>2</sub>SO<sub>4</sub>",
+  "c" : "H<SUB>2</SUB>",
+  "d" : "H<SUB>2</SUB>o"
+},
+          "7":{
+"a" : "In order of increasing volume",
+"b" : "In order of increasing atomic number",
+"c" : "in order of increasing atomic weights",
+"d" : "in order of increasing density"
+},
+"8":{
+"a" : "Left hand top corner",
+"b" : "Left hand bottom corner",
+"c" : "Right hand top corner",
+"d" : "Right hand bottom corner"
+},
+"9":{
+"a" : "Increases",
+"b" : "Increases with constant state",
+"c" : "Decreases",
+"d" : "None of these"
+},
+"10":{
+"a" : "Increases",
+"b" : "Decreases",
+"c" : "Neither increases nor decreases",
+"d" : "Decreases then increases"
+}
+        
+    },
+    {
+         "1" : "Niobium",
+        "2" : "Molybdenum",
+        "3" : "Technetium",
+           "4" : "CH<sub>4</sub>",
+"5" : "NO<SUB>2</SUB>",
+"6" : "H<sub>2</sub>SO<sub>4</sub>",
+"7" : "In order of increasing atomic number",
+
+"8" : "Left hand top corner",
+
+"9" : "None of these",
+
+"10" : "Decreases"
+        
+        
+    }
+
+]
+

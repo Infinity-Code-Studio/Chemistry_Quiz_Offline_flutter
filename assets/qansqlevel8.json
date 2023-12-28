@@ -1,0 +1,114 @@
+
+  [
+    
+    {
+      
+          "1": "1 : Mendeleev's penodic table is upset by the fact that..?",
+
+          "2": "2 : Most of the known elements are..?",
+
+          "3": "3 : Stainless steel does not rust because..?",
+
+          "4": "4 : The engines of the rocket that helped the Apolo Il spacecraft to land on the moon used for rocket fuel power..?",
+
+          "5": "5 : Many people died in London in 1952 as a result of air pollution caused by..?",
+
+          "6": "6 : Fluorocarbons are effective scavenger for ozone due to..?",
+
+          "7": "7 : Detergents are better than soaps because..?",
+
+          "8": "8 : Chemically soap is..?",
+
+          "9": "9 : Lipids are..?",
+
+          "10":"10: Digestion of fat in intestine is aided by..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Noble gases do not form compounds",
+              "b" : "Atomic weight of elements are not always whole numbers",
+              "c" : "Many elements have several isotopes",
+              "d" : "Some groups stand divided into two subgroups A and B"
+          },
+          "2":{
+              "a" : "metals",
+              "b" : "Transton metals ",
+              "c" : "inner transition metals",
+              "d" : "non metals"
+          },
+          "3":{
+              "a" : "Nickel present in it does not nust",
+              "b" : "Iron forme a hard chemical compound with chromium present in it",
+              "c" : "Chromium and niceal combine with iron",
+              "d" : "Chromium forms an oxide layer that protects iron from using"
+          },
+          "4":{
+              "a" : "H₂",
+              "b" : "o2",
+              "c" : "Propane",
+              "d" : "Hydrazine"
+          },
+          "5":{
+            "a" : "Mist",
+            "b" : "Smog",
+            "c" : "Fog",
+            "d" : "Smoke"
+        },
+        "6":{
+            "a" : "Photolytic reaction of Os producing Cl",
+            "b" : "Photolytic decomposition of Os producing O₂",
+            "c" : "Photolytic decomposition of D, into Cl and O₂",
+            "d" : "Photolytic production of oxides of nitrogen"
+        },
+        "7":{
+            "a" : "They wash clothes better ",
+            "b" : "Absorb the hardness of water",
+            "c" : "They are less affected by hrard water",
+            "d" : "They are less soapy"
+        },
+        "8":{
+            "a" : "Base",
+            "b" : "Salt",
+            "c" : "Acid",
+            "d" : "Hydrocarbon"
+        },
+        "9":{
+            "a" : "Long chain fatty acid esters",
+            "b" : "Long chain sulphonic acid esters",
+            "c" : "Polymeric hydrocarbons",
+            "d" : "Polymeric aldehydes"
+        },
+        "10":{
+            "a" : "Diffusion",
+            "b" : "Peptization",
+            "c" : "Emulsification",
+            "d" : "Protection"
+        }
+        
+    },
+    {
+        "1" : "Atomic weight of elements are not always whole numbers",
+
+        "2" : "metals",
+
+        "3" : "Chromium forms an oxide layer that protects iron from using",
+
+        "4" : "Propane",
+
+        "5" : "Smog",
+
+        "6" : "Photolytic decomposition of D, into Cl and O₂",
+
+        "7" : "They are less affected by hrard water",
+
+        "8" : "Acid",
+
+        "9" : "Long chain fatty acid esters",
+
+        "10" : "Protection"
+        
+
+    }
+
+]

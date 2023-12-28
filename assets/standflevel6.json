@@ -1,0 +1,96 @@
+
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( Nd )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( TE )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( I )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( Xe )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( Cs) STAND FOR..?",
+          "6": "6 : THE SYMBOL ( Ba )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Sb )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( La )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( Ce )  STAND FOR..?",
+          "10":"10: THE SYMBOL ( Pr )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Neodymium",
+              "b" : "Neon",
+              "c" : "Niobium",
+              "d" : "Nitrogen"
+          },
+          "2":{
+              "a" : "Technetium",
+              "b" : "Tin",
+              "c" : "Tellurium",
+              "d" : "Strontium"
+
+          },
+          "3":{
+              "a" : "Radon",
+              "b" : "Iodine",
+              "c" : "Rubidium",
+              "d" : "Rhodium"
+          },
+          "4":{
+              "a" : "Zinc",
+              "b" : "Oganesson",
+              "c" : "Neon",
+              "d" : "Xenon"
+          },
+          "5":{
+            "a" : "Caesium",
+            "b" : "Cadmium",
+            "c" : "Cerium",
+            "d" : "Calcium"
+        },
+        "6":{
+            "a" : "Boron",
+            "b" : "Bromine",
+            "c" : "Barium",
+            "d" : "Beryllium"
+        },
+        "7":{
+            "a" : "Strontium",
+            "b" : "Silver",
+            "c" : "Sulfur",
+            "d" : "Antimony"
+        },
+        "8":{
+            "a" : "Tellurium",
+            "b" : "Lanthanum",
+            "c" : "Lead",
+            "d" : "Lawrencium"
+        },
+        "9":{
+            "a" : "Caesium",
+            "b" : "Calcium",
+            "c" : "Cerium",
+            "d" : "Carbon"
+        },
+        "10":{
+            "a" : "Promethium",
+            "b" : "Praseodymium",
+            "c" : "Palladium",
+            "d" : "Platinum"
+        }
+        
+    },
+    {
+        "1" : "Neodymium",
+        "2" : "Tellurium",
+        "3" : "Iodine",
+        "4" : "Xenon",
+        "5" : "Caesium",
+        "6" : "Barium",
+        "7" : "Antimony",
+        "8" : "Lanthanum",
+        "9" : "Cerium",
+        "10" : "Praseodymium"
+        
+    }
+
+]

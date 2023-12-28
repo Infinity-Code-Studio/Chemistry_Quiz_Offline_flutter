@@ -1,0 +1,116 @@
+
+[
+    
+    {
+      
+          "1": "1 :THE CHEMICAL FORMULA OF ( Zinc nitrate ) IS..?",
+
+          "2": "2 :THE CHEMICAL FORMULA OF ( Magnesium nitrate ) IS..?",
+
+          "3": "3 :THE CHEMICAL FORMULA OF ( Silicon dioxide ) IS..?",
+
+          "4": "4 :THE CHEMICAL FORMULA OF ( Acetone ) IS..?",
+
+          "5": "5 :THE CHEMICAL FORMULA OF ( Hydroquinone ) IS..?",
+
+          "6": "6 :THE CHEMICAL FORMULA OF ( Ammonium acetate ) IS..?",
+
+          "7": "7 :THE CHEMICAL FORMULA OF ( Barium sulfate ) IS..?",
+
+          "8": "8 :THE CHEMICAL FORMULA OF ( Benzene ) IS..?",
+
+          "9": "9 :THE CHEMICAL FORMULA OF ( Bicarbonate ) IS..?",
+
+          "10":"10 :THE CHEMICAL FORMULA OF ( Chromate ) IS..?"
+  
+        },
+        {
+        "1":{
+              "a" : "Zn(NO<sub>4</sub>)<sub>4</sub>",
+              "b" : "Zn(NO<sub>4</sub>)<sub>2</sub>",
+              "c" : "Zn(NO<sub>3</sub>)<sub>2</sub>",
+              "d" : "Zn(NO)<sub>2</sub>"
+          },
+          "2":{
+              "a" : "Mg(NO<sub>3</sub>)<sub>2</sub>",
+              "b" : "Mg(NO<sub>3</sub>)<sub>3</sub>",
+              "c" : "Mg(NO<sub>4</sub>)<sub>4</sub>",
+              "d" : "Mg(NO)<sub>2</sub>"
+          },
+          "3":{
+              "a" : "Si<sub>2</sub>",
+              "b" : "SiO<sub>3</sub>",
+              "c" : "SiO",
+              "d" : "SiO<sub>2</sub>"
+          },
+          "4":{
+              "a" : "CaCH<sub>4</sub>",
+              "b" : "C<sub>3</sub>H<sub>6</sub>O",
+              "c" : "C<sub>3</sub>H<sub>3</sub>O",
+              "d" : "C<sub>3</sub>H<sub>2</sub>O"
+          },
+          "5":{
+              "a" : "C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>",
+              "b" : "C<sub>6</sub>H<sub>6</sub>O<sub>3</sub>",
+              "c" : "CH<SUB>2</SUB>O",
+              "d" : "C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>"
+        },
+        "6":{
+              "a" : "C<sub>2</sub>HO<sub>2</sub>NH<sub>4</sub>",
+              "b" : "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>",
+              "c" : "C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>NH<sub>4</sub>",
+              "d" : "C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>NH<sub>4</sub>"
+        },
+
+        "7":{
+              "a" : "BaSO",
+              "b" : "BaNO<sub>3</sub>",
+              "c" : "BaSO<sub>3</sub>",
+              "d" : "BaSO<sub>4</sub>"
+        },
+        "8":{
+              "a" : "C<sub>6</sub>B<sub>6</sub>",
+              "b" : "C<sub>6</sub>H<sub>6</sub>",
+              "c" : "B<sub>6</sub>H<sub>6</sub>",
+              "d" : "C<sub>6</sub>H<sub>4</sub>"
+        },
+        "9":{
+              "a" : "CHO<sub>4</sub><sup>–</sup>",
+              "b" : "CO<sub>3</sub><sup>–</sup>",
+              "c" : "CHO<sub>3</sub><sup>–</sup>",
+              "d" : "CH<sub>3</sub><sup>–</sup>"
+        },
+        "10":{
+
+              "a" : "CrO<sub>4</sub><sup>-</sup>",
+              "b" : "CrO<sub>2</sub><sup>2-</sup>",
+              "c" : "CrO<sub>3</sub><sup>2-</sup>",
+              "d" : "CrO<sub>4</sub><sup>2-</sup>"
+        }
+        
+        
+    },
+   {
+        "1" : "Zn(NO<sub>3</sub>)<sub>2</sub>",
+
+        "2" : "Mg(NO<sub>3</sub>)<sub>2</sub>",
+
+        "3" : "SiO<sub>2</sub>",
+
+        "4" : "C<sub>3</sub>H<sub>6</sub>O",
+
+        "5" : "C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>",
+
+        "6" : "C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>NH<sub>4</sub>",
+
+        "7" : "BaSO<sub>4</sub>",
+
+        "8" : "C<sub>6</sub>H<sub>6</sub>",
+
+        "9" : "CHO<sub>3</sub><sup>–</sup>",
+
+       "10" : "CrO<sub>4</sub><sup>2-</sup>"
+        
+    }
+
+]

@@ -1,0 +1,114 @@
+[
+    
+    {
+      
+           "1": "1 :THE CHEMICAL FORMULA OF ( Sodium sulfate) IS..?",
+
+"2": "2 :THE CHEMICAL FORMULA OF ( Potassium nitrate ) IS..?",
+
+"3": "3 :THE CHEMICAL FORMULA OF ( Ammonium bicarbonate ) IS..?",
+"4": "4 : Which acid is present in sour milk..?",
+
+"5": "5 : The water that can produce good lather with soap is known as..?",
+
+"6": "6 : Which of the following is/are purest form of carbon..?",
+"7": "7 : The glitter of diamond is ..?",
+
+"8": "8 : In colourful diamond, different colours are present due to ..?",
+
+"9": "9 : All of the followings are different uses of hydrogen peroxide except..?",
+"10":"10: Which of the following group of compounds constitute carbohydrates..?"
+
+          
+  
+        },
+    {
+          "1":{
+  "a" : "Na<sub>3</sub>SO<sub>4</sub>",
+  "b" : "Na<sub>2</sub>SO<sub>4</sub>",
+  "c" : "NaSO<sub>4</sub>",
+  "d" : "NaSO<sub>3</sub>"
+},
+
+"2":{
+  "a" : "KNO",
+  "b" : "KNO<sub>3</sub>",
+  "c" : "KNO<sub>2</sub>",
+  "d" : "KNO<sub>4</sub>"
+},
+"3":{
+  "a" : "NH<sub>3</sub>HCO<sub>4</sub>",
+  "b" : "NH<sub>2</sub>HCO",
+  "c" : "NH<sub>4</sub>HCO<sub>3</sub>",
+  "d" : "NH<sub>2</sub>HCO<sub>4</sub>"
+},
+          "4":{
+  "a" : "citric acid",
+  "b" : "Tartanc acid ",
+  "c" : "Formic acid",
+  "d" : "lactic acid"
+},
+"5":{
+"a" : "Soft water",
+"b" : "Heavy water ",
+"c" : "Atomic wutes",
+"d" : "Hard water"
+},
+"6":{
+"a" : "Diamond",
+"b" : "Bucky bal",
+"c" : "Graphite",
+"d" : "Marble"
+},
+         "7":{
+"a" : "Because it is transparent",
+"b" : "Because it is a non-conductor",
+"c" : "Due to its quality of reflecting light",
+"d" : "Because of its density"
+},
+"8":{
+"a" : "Impuritise",
+"b" : "Angular bonds between the carbon atoms",
+"c" : "Different patterns of carbon chains",
+"d" : "None of the above"
+},
+"9":{
+"a" : "Used as bleaching agent",
+"b" : "Used to deodour sewers",
+"c" : "Used as feul in space",
+"d" : "Used to prepare organic peroxides"
+},
+         "10":{
+"a" : "Fats and sugar",
+"b" : "Fats, sugar and proteins",
+"c" : "Starch, sugar and proteins",
+"d" : "Starch and sugar"
+}
+        
+    },
+    {
+       "1" : "Na<sub>2</sub>SO<sub>4</sub>",
+
+       "2" : "KNO<sub>3</sub>",
+
+       "3" : "NH<sub>4</sub>HCO<sub>3</sub>",
+       "4" : "Formic acid",
+
+       "5" : "Soft water",
+
+       "6" : "Diamond",
+       "7" : "Due to its quality of reflecting light",
+
+       "8" : "Impuritise",
+
+       "9" : "Used as feul in space",
+       "10" : "Starch and sugar"
+        
+        
+    }
+
+]
+
+
+
+

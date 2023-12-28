@@ -1,0 +1,103 @@
+[
+    
+    {
+      
+           "1": "1 : THE SYMBOL ( Pa )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( U )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( Np )  STAND FOR..?",
+            "4": "4 :THE CHEMICAL FORMULA OF ( Methane ) IS..?",
+"5": "5 :THE CHEMICAL FORMULA OF ( Nitrogen dioxide ) IS..?",
+"6": "6 :THE CHEMICAL FORMULA OF ( Sulfurous acid ) IS..?",
+
+"7": "7 : When two ice cubes are pressed over each other they unite to form one cube Which of the following force is responsible for holding them together..?",
+
+"8": "8 : The high boiling point of water is due to..?",
+
+"9": "9 : Ice has an open structure compared to water due to which it foats on water and occupies a greater volume of space The open structure of ice is due to..?",
+
+"10":"10: A gas can be liquefied by pressure alone when its temperature is..?"
+          
+  
+        },
+    {
+        "1" :{
+              "a" : "Plutonium",
+              "b" : "ProThorium",
+              "c" : "ProTantalum",
+              "d" : "Protactinium"
+          },
+          "2":{
+            "a" : "Curium",
+            "b" : "Copernicium",
+            "c" : "Uranium",
+            "d" : "Hassium"
+          },
+          "3":{
+              "a" : "Nepton",
+              "b" : "Polonium",
+              "c" : "Platinum",
+              "d" : "Neptunium"
+          },
+            "4":{
+  "a" : "CaCH<sub>4</sub>",
+  "b" : "CaCH<SUB>3</SUB>",
+  "c" : "CH<sub>4</sub>",
+  "d" : "CH<SUB>2</SUB>"
+},
+"5":{
+  "a" : "NaHo<SUB>3</SUB>",
+  "b" : "NO<SUB>3</SUB>",
+  "c" : "Na<SUB>2</SUB>",
+  "d" : "NO<SUB>2</SUB>"
+},
+"6":{
+  "a" : "H<sub>2</sub>SO<sub>3</sub>",
+  "b" : "H<sub>2</sub>SO<sub>4</sub>",
+  "c" : "H<SUB>2</SUB>",
+  "d" : "H<SUB>2</SUB>o"
+},
+         "7":{
+"a" : "Vander Walls forces",
+"b" : "Covalent attraction",
+"c" : "Hydrogen bond formation",
+"d" : "Dipole dipole attraction "
+},
+"8":{
+"a" : "Weak dissociation of water molecule",
+"b" : "Hydrogen bonding among water molecules",
+"c" : "Its high specific heat",
+"d" : "is high dielectric constant."
+},
+"9":{
+"a" : "Sold state of ice ",
+"b" : "Its low density",
+"c" : "Crystalline nature ",
+"d" : "Hydrogen bonding"
+},
+"10":{
+"a" : "Higher than the critical temperature",
+"b" : "Lower than its critical temperature",
+"c" : "Equal to its entical temperature",
+"d" : "None"
+}
+        
+    },
+    {
+         "1" : "Protactinium",
+        "2" : "Copernicium",
+        "3" : "Neptunium",
+         "4" : "CH<sub>4</sub>",
+"5" : "NO<SUB>2</SUB>",
+"6" : "H<sub>2</sub>SO<sub>4</sub>",
+"7" : "Hydrogen bond formation",
+
+"8" : "Hydrogen bonding among water molecules",
+
+"9" : "Hydrogen bonding",
+
+"10" : "Lower than its critical temperature"
+        
+        
+    }
+
+]

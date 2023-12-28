@@ -1,0 +1,95 @@
+
+  [
+    
+    {
+      
+          "1": "1 : THE SYMBOL ( H )  STAND FOR..?",
+          "2": "2 : THE SYMBOL ( C )  STAND FOR..?",
+          "3": "3 : THE SYMBOL ( O )  STAND FOR..?",
+          "4": "4 : THE SYMBOL ( N )  STAND FOR..?",
+          "5": "5 : THE SYMBOL ( Be )  STAND FOR..?",
+          "6": "6 : THE SYMBOL ( F )  STAND FOR..?",
+          "7": "7 : THE SYMBOL ( Ne )  STAND FOR..?",
+          "8": "8 : THE SYMBOL ( Li )  STAND FOR..?",
+          "9": "9 : THE SYMBOL ( B )  STAND FOR..?",
+          "10":"10: THE SYMBOL ( He )  STAND FOR..?"
+  
+        },
+    {
+          "1" :{
+              "a" : "Hydroxide",
+              "b" : "Helium",
+              "c" : "Hydrogen",
+              "d" : "Water"
+          },
+          "2":{
+              "a" : "Carbon",
+              "b" : "Chlorine",
+              "c" : "Calcium",
+              "d" : "none of above"
+          },
+          "3":{
+              "a" : "Copper",
+              "b" : "Iron",
+              "c" : "Argon",
+              "d" : "Oxygen"
+          },
+          "4":{
+              "a" : "Nitrogen",
+              "b" : "Neon",
+              "c" : "Indium",
+              "d" : "None of above"
+          },
+          "5":{
+            "a" : "Boromine",
+            "b" : "Boron",
+            "c" : "Beryllium",
+            "d" : "Terbium"
+        },
+        "6":{
+            "a" : "Fermium",
+            "b" : "Francium",
+            "c" : "Hafnium",
+            "d" : "Fluorine"
+        },
+        "7":{
+            "a" : "Nitrogen",
+            "b" : "Neon",
+            "c" : "Niobium",
+            "d" : "None of above"
+        },
+        "8":{
+            "a" : "Lead",
+            "b" : "Lithium",
+            "c" : "Gallium",
+            "d" : "Lodine"
+        },
+        "9":{
+            "a" : "Boromine",
+            "b" : "Beryllium",
+            "c" : "Boron",
+            "d" : "Barium"
+        },
+        "10":{
+            "a" : "Helium",
+            "b" : "Hydrogen",
+            "c" : "Holmium",
+            "d" : "Hafnium"
+        }
+        
+    },
+    {
+        "1" : "Hydrogen",
+        "2" : "Carbon",
+        "3" : "Oxygen",
+        "4" : "Nitrogen",
+        "5" : "Beryllium",
+        "6" : "Fluorine",
+        "7" : "Neon",
+        "8" : "Lithium",
+        "9" : "Boron",
+        "10" : "Helium"
+        
+    }
+
+]

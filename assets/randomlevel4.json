@@ -1,0 +1,104 @@
+[
+    
+    {
+      
+          "1":"1: THE SYMBOL ( He )  STAND FOR..?",
+          "2":"2 :THE CHEMICAL FORMULA OF( Sulfuric acid )IS..?",
+          "3":"3: THE SYMBOL ( Na )  STAND FOR..?",
+          "4":"4: Which of the following group of compounds constitute carbohydrates..?",
+           "5": "5 : THE SYMBOL ( Zn )  STAND FOR..?",
+          "6":"6 :THE CHEMICAL FORMULA OF ( Sodium carbonate ) IS..?",
+          "7": "7 : THE SYMBOL ( In )  STAND FOR..?",
+          "8":"8: THE SYMBOL ( Sn )  STAND FOR..?",
+          "9": "9 :THE CHEMICAL FORMULA OF ( Magnesium phosphate ) IS..?",
+
+         "10":"10 :THE CHEMICAL FORMULA OF ( Sodium acetate ) IS..?"
+          
+  
+        },
+    {
+          "1":{
+            "a" : "Helium",
+            "b" : "Hydrogen",
+            "c" : "Holmium",
+            "d" : "Hafnium"
+        },
+          "2":{
+            "a" : "H<sub>2</sub>O<SUB>4</SUB>",
+            "b" : "H<sub>2</sub>SO<SUB>3</SUB>",
+            "c" : "H<sub>2</sub>SO<SUB>4</SUB>",
+            "d" : "NON OF ABOVE"
+             },
+          "3":{
+            "a" : "Sodium",
+            "b" : "Silicon",
+            "c" : "Scandium",
+            "d" : "Vanadium"
+        },
+            
+         "4":{
+             "a" : "Fats and sugar",
+             "b" : "Fats, sugar and proteins",
+             "c" : "Starch, sugar and proteins",
+             "d" : "Starch and sugar"
+              },
+           "5":{
+            "a" : "Zirconium",
+            "b" : "Copper",
+            "c" : "Nihonium",
+            "d" : "Zinc"
+        },
+        
+      "6":{
+            "a" : "Na<SUB>2</SUB>CO<SUB>3</SUB>",
+            "b" : "NaHO<SUB>2</SUB>",
+            "c" : "Na<SUB>2</SUB>CO<SUB>3</SUB>",
+            "d" : "Na<SUB>2</SUB>CO<SUB>4</SUB>"
+      },
+         "7":{
+            "a" : "Lanthanum",
+            "b" : "lodine",
+            "c" : "Sodium",
+            "d" : "Indium"
+        },
+        "8":{
+            "a" : "Technetium",
+            "b" : "Tin",
+            "c" : "Zinc",
+            "d" : "Silicon"
+        },
+        "9":{
+            "a" : "Fe<sub>2</sub>O<sub>3</sub>",
+            "b" : "Fe<sub>2</sub>O<sub>4</sub>",
+            "c" : "Fe2O<sub>3</sub>",
+            "d" : "Fe<sub>2</sub>O<sub>6</sub>"
+      },
+
+      "10":{
+
+            "a" : "C<sub>2</sub>H<sub>3</sub>NaO<sub>2</sub>",
+            "b" : "C<sub>2</sub>H<sub>4</sub>NaO<sub>2</sub>",
+            "c" : "C<sub>2</sub>H<sub>3</sub>Na<sub>2</sub>",
+            "d" : "CHNa<sub>3</sub>"
+      }
+        
+    },
+    {
+        "1" : "Helium",
+        "2" : "H<sub>2</sub>SO<SUB>4</SUB>",
+        "3" : "Sodium",
+        "4" : "Starch and sugar",
+         "5" : "Zinc",
+        "6" : "Na<SUB>2</SUB>CO<SUB>3</SUB>",
+         "7" : "Indium",
+        "8" : "Tin",
+        "9" : "Fe<sub>2</sub>O<sub>3</sub>",
+
+        "10" : "C<sub>2</sub>H<sub>3</sub>NaO<sub>2</sub>"
+        
+        
+    }
+
+]
+
+

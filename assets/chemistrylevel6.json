@@ -1,0 +1,95 @@
+
+            [
+    
+                {
+                  
+                      "1": "1 : Molten sodium chloride conducts electricity due to the presence of",
+                      "2": "2 : The metal ion present in Vitamin B12 is",
+                      "3": "3 : Potassium is extracted by the electrolysis of",
+                      "4": "4 : Which of the following has a fundamental unit only",
+                      "5": "5 : Which one is not a primary greenhouse gases in the Earth's atmosphere",
+                      "6": "6 : The length of double bond is _______ than single bond",
+                      "7": "7 : In a Carbonyl group a carbon atom makes double bond with",
+                      "8": "8 : How many atoms of oxygen are in a glucose molecule",
+                      "9": "9 : Which color is produce by Arsenic during flame test",
+                      "10":"10: Which one is the simplest aromatic hydrocarbon"
+              
+                    },
+                {
+                      "1" :{
+                          "a" : "free ions",
+                          "b" : "free atoms",
+                          "c" : "free electrons",
+                          "d" : "free molecules"
+                      },
+                      "2":{
+                          "a" : "Nickel",
+                          "b" : "Cobalt",
+                          "c" : "Iron",
+                          "d" : "Zinc"
+                      },
+                      "3":{
+                          "a" : "KCI",
+                          "b" : "KBr",
+                          "c" : "fused KOH",
+                          "d" : "None of the above"
+                      },
+                      "4":{
+                          "a" : "Time",
+                          "b" : "Force",
+                          "c" : "Volume",
+                          "d" : "Velocity"
+                      },
+                      "5":{
+                        "a" : "Carbon dioxide",
+                        "b" : "Methane",
+                        "c" : "Nitrogen",
+                        "d" : "Ozone"
+                    },
+                    "6":{
+                        "a" : "Shorter",
+                        "b" : "Longer",
+                        "c" : "Of same lenght",
+                        "d" : "None of the above"
+                    },
+                    "7":{
+                        "a" : "Carbon",
+                        "b" : "Oxygen",
+                        "c" : "Hydrogen",
+                        "d" : "None of the above"
+                    },
+                    "8":{
+                        "a" : "3",
+                        "b" : "4",
+                        "c" : "6",
+                        "d" : "10"
+                    },
+                    "9":{
+                        "a" : "Green",
+                        "b" : "Red",
+                        "c" : "Crimson",
+                        "d" : "Blue"
+                    },
+                    "10":{
+                        "a" : "Aspirin",
+                        "b" : "Benzene",
+                        "c" : "Chloride",
+                        "d" : "Picric acid"
+                    }
+                    
+                },
+                {
+                    "1" : "free ions",
+                    "2" : "Cobalt",
+                    "3" : "fused KOH",
+                    "4" : "Time",
+                    "5" : "Nitrogen",
+                    "6" : "Shorter",
+                    "7" : "Oxygen",
+                    "8" : "6",
+                    "9" : "Blue",
+                    "10" : "Benzene"
+                    
+                }
+            
+            ]

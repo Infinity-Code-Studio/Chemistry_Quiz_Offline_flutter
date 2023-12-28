@@ -1,0 +1,97 @@
+[
+  {
+    "1": "1 : Which of the following solutions will have the highest boiling point..?",
+
+    "2": "2 : Sea water is converted into fresh water by using the phenomenon of..?",
+
+    "3": "3 : When glycerine is added to a litre of water, which of the following is observed..?",
+    "4": "4 :THE CHEMICAL FORMULA OF ( Sulfur dioxide ) IS..?",
+
+    "5": "5 :THE CHEMICAL FORMULA OF ( Glycerin ) IS..?",
+
+    "6": "6 :THE CHEMICAL FORMULA OF ( Barium nitrate ) IS.?",
+    "7": "7 : THE SYMBOL ( Sb )  STAND FOR..?",
+    "8": "8 : THE SYMBOL ( La )  STAND FOR..?",
+    "9": "9 : THE SYMBOL ( Ce )  STAND FOR..?",
+    "10": "10 :THE CHEMICAL FORMULA OF( Sulfuric acid )IS..?"
+
+  },
+  {
+    "1": {
+      "a": "1% glucose in water",
+      "b": "1% Sucrose in water",
+      "c": "1% NaCl in water ",
+      "d": "1% CaCly in water"
+    },
+    "2": {
+      "a": "Plasmolysis",
+      "b": "Sedimentation",
+      "c": "Reverse osmosis",
+      "d": "Diffusion"
+    },
+    "3": {
+      "a": "Water evaporates more easily",
+      "b": "The temperature of water increases ",
+      "c": "The freezing point of water is lowered",
+      "d": "The viscosity of water is lowered"
+    },
+    "4": {
+      "a": "SO<sub>2</sub>",
+      "b": "SO<sub>2</sub>H<SUB>3</SUB>",
+      "c": "SO<sub>2</sub>H<sub>4</sub>",
+      "d": "SO<sub>4</sub>"
+    },
+    "5": {
+      "a": "C<sub>3</sub>H<sub>2</sub>O<sub>3</sub>",
+      "b": "C<sub>3</sub>H<sub>8",
+      "c": "C<sub>3</sub>H<sub>4</sub>O<sub>3</sub>",
+      "d": "C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>"
+    },
+    "6": {
+      "a": "Ba<sub>2</sub>SO<sub>3</sub>",
+      "b": "Ba(NO<sub>3</sub>)<sub>2</sub>",
+      "c": "Ba(NO<sub>3</sub>)<sub>3</sub>",
+      "d": "Ba(NO<sub>4</sub>)<sub>2</sub>"
+    },
+    "7": {
+      "a": "Strontium",
+      "b": "Silver",
+      "c": "Sulfur",
+      "d": "Antimony"
+    },
+    "8": {
+      "a": "Tellurium",
+      "b": "Lanthanum",
+      "c": "Lead",
+      "d": "Lawrencium"
+    },
+    "9": {
+      "a": "Caesium",
+      "b": "Calcium",
+      "c": "Cerium",
+      "d": "Carbon"
+    },
+    "10": {
+      "a": "H<sub>2</sub>O<SUB>4</SUB>",
+      "b": "H<sub>2</sub>SO<SUB>3</SUB>",
+      "c": "H<sub>2</sub>SO<SUB>4</SUB>",
+      "d": "NON OF ABOVE"
+    }
+  },
+  {
+    "1": "1% CaCly in water",
+
+    "2": "Reverse osmosis",
+
+    "3": "The freezing point of water is lowered",
+    "4": "SO<sub>2</sub>",
+
+    "5": "C<sub>3</sub>H<sub>8</sub>O<sub>3</sub>",
+
+    "6": "Ba(NO<sub>3</sub>)<sub>2</sub>",
+    "7": "Antimony",
+    "8": "Lanthanum",
+    "9": "Cerium",
+    "10": "H<sub>2</sub>SO<SUB>4</SUB>"
+  }
+]
